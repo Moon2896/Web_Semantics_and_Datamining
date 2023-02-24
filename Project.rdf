@@ -5,8 +5,13 @@
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3"/>
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:terms="http://purl.org/dc/terms/"
+     xmlns:schema="https://schema.org/"
+     xmlns:untitled-ontology-3="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3">
+        <owl:imports rdf:resource="https://schema.org/"/>
+    </owl:Ontology>
     
 
 
@@ -35,6 +40,15 @@
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#isDirectorOf">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Person"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#isProjectedAt -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#isProjectedAt">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Theater"/>
     </owl:ObjectProperty>
     
 
@@ -151,22 +165,85 @@
 
     <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie">
+        <owl:equivalentClass rdf:resource="https://schema.org/Movie"/>
+    </owl:Class>
     
 
 
     <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Person -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Person"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Person">
+        <owl:equivalentClass rdf:resource="https://schema.org/Person"/>
+    </owl:Class>
     
 
 
     <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Theater -->
 
-    <owl:Class rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Theater"/>
+    <owl:Class rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Theater">
+        <owl:equivalentClass rdf:resource="https://schema.org/MovieTheater"/>
+    </owl:Class>
+    
+
+
+    <!-- https://schema.org/Movie -->
+
+    <rdf:Description rdf:about="https://schema.org/Movie"/>
+    
+
+
+    <!-- https://schema.org/MovieTheater -->
+
+    <rdf:Description rdf:about="https://schema.org/MovieTheater"/>
+    
+
+
+    <!-- https://schema.org/Person -->
+
+    <rdf:Description rdf:about="https://schema.org/Person"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie_KillBill -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie_KillBill">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie"/>
+        <untitled-ontology-3:genre>Action</untitled-ontology-3:genre>
+        <untitled-ontology-3:genre>Crime</untitled-ontology-3:genre>
+        <untitled-ontology-3:genre>Thriller</untitled-ontology-3:genre>
+        <untitled-ontology-3:language>English</untitled-ontology-3:language>
+        <untitled-ontology-3:title>Kill Bill Volume 1</untitled-ontology-3:title>
+        <untitled-ontology-3:yearOfRelease rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2003</untitled-ontology-3:yearOfRelease>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie_PulpFiction -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie_PulpFiction">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie"/>
+        <untitled-ontology-3:country>USA</untitled-ontology-3:country>
+        <untitled-ontology-3:genre>Crime</untitled-ontology-3:genre>
+        <untitled-ontology-3:genre>Thriller</untitled-ontology-3:genre>
+        <untitled-ontology-3:language>English</untitled-ontology-3:language>
+        <untitled-ontology-3:title>Pulp Fiction</untitled-ontology-3:title>
+        <untitled-ontology-3:yearOfRelease rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1994</untitled-ontology-3:yearOfRelease>
+    </owl:NamedIndividual>
 </rdf:RDF>
 
 
 
-<!-- Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
 
