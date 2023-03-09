@@ -188,6 +188,15 @@
     
 
 
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#yearReleased -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#yearReleased">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
@@ -295,6 +304,31 @@
     
 
 
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#CasinoRoyale -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#CasinoRoyale">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie"/>
+        <untitled-ontology-3:isProjectedAt rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#UGCLesHalles"/>
+        <untitled-ontology-3:country rdf:datatype="http://www.w3.org/2001/XMLSchema#string">United Kingdom</untitled-ontology-3:country>
+        <untitled-ontology-3:genre rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Adventure Thriller</untitled-ontology-3:genre>
+        <untitled-ontology-3:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</untitled-ontology-3:language>
+        <untitled-ontology-3:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Casino Royale</untitled-ontology-3:title>
+        <untitled-ontology-3:yearReleased rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2006</untitled-ontology-3:yearReleased>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#DanielCraig -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#DanielCraig">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Male"/>
+        <untitled-ontology-3:isActorOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#CasinoRoyale"/>
+        <untitled-ontology-3:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">55</untitled-ontology-3:age>
+        <untitled-ontology-3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Daniel Craig</untitled-ontology-3:name>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#JohnTravolta -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#JohnTravolta">
@@ -314,6 +348,27 @@
         <untitled-ontology-3:genre rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Action Crime Thriller</untitled-ontology-3:genre>
         <untitled-ontology-3:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</untitled-ontology-3:language>
         <untitled-ontology-3:title rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kill Bill</untitled-ontology-3:title>
+        <untitled-ontology-3:yearReleased rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2003</untitled-ontology-3:yearReleased>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#MartinCampbell -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#MartinCampbell">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Male"/>
+        <untitled-ontology-3:isDirectorOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#CasinoRoyale"/>
+        <untitled-ontology-3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Martin Campbell</untitled-ontology-3:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#NealPurvis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#NealPurvis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Male"/>
+        <untitled-ontology-3:isWriterOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#CasinoRoyale"/>
+        <untitled-ontology-3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Neal Purvis</untitled-ontology-3:name>
     </owl:NamedIndividual>
     
 
@@ -323,10 +378,12 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#PulpFiction">
         <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Movie"/>
         <untitled-ontology-3:isProjectedAt rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#UGCLaDefense"/>
+        <untitled-ontology-3:isProjectedAt rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#UGCLesHalles"/>
         <untitled-ontology-3:country rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USA</untitled-ontology-3:country>
         <untitled-ontology-3:genre rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crime Thriller</untitled-ontology-3:genre>
         <untitled-ontology-3:language rdf:datatype="http://www.w3.org/2001/XMLSchema#string">English</untitled-ontology-3:language>
         <untitled-ontology-3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pulp Fiction</untitled-ontology-3:name>
+        <untitled-ontology-3:yearReleased rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1994</untitled-ontology-3:yearReleased>
     </owl:NamedIndividual>
     
 
@@ -351,7 +408,16 @@
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#UGCLaDefense">
         <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Theater"/>
+        <untitled-ontology-3:isProjecting rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#KillBill"/>
         <untitled-ontology-3:theaterName rdf:datatype="http://www.w3.org/2001/XMLSchema#string">UGC la Defense</untitled-ontology-3:theaterName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#UGCLesHalles -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#UGCLesHalles">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Theater"/>
     </owl:NamedIndividual>
     
 
