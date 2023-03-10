@@ -330,6 +330,18 @@
     
 
 
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#ChrisEvans -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#ChrisEvans">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Male"/>
+        <untitled-ontology-3:isActorOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#KnivesOut"/>
+        <untitled-ontology-3:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">41</untitled-ontology-3:age>
+        <untitled-ontology-3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Chris Evans</untitled-ontology-3:name>
+        <untitled-ontology-3:nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">American</untitled-ontology-3:nationality>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#DanielCraig -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#DanielCraig">
