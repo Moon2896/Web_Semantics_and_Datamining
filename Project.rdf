@@ -304,6 +304,18 @@
     
 
 
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#AnaDeArmas -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#AnaDeArmas">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#Female"/>
+        <untitled-ontology-3:isActorOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#KnivesOut"/>
+        <untitled-ontology-3:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">34</untitled-ontology-3:age>
+        <untitled-ontology-3:name rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ana de Armas</untitled-ontology-3:name>
+        <untitled-ontology-3:nationality rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cuba</untitled-ontology-3:nationality>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#CasinoRoyale -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/1/untitled-ontology-3#CasinoRoyale">
