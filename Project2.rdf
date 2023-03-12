@@ -25,6 +25,7 @@
     <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isActorOf -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isActorOf">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isPlayedBy"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Movie"/>
     </owl:ObjectProperty>
@@ -34,6 +35,7 @@
     <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isDirectorOf -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isDirectorOf">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#wasDirectedBy"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Movie"/>
     </owl:ObjectProperty>
@@ -52,8 +54,18 @@
     <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isProjectedAt -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isProjectedAt">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isProjecting"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Movie"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Theater"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isProjecting -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isProjecting">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Theater"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Movie"/>
     </owl:ObjectProperty>
     
 
@@ -61,8 +73,27 @@
     <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isWriterOf -->
 
     <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#isWriterOf">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#wasWrittenBy"/>
         <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
         <rdfs:range rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Movie"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#wasDirectedBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#wasDirectedBy">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Movie"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#wasWrittenBy -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#wasWrittenBy">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Movie"/>
+        <rdfs:range rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
     </owl:ObjectProperty>
     
 
@@ -261,6 +292,43 @@
     
 
 
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#CasinoRoyale -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#CasinoRoyale">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Movie"/>
+        <untitled-ontology-9:isProjectedAt rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#UGCLesHalles"/>
+        <untitled-ontology-9:country>UK</untitled-ontology-9:country>
+        <untitled-ontology-9:genre>Action Adventure Thriller</untitled-ontology-9:genre>
+        <untitled-ontology-9:language>English</untitled-ontology-9:language>
+        <untitled-ontology-9:title>Casino Royale</untitled-ontology-9:title>
+        <untitled-ontology-9:year rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2006</untitled-ontology-9:year>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#DanielCraig -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#DanielCraig">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
+        <untitled-ontology-9:isActorOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#CasinoRoyale"/>
+        <untitled-ontology-9:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">55</untitled-ontology-9:age>
+        <untitled-ontology-9:name>Daniel Craig</untitled-ontology-9:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#JohnTravolta -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#JohnTravolta">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
+        <untitled-ontology-9:isActorOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#PulpFiction"/>
+        <untitled-ontology-9:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">59</untitled-ontology-9:age>
+        <untitled-ontology-9:name>American</untitled-ontology-9:name>
+        <untitled-ontology-9:name>John Travolta</untitled-ontology-9:name>
+    </owl:NamedIndividual>
+    
+
+
     <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#KillBill -->
 
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#KillBill">
@@ -270,6 +338,26 @@
         <untitled-ontology-9:language>English</untitled-ontology-9:language>
         <untitled-ontology-9:title>Kill Bill</untitled-ontology-9:title>
         <untitled-ontology-9:year rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2003</untitled-ontology-9:year>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#MartinCampbell -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#MartinCampbell">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
+        <untitled-ontology-9:isDirectorOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#CasinoRoyale"/>
+        <untitled-ontology-9:name>Martin Campbell</untitled-ontology-9:name>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#NealPuvis -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#NealPuvis">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
+        <untitled-ontology-9:isWriterOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#CasinoRoyale"/>
+        <untitled-ontology-9:name>Neal Puvis</untitled-ontology-9:name>
     </owl:NamedIndividual>
     
 
@@ -309,6 +397,27 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#UGCLaDefense">
         <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Theater"/>
         <untitled-ontology-9:theaterName>UGC La Defense</untitled-ontology-9:theaterName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#UGCLesHalles -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#UGCLesHalles">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Theater"/>
+        <untitled-ontology-9:theaterName>UGC Les Halles</untitled-ontology-9:theaterName>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#UmaThurman -->
+
+    <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#UmaThurman">
+        <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
+        <untitled-ontology-9:isActorOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#PulpFiction"/>
+        <untitled-ontology-9:isWriterOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#KillBill"/>
+        <untitled-ontology-9:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">43</untitled-ontology-9:age>
+        <untitled-ontology-9:name>Uma Thurman</untitled-ontology-9:name>
     </owl:NamedIndividual>
 </rdf:RDF>
 
