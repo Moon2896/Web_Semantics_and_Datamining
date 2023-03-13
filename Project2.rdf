@@ -127,6 +127,15 @@
     
 
 
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#endDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#endDate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#BroadcastTime"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
     <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#genre -->
 
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#genre">
@@ -159,6 +168,15 @@
     <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#nationality">
         <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#startDate -->
+
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#startDate">
+        <rdfs:domain rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#BroadcastTime"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
     </owl:DatatypeProperty>
     
 
@@ -216,6 +234,14 @@
             </owl:Class>
         </owl:equivalentClass>
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Person"/>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#BroadcastTime -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#BroadcastTime">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/untitled-ontology-9#Theater"/>
     </owl:Class>
     
 
