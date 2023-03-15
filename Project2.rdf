@@ -482,7 +482,9 @@
         <webSem:inTheDatesOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#BTime1"/>
         <webSem:isProjectedAt rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#UGCLesHalles"/>
         <webSem:country>UK</webSem:country>
-        <webSem:genre>Action Adventure Thriller</webSem:genre>
+        <webSem:genre>Action</webSem:genre>
+        <webSem:genre rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Adventure</webSem:genre>
+        <webSem:genre rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thriller</webSem:genre>
         <webSem:language>English</webSem:language>
         <webSem:title>Casino Royale</webSem:title>
         <webSem:year rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2006</webSem:year>
@@ -507,8 +509,8 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Person"/>
         <webSem:isActorOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#PulpFiction"/>
         <webSem:age rdf:datatype="http://www.w3.org/2001/XMLSchema#int">59</webSem:age>
-        <webSem:name>American</webSem:name>
         <webSem:name>John Travolta</webSem:name>
+        <webSem:nationality>American</webSem:nationality>
     </owl:NamedIndividual>
     
 
@@ -518,7 +520,9 @@
     <owl:NamedIndividual rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#KillBill">
         <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Movie"/>
         <webSem:country>USA</webSem:country>
-        <webSem:genre>Action Crime Thriller</webSem:genre>
+        <webSem:genre>Action</webSem:genre>
+        <webSem:genre rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Crime</webSem:genre>
+        <webSem:genre rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thriller</webSem:genre>
         <webSem:language>English</webSem:language>
         <webSem:title>Kill Bill</webSem:title>
         <webSem:year rdf:datatype="http://www.w3.org/2001/XMLSchema#int">2003</webSem:year>
@@ -552,7 +556,8 @@
         <rdf:type rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Movie"/>
         <webSem:isProjectedAt rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#UGCLaDefense"/>
         <webSem:country>USA</webSem:country>
-        <webSem:genre>Crime Thriller</webSem:genre>
+        <webSem:genre>Crime</webSem:genre>
+        <webSem:genre rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thriller</webSem:genre>
         <webSem:language>English</webSem:language>
         <webSem:title>Pulp Fiction</webSem:title>
         <webSem:year rdf:datatype="http://www.w3.org/2001/XMLSchema#int">1994</webSem:year>
