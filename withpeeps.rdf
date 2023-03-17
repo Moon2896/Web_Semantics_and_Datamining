@@ -396,6 +396,14 @@
     
 
 
+    <!-- http://www.semanticweb.org/marya/ontologies/2023/2/webSem#ActorDirector -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#ActorDirector">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Actor"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.semanticweb.org/marya/ontologies/2023/2/webSem#BroadcastTime -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#BroadcastTime">
@@ -39708,10 +39716,16 @@
     ///////////////////////////////////////////////////////////////////////////////////////
      -->
 
-    <rdf:Description rdf:about="x">
+    <rdf:Description rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/x">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
-    <rdf:Description rdf:about="a">
+    <rdf:Description rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/a">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#m">
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#x">
         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Variable"/>
     </rdf:Description>
     <rdf:Description>
@@ -39726,7 +39740,7 @@
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
                         <swrl:classPredicate rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Actor"/>
-                        <swrl:argument1 rdf:resource="x"/>
+                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/x"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest>
@@ -39736,8 +39750,8 @@
                             <rdf:Description>
                                 <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom"/>
                                 <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#age"/>
-                                <swrl:argument1 rdf:resource="x"/>
-                                <swrl:argument2 rdf:resource="a"/>
+                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/x"/>
+                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/a"/>
                             </rdf:Description>
                         </rdf:first>
                         <rdf:rest>
@@ -39750,7 +39764,7 @@
                                         <swrl:arguments>
                                             <rdf:Description>
                                                 <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
-                                                <rdf:first rdf:resource="a"/>
+                                                <rdf:first rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/a"/>
                                                 <rdf:rest>
                                                     <rdf:Description>
                                                         <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#List"/>
@@ -39776,7 +39790,53 @@
                     <rdf:Description>
                         <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
                         <swrl:classPredicate rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#OldActor"/>
-                        <swrl:argument1 rdf:resource="x"/>
+                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/x"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+            </rdf:Description>
+        </swrl:head>
+    </rdf:Description>
+    <rdf:Description>
+        <swrla:isRuleEnabled rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</swrla:isRuleEnabled>
+        <rdfs:comment></rdfs:comment>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">ActorDirector</rdfs:label>
+        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#Imp"/>
+        <swrl:body>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                        <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#wasDirectedBy"/>
+                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#m"/>
+                        <swrl:argument2 rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#x"/>
+                    </rdf:Description>
+                </rdf:first>
+                <rdf:rest>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                        <rdf:first>
+                            <rdf:Description>
+                                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#IndividualPropertyAtom"/>
+                                <swrl:propertyPredicate rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#isPlayedBy"/>
+                                <swrl:argument1 rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#m"/>
+                                <swrl:argument2 rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#x"/>
+                            </rdf:Description>
+                        </rdf:first>
+                        <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
+                    </rdf:Description>
+                </rdf:rest>
+            </rdf:Description>
+        </swrl:body>
+        <swrl:head>
+            <rdf:Description>
+                <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#AtomList"/>
+                <rdf:first>
+                    <rdf:Description>
+                        <rdf:type rdf:resource="http://www.w3.org/2003/11/swrl#ClassAtom"/>
+                        <swrl:classPredicate rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#ActorDirector"/>
+                        <swrl:argument1 rdf:resource="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#x"/>
                     </rdf:Description>
                 </rdf:first>
                 <rdf:rest rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#nil"/>
@@ -39787,5 +39847,5 @@
 
 
 
-<!-- Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi -->
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
 
