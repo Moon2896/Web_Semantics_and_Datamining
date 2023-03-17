@@ -33,10 +33,16 @@
         <Class IRI="#Director"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#FrenchMovie"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Movie"/>
     </Declaration>
     <Declaration>
         <Class IRI="#OldActor"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OldMovie"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Person"/>
@@ -46,6 +52,9 @@
     </Declaration>
     <Declaration>
         <Class IRI="#Writer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#hasActedWith"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#hasBroadcastTimeOf"/>
@@ -9906,8 +9915,16 @@
         <Class IRI="#Person"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#FrenchMovie"/>
+        <Class IRI="#Movie"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#OldActor"/>
         <Class IRI="#Actor"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OldMovie"/>
+        <Class IRI="#Movie"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Writer"/>
@@ -89493,6 +89510,13 @@
         <ObjectProperty IRI="#isWriterOf"/>
         <ObjectProperty IRI="#wasWrittenBy"/>
     </InverseObjectProperties>
+    <SymmetricObjectProperty>
+        <ObjectProperty IRI="#hasActedWith"/>
+    </SymmetricObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#hasActedWith"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyDomain>
     <ObjectPropertyDomain>
         <ObjectProperty IRI="#hasBroadcastTimeOf"/>
         <Class IRI="#Theater"/>
@@ -89537,6 +89561,10 @@
         <ObjectProperty IRI="#wasWrittenBy"/>
         <Class IRI="#Movie"/>
     </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#hasActedWith"/>
+        <Class IRI="#Person"/>
+    </ObjectPropertyRange>
     <ObjectPropertyRange>
         <ObjectProperty IRI="#hasBroadcastTimeOf"/>
         <Class IRI="#BroadcastTime"/>
@@ -89804,38 +89832,6 @@
             <ClassAtom>
                 <Class IRI="#OldActor"/>
                 <Variable IRI="http://www.semanticweb.org/marya/ontologies/2023/2/x"/>
-            </ClassAtom>
-        </Head>
-    </DLSafeRule>
-    <DLSafeRule>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="swrla:isRuleEnabled"/>
-            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#boolean">true</Literal>
-        </Annotation>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:comment"/>
-            <Literal></Literal>
-        </Annotation>
-        <Annotation>
-            <AnnotationProperty abbreviatedIRI="rdfs:label"/>
-            <Literal>ActorDirector</Literal>
-        </Annotation>
-        <Body>
-            <ObjectPropertyAtom>
-                <ObjectProperty IRI="#wasDirectedBy"/>
-                <Variable IRI="#m"/>
-                <Variable IRI="#x"/>
-            </ObjectPropertyAtom>
-            <ObjectPropertyAtom>
-                <ObjectProperty IRI="#isPlayedBy"/>
-                <Variable IRI="#m"/>
-                <Variable IRI="#x"/>
-            </ObjectPropertyAtom>
-        </Body>
-        <Head>
-            <ClassAtom>
-                <Class IRI="#ActorDirector"/>
-                <Variable IRI="#x"/>
             </ClassAtom>
         </Head>
     </DLSafeRule>
