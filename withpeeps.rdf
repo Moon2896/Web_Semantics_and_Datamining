@@ -6,6 +6,54 @@
 
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem> a owl:Ontology .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#'83> a webSem:Movie ;
+    webSem:title "'83" ;
+    webSem:year "2021"^^xsd:int .
+
+webSem:12AngryMen a webSem:Movie ;
+    webSem:title "12 Angry Men" ;
+    webSem:year "1957"^^xsd:int .
+
+webSem:12Monkeys a webSem:Movie ;
+    webSem:title "12 Monkeys" ;
+    webSem:year "1995"^^xsd:int .
+
+webSem:12YearsaSlave a webSem:Movie ;
+    webSem:title "12 Years a Slave" ;
+    webSem:year "2013"^^xsd:int .
+
+webSem:1917 a webSem:Movie ;
+    webSem:title "1917" ;
+    webSem:year "2019"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#2001:ASpaceOdyssey> a webSem:Movie ;
+    webSem:title "2001: A Space Odyssey" ;
+    webSem:year "1968"^^xsd:int .
+
+webSem:28DaysLater a webSem:Movie ;
+    webSem:title "28 Days Later" ;
+    webSem:year "2002"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#3:10toYuma> a webSem:Movie ;
+    webSem:title "3:10 to Yuma" ;
+    webSem:year "2007"^^xsd:int .
+
+webSem:3Idiots a webSem:Movie ;
+    webSem:title "3 Idiots" ;
+    webSem:year "2009"^^xsd:int .
+
+webSem:42 a webSem:Movie ;
+    webSem:title "42" ;
+    webSem:year "2013"^^xsd:int .
+
+webSem:777Charlie a webSem:Movie ;
+    webSem:title "777 Charlie" ;
+    webSem:year "2022"^^xsd:int .
+
+webSem:96 a webSem:Movie ;
+    webSem:title "96" ;
+    webSem:year "2018"^^xsd:int .
+
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#A.B.GuthrieJr.> a webSem:Person ;
     webSem:name "A.B. Guthrie Jr." .
 
@@ -14,6 +62,62 @@ webSem:A.B.JawdatEl-Sahhar a webSem:Person ;
 
 webSem:A.E.Southon a webSem:Person ;
     webSem:name "A.E. Southon" .
+
+webSem:ABeautifulMind a webSem:Movie ;
+    webSem:title "A Beautiful Mind" ;
+    webSem:year "2001"^^xsd:int .
+
+webSem:AClockworkOrange a webSem:Movie ;
+    webSem:title "A Clockwork Orange" ;
+    webSem:year "1971"^^xsd:int .
+
+webSem:AFistfulofDollars a webSem:Movie ;
+    webSem:title "A Fistful of Dollars" ;
+    webSem:year "1964"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#AHardDay'sNight> a webSem:Movie ;
+    webSem:title "A Hard Day's Night" ;
+    webSem:year "1964"^^xsd:int .
+
+webSem:ALeagueofTheirOwn a webSem:Movie ;
+    webSem:title "A League of Their Own" ;
+    webSem:year "1992"^^xsd:int .
+
+webSem:AManforAllSeasons a webSem:Movie ;
+    webSem:title "A Man for All Seasons" ;
+    webSem:year "1966"^^xsd:int .
+
+webSem:ANightattheOpera a webSem:Movie ;
+    webSem:title "A Night at the Opera" ;
+    webSem:year "1935"^^xsd:int .
+
+webSem:AQuietPlace a webSem:Movie ;
+    webSem:title "A Quiet Place" ;
+    webSem:year "2018"^^xsd:int .
+
+webSem:ASeparation a webSem:Movie ;
+    webSem:title "A Separation" ;
+    webSem:year "2011"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#ASilentVoice:TheMovie> a webSem:Movie ;
+    webSem:title "A Silent Voice: The Movie" ;
+    webSem:year "2016"^^xsd:int .
+
+webSem:AStarIsBorn a webSem:Movie ;
+    webSem:title "A Star Is Born" ;
+    webSem:year "2018"^^xsd:int .
+
+webSem:ATaxiDriver a webSem:Movie ;
+    webSem:title "A Taxi Driver" ;
+    webSem:year "2017"^^xsd:int .
+
+webSem:AWednesday a webSem:Movie ;
+    webSem:title "A Wednesday" ;
+    webSem:year "2008"^^xsd:int .
+
+webSem:AWomanUndertheInfluence a webSem:Movie ;
+    webSem:title "A Woman Under the Influence" ;
+    webSem:year "1974"^^xsd:int .
 
 webSem:AamilKeeyanKhan a webSem:Person ;
     webSem:name "Aamil Keeyan Khan" .
@@ -56,6 +160,10 @@ webSem:AbhishekPathak a webSem:Person ;
 
 webSem:AbrahamMarder a webSem:Person ;
     webSem:name "Abraham Marder" .
+
+webSem:AceintheHole a webSem:Movie ;
+    webSem:title "Ace in the Hole" ;
+    webSem:year "1951"^^xsd:int .
 
 webSem:AchyuthKumar a webSem:Person ;
     webSem:name "Achyuth Kumar" .
@@ -130,6 +238,10 @@ webSem:AgenoreIncrocci a webSem:Person ;
 webSem:AgnieszkaHolland a webSem:Person ;
     webSem:name "Agnieszka Holland" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Aguirre,theWrathofGod> a webSem:Movie ;
+    webSem:title "Aguirre, the Wrath of God" ;
+    webSem:year "1972"^^xsd:int .
+
 webSem:AgustínAlmodóvar a webSem:Person ;
     webSem:name "Agustín Almodóvar" .
 
@@ -141,6 +253,10 @@ webSem:AidanGillen a webSem:Person ;
 
 webSem:AidanQuinn a webSem:Person ;
     webSem:name "Aidan Quinn" .
+
+webSem:Airlift a webSem:Movie ;
+    webSem:title "Airlift" ;
+    webSem:year "2016"^^xsd:int .
 
 webSem:AjayDevgn a webSem:Person ;
     webSem:name "Ajay Devgn" .
@@ -159,6 +275,10 @@ webSem:AkhileshJaiswal a webSem:Person ;
 
 webSem:AkioÔtsuka a webSem:Person ;
     webSem:name "Akio Ôtsuka" .
+
+webSem:Akira a webSem:Movie ;
+    webSem:title "Akira" ;
+    webSem:year "1988"^^xsd:int .
 
 webSem:AkiraIshihama a webSem:Person ;
     webSem:name "Akira Ishihama" .
@@ -189,6 +309,10 @@ webSem:AlErnestGarcia a webSem:Person ;
 
 webSem:AlPacino a webSem:Person ;
     webSem:name "Al Pacino" .
+
+webSem:Aladdin a webSem:Movie ;
+    webSem:title "Aladdin" ;
+    webSem:year "1992"^^xsd:int .
 
 webSem:AlainBoublil a webSem:Person ;
     webSem:name "Alain Boublil" .
@@ -316,6 +440,14 @@ webSem:AliaBhatt a webSem:Person ;
 webSem:AlidaValli a webSem:Person ;
     webSem:name "Alida Valli" .
 
+webSem:Alien a webSem:Movie ;
+    webSem:title "Alien" ;
+    webSem:year "1979"^^xsd:int .
+
+webSem:Aliens a webSem:Movie ;
+    webSem:title "Aliens" ;
+    webSem:year "1986"^^xsd:int .
+
 webSem:AlisaFreyndlikh a webSem:Person ;
     webSem:name "Alisa Freyndlikh" .
 
@@ -324,6 +456,14 @@ webSem:AlisonCrosbie a webSem:Person ;
 
 webSem:AlisonDoody a webSem:Person ;
     webSem:name "Alison Doody" .
+
+webSem:AllAboutEve a webSem:Movie ;
+    webSem:title "All About Eve" ;
+    webSem:year "1950"^^xsd:int .
+
+webSem:AllThatJazz a webSem:Movie ;
+    webSem:title "All That Jazz" ;
+    webSem:year "1979"^^xsd:int .
 
 webSem:AllisonJanney a webSem:Person ;
     webSem:name "Allison Janney" .
@@ -334,8 +474,16 @@ webSem:AllisonSchroeder a webSem:Person ;
 webSem:AllisonWilliams a webSem:Person ;
     webSem:name "Allison Williams" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#AllthePresident'sMen> a webSem:Movie ;
+    webSem:title "All the President's Men" ;
+    webSem:year "1976"^^xsd:int .
+
 webSem:AlmaReville a webSem:Person ;
     webSem:name "Alma Reville" .
+
+webSem:AlmostFamous a webSem:Movie ;
+    webSem:title "Almost Famous" ;
+    webSem:year "2000"^^xsd:int .
 
 webSem:AlokJha a webSem:Person ;
     webSem:name "Alok Jha" .
@@ -343,8 +491,24 @@ webSem:AlokJha a webSem:Person ;
 webSem:AlunOwen a webSem:Person ;
     webSem:name "Alun Owen" .
 
+webSem:Amadeus a webSem:Movie ;
+    webSem:title "Amadeus" ;
+    webSem:year "1984"^^xsd:int .
+
 webSem:AmalaPaul a webSem:Person ;
     webSem:name "Amala Paul" .
+
+webSem:AmericanBeauty a webSem:Movie ;
+    webSem:title "American Beauty" ;
+    webSem:year "1999"^^xsd:int .
+
+webSem:AmericanHistoryX a webSem:Movie ;
+    webSem:title "American History X" ;
+    webSem:year "1998"^^xsd:int .
+
+webSem:AmericanPsycho a webSem:Movie ;
+    webSem:title "American Psycho" ;
+    webSem:year "2000"^^xsd:int .
 
 webSem:AmirFarrokhHashemian a webSem:Person ;
     webSem:name "Amir Farrokh Hashemian" .
@@ -361,6 +525,10 @@ webSem:AmitabhRezaChowdhury a webSem:Person ;
 webSem:AmoleGupte a webSem:Person ;
     webSem:name "Amole Gupte" .
 
+webSem:AmoresPerros a webSem:Movie ;
+    webSem:title "Amores Perros" ;
+    webSem:year "2000"^^xsd:int .
+
 webSem:AmyAdams a webSem:Person ;
     webSem:name "Amy Adams" .
 
@@ -370,11 +538,23 @@ webSem:AmyPoehler a webSem:Person ;
 webSem:AmyRyan a webSem:Person ;
     webSem:name "Amy Ryan" .
 
+webSem:Amélie a webSem:Movie ;
+    webSem:title "Amélie" ;
+    webSem:year "2001"^^xsd:int .
+
+webSem:AnAmericanWerewolfinLondon a webSem:Movie ;
+    webSem:title "An American Werewolf in London" ;
+    webSem:year "1981"^^xsd:int .
+
 webSem:AnadeArmas a webSem:Person ;
     webSem:name "Ana de Armas" .
 
 webSem:AnamBiswas a webSem:Person ;
     webSem:name "Anam Biswas" .
+
+webSem:Anand a webSem:Movie ;
+    webSem:title "Anand" ;
+    webSem:year "1971"^^xsd:int .
 
 webSem:AnandGandhi a webSem:Person ;
     webSem:name "Anand Gandhi" .
@@ -385,6 +565,10 @@ webSem:AnantMahadevan a webSem:Person ;
 webSem:AnatoliySolonitsyn a webSem:Person ;
     webSem:name "Anatoliy Solonitsyn" .
 
+webSem:Andhadhun a webSem:Movie ;
+    webSem:title "Andhadhun" ;
+    webSem:year "2018"^^xsd:int .
+
 webSem:AndieMacDowell a webSem:Person ;
     webSem:name "Andie MacDowell" .
 
@@ -393,6 +577,10 @@ webSem:AndreaBerloff a webSem:Person ;
 
 webSem:AndreaEckert a webSem:Person ;
     webSem:name "Andrea Eckert" .
+
+webSem:AndreiRublev a webSem:Movie ;
+    webSem:title "Andrei Rublev" ;
+    webSem:year "1966"^^xsd:int .
 
 webSem:AndreiTarkovsky a webSem:Person ;
     webSem:name "Andrei Tarkovsky" .
@@ -577,6 +765,14 @@ webSem:AoiYûki a webSem:Person ;
 webSem:AparnaBalamurali a webSem:Person ;
     webSem:name "Aparna Balamurali" .
 
+webSem:ApocalypseNow a webSem:Movie ;
+    webSem:title "Apocalypse Now" ;
+    webSem:year "1979"^^xsd:int .
+
+webSem:Apollo13 a webSem:Movie ;
+    webSem:title "Apollo 13" ;
+    webSem:year "1995"^^xsd:int .
+
 webSem:AriadnaGil a webSem:Person ;
     webSem:name "Ariadna Gil" .
 
@@ -600,6 +796,10 @@ webSem:ArnoldPerl a webSem:Person ;
 
 webSem:ArnoldSchwarzenegger a webSem:Person ;
     webSem:name "Arnold Schwarzenegger" .
+
+webSem:Arrival a webSem:Movie ;
+    webSem:title "Arrival" ;
+    webSem:year "2016"^^xsd:int .
 
 webSem:ArseniyTarkovskiy a webSem:Person ;
     webSem:name "Arseniy Tarkovskiy" .
@@ -625,6 +825,10 @@ webSem:ArthurRosson a webSem:Person ;
 webSem:ArthurSheekman a webSem:Person ;
     webSem:name "Arthur Sheekman" .
 
+webSem:Article15 a webSem:Movie ;
+    webSem:title "Article 15" ;
+    webSem:year "2019"^^xsd:int .
+
 webSem:AsgharFarhadi a webSem:Person ;
     webSem:name "Asghar Farhadi" .
 
@@ -636,6 +840,10 @@ webSem:AshaSharath a webSem:Person ;
 
 webSem:AshutoshGowariker a webSem:Person ;
     webSem:name "Ashutosh Gowariker" .
+
+webSem:Asuran a webSem:Movie ;
+    webSem:title "Asuran" ;
+    webSem:year "2019"^^xsd:int .
 
 webSem:AtsukoTanaka a webSem:Person ;
     webSem:name "Atsuko Tanaka" .
@@ -652,8 +860,28 @@ webSem:AudreyTautou a webSem:Person ;
 webSem:AunjanueEllis a webSem:Person ;
     webSem:name "Aunjanue Ellis" .
 
+webSem:AutumnSonata a webSem:Movie ;
+    webSem:title "Autumn Sonata" ;
+    webSem:year "1978"^^xsd:int .
+
+webSem:Avatar a webSem:Movie ;
+    webSem:title "Avatar" ;
+    webSem:year "2009"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Avengers:Endgame> a webSem:Movie ;
+    webSem:title "Avengers: Endgame" ;
+    webSem:year "2019"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Avengers:InfinityWar> a webSem:Movie ;
+    webSem:title "Avengers: Infinity War" ;
+    webSem:year "2018"^^xsd:int .
+
 webSem:AyanoShiraishi a webSem:Person ;
     webSem:name "Ayano Shiraishi" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Ayla:TheDaughterofWar> a webSem:Movie ;
+    webSem:title "Ayla: The Daughter of War" ;
+    webSem:year "2017"^^xsd:int .
 
 webSem:AyushmannKhurrana a webSem:Person ;
     webSem:name "Ayushmann Khurrana" .
@@ -672,8 +900,28 @@ webSem:BTime2 a webSem:BroadcastTime,
     webSem:endDate "2023-03-20T00:00:00"^^xsd:dateTime ;
     webSem:startDate "2023-03-08T00:00:00"^^xsd:dateTime .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Baahubali2:TheConclusion> a webSem:Movie ;
+    webSem:title "Baahubali 2: The Conclusion" ;
+    webSem:year "2017"^^xsd:int .
+
+webSem:Baazigar a webSem:Movie ;
+    webSem:title "Baazigar" ;
+    webSem:year "1993"^^xsd:int .
+
 webSem:BabuKshatriya a webSem:Person ;
     webSem:name "Babu Kshatriya" .
+
+webSem:BabyDriver a webSem:Movie ;
+    webSem:title "Baby Driver" ;
+    webSem:year "2017"^^xsd:int .
+
+webSem:BacktotheFuture a webSem:Movie ;
+    webSem:title "Back to the Future" ;
+    webSem:year "1985"^^xsd:int .
+
+webSem:BacktotheFuturePartIII a webSem:Movie ;
+    webSem:title "Back to the Future Part III" ;
+    webSem:year "1990"^^xsd:int .
 
 webSem:BahareSeddiqi a webSem:Person ;
     webSem:name "Bahare Seddiqi" .
@@ -687,6 +935,10 @@ webSem:BarbaraHershey a webSem:Person ;
 webSem:BarbaraStanwyck a webSem:Person ;
     webSem:name "Barbara Stanwyck" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Barfi!> a webSem:Movie ;
+    webSem:title "Barfi!" ;
+    webSem:year "2012"^^xsd:int .
+
 webSem:BarryCook a webSem:Person ;
     webSem:name "Barry Cook" .
 
@@ -696,11 +948,39 @@ webSem:BarryKeoghan a webSem:Person ;
 webSem:BarryLevinson a webSem:Person ;
     webSem:name "Barry Levinson" .
 
+webSem:BarryLyndon a webSem:Movie ;
+    webSem:title "Barry Lyndon" ;
+    webSem:year "1975"^^xsd:int .
+
+webSem:BatmanBegins a webSem:Movie ;
+    webSem:title "Batman Begins" ;
+    webSem:year "2005"^^xsd:int .
+
+webSem:BattleshipPotemkin a webSem:Movie ;
+    webSem:title "Battleship Potemkin" ;
+    webSem:year "1925"^^xsd:int .
+
 webSem:BazLuhrmann a webSem:Person ;
     webSem:name "Baz Luhrmann" .
 
+webSem:BeautyandtheBeast a webSem:Movie ;
+    webSem:title "Beauty and the Beast" ;
+    webSem:year "1991"^^xsd:int .
+
 webSem:BeeVang a webSem:Person ;
     webSem:name "Bee Vang" .
+
+webSem:BeforeSunrise a webSem:Movie ;
+    webSem:title "Before Sunrise" ;
+    webSem:year "1995"^^xsd:int .
+
+webSem:BeforeSunset a webSem:Movie ;
+    webSem:title "Before Sunset" ;
+    webSem:year "2004"^^xsd:int .
+
+webSem:Ben-Hur a webSem:Movie ;
+    webSem:title "Ben-Hur" ;
+    webSem:year "1959"^^xsd:int .
 
 webSem:BenAffleck a webSem:Person ;
     webSem:name "Ben Affleck" .
@@ -759,6 +1039,10 @@ webSem:BettyComden a webSem:Person ;
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#BeverlyD'Angelo> a webSem:Person ;
     webSem:name "Beverly D'Angelo" .
 
+webSem:BhaagMilkhaBhaag a webSem:Movie ;
+    webSem:title "Bhaag Milkha Bhaag" ;
+    webSem:year "2013"^^xsd:int .
+
 webSem:BhaveshMandalia a webSem:Person ;
     webSem:name "Bhavesh Mandalia" .
 
@@ -767,6 +1051,18 @@ webSem:BibhutibhushanBandyopadhyay a webSem:Person ;
 
 webSem:BibiAndersson a webSem:Person ;
     webSem:name "Bibi Andersson" .
+
+webSem:BicycleThieves a webSem:Movie ;
+    webSem:title "Bicycle Thieves" ;
+    webSem:year "1948"^^xsd:int .
+
+webSem:BigFish a webSem:Movie ;
+    webSem:title "Big Fish" ;
+    webSem:year "2003"^^xsd:int .
+
+webSem:BigHero6 a webSem:Movie ;
+    webSem:title "Big Hero 6" ;
+    webSem:year "2014"^^xsd:int .
 
 webSem:BillCondon a webSem:Person ;
     webSem:name "Bill Condon" .
@@ -795,11 +1091,31 @@ webSem:BillyCrudup a webSem:Person ;
 webSem:BillyCrystal a webSem:Person ;
     webSem:name "Billy Crystal" .
 
+webSem:BillyElliot a webSem:Movie ;
+    webSem:title "Billy Elliot" ;
+    webSem:year "2000"^^xsd:int .
+
 webSem:BillyWilder a webSem:Person ;
     webSem:name "Billy Wilder" .
 
 webSem:Björk a webSem:Person ;
     webSem:name "Björk" .
+
+webSem:BlackHawkDown a webSem:Movie ;
+    webSem:title "Black Hawk Down" ;
+    webSem:year "2001"^^xsd:int .
+
+webSem:BladeRunner a webSem:Movie ;
+    webSem:title "Blade Runner" ;
+    webSem:year "1982"^^xsd:int .
+
+webSem:BladeRunner2049 a webSem:Movie ;
+    webSem:title "Blade Runner 2049" ;
+    webSem:year "2017"^^xsd:int .
+
+webSem:BlazingSaddles a webSem:Movie ;
+    webSem:title "Blazing Saddles" ;
+    webSem:year "1974"^^xsd:int .
 
 webSem:BoGoldman a webSem:Person ;
     webSem:name "Bo Goldman" .
@@ -830,6 +1146,10 @@ webSem:BobPeterson a webSem:Person ;
 
 webSem:BobWoodward a webSem:Person ;
     webSem:name "Bob Woodward" .
+
+webSem:BohemianRhapsody a webSem:Movie ;
+    webSem:title "Bohemian Rhapsody" ;
+    webSem:year "2018"^^xsd:int .
 
 webSem:BoluwatifeTreasureBankole a webSem:Person ;
     webSem:name "Boluwatife Treasure Bankole" .
@@ -878,6 +1198,10 @@ webSem:BramStoker a webSem:Person ;
 
 webSem:BrandonLee a webSem:Person ;
     webSem:name "Brandon Lee" .
+
+webSem:Braveheart a webSem:Movie ;
+    webSem:title "Braveheart" ;
+    webSem:year "1995"^^xsd:int .
 
 webSem:BrendaChapman a webSem:Person ;
     webSem:name "Brenda Chapman" .
@@ -960,6 +1284,10 @@ webSem:BurtYoung a webSem:Person ;
 webSem:BusterKeaton a webSem:Person ;
     webSem:name "Buster Keaton" .
 
+webSem:ButchCassidyandtheSundanceKid a webSem:Movie ;
+    webSem:title "Butch Cassidy and the Sundance Kid" ;
+    webSem:year "1969"^^xsd:int .
+
 webSem:ByronHoward a webSem:Person ;
     webSem:name "Byron Howard" .
 
@@ -969,8 +1297,16 @@ webSem:C.H.VijayKumar a webSem:Person ;
 webSem:C.PremKumar a webSem:Person ;
     webSem:name "C. Prem Kumar" .
 
+webSem:CODA a webSem:Movie ;
+    webSem:title "CODA" ;
+    webSem:year "2021"^^xsd:int .
+
 webSem:CabCalloway a webSem:Person ;
     webSem:name "Cab Calloway" .
+
+webSem:Cabaret a webSem:Movie ;
+    webSem:title "Cabaret" ;
+    webSem:year "1972"^^xsd:int .
 
 webSem:CalderWillingham a webSem:Person ;
     webSem:name "Calder Willingham" .
@@ -983,6 +1319,10 @@ webSem:CameronDiaz a webSem:Person ;
 
 webSem:CanUlkay a webSem:Person ;
     webSem:name "Can Ulkay" .
+
+webSem:Capernaum a webSem:Movie ;
+    webSem:title "Capernaum" ;
+    webSem:year "2018"^^xsd:int .
 
 webSem:CareyW.Hayes a webSem:Person ;
     webSem:name "Carey W. Hayes" .
@@ -1047,8 +1387,24 @@ webSem:CaryElwes a webSem:Person ;
 webSem:CaryGrant a webSem:Person ;
     webSem:name "Cary Grant" .
 
+webSem:Casablanca a webSem:Movie ;
+    webSem:title "Casablanca" ;
+    webSem:year "1942"^^xsd:int .
+
 webSem:CaseyAffleck a webSem:Person ;
     webSem:name "Casey Affleck" .
+
+webSem:Casino a webSem:Movie ;
+    webSem:title "Casino" ;
+    webSem:year "1995"^^xsd:int .
+
+webSem:CastleintheSky a webSem:Movie ;
+    webSem:title "Castle in the Sky" ;
+    webSem:year "1986"^^xsd:int .
+
+webSem:CatchMeIfYouCan a webSem:Movie ;
+    webSem:title "Catch Me If You Can" ;
+    webSem:year "2002"^^xsd:int .
 
 webSem:CateBlanchett a webSem:Person ;
     webSem:name "Cate Blanchett" .
@@ -1085,6 +1441,10 @@ webSem:ChadwickBoseman a webSem:Person ;
 
 webSem:ChanchalChowdhury a webSem:Person ;
     webSem:name "Chanchal Chowdhury" .
+
+webSem:Changeling a webSem:Movie ;
+    webSem:title "Changeling" ;
+    webSem:year "2008"^^xsd:int .
 
 webSem:CharlesBrackett a webSem:Person ;
     webSem:name "Charles Brackett" .
@@ -1149,6 +1509,10 @@ webSem:ChazzPalminteri a webSem:Person ;
 webSem:ChetanBhagat a webSem:Person ;
     webSem:name "Chetan Bhagat" .
 
+webSem:Chhichhore a webSem:Movie ;
+    webSem:title "Chhichhore" ;
+    webSem:year "2019"^^xsd:int .
+
 webSem:ChiaraMastroianni a webSem:Person ;
     webSem:name "Chiara Mastroianni" .
 
@@ -1166,6 +1530,14 @@ webSem:ChiekoHigashiyama a webSem:Person ;
 
 webSem:ChikaSakamoto a webSem:Person ;
     webSem:name "Chika Sakamoto" .
+
+webSem:ChildrenofHeaven a webSem:Movie ;
+    webSem:title "Children of Heaven" ;
+    webSem:year "1997"^^xsd:int .
+
+webSem:Chinatown a webSem:Movie ;
+    webSem:title "Chinatown" ;
+    webSem:year "1974"^^xsd:int .
 
 webSem:ChishûRyû a webSem:Person ;
     webSem:name "Chishû Ryû" .
@@ -1299,8 +1671,28 @@ webSem:CiaránHinds a webSem:Person ;
 webSem:CillianMurphy a webSem:Person ;
     webSem:name "Cillian Murphy" .
 
+webSem:CinderellaMan a webSem:Movie ;
+    webSem:title "Cinderella Man" ;
+    webSem:year "2005"^^xsd:int .
+
 webSem:CindyDavis a webSem:Person ;
     webSem:name "Cindy Davis" .
+
+webSem:CinemaParadiso a webSem:Movie ;
+    webSem:title "Cinema Paradiso" ;
+    webSem:year "1988"^^xsd:int .
+
+webSem:CitizenKane a webSem:Movie ;
+    webSem:title "Citizen Kane" ;
+    webSem:year "1941"^^xsd:int .
+
+webSem:CityLights a webSem:Movie ;
+    webSem:title "City Lights" ;
+    webSem:year "1931"^^xsd:int .
+
+webSem:CityofGod a webSem:Movie ;
+    webSem:title "City of God" ;
+    webSem:year "2002"^^xsd:int .
 
 webSem:ClaireForlani a webSem:Person ;
     webSem:name "Claire Forlani" .
@@ -1356,6 +1748,10 @@ webSem:ClintEastwood a webSem:Person ;
 webSem:ClydeBruckman a webSem:Person ;
     webSem:name "Clyde Bruckman" .
 
+webSem:Coco a webSem:Movie ;
+    webSem:title "Coco" ;
+    webSem:year "2017"^^xsd:int .
+
 webSem:ColeenGray a webSem:Person ;
     webSem:name "Coleen Gray" .
 
@@ -1371,11 +1767,23 @@ webSem:ColmFeore a webSem:Person ;
 webSem:ColmMeaney a webSem:Person ;
     webSem:name "Colm Meaney" .
 
+webSem:ComeandSee a webSem:Movie ;
+    webSem:title "Come and See" ;
+    webSem:year "1985"^^xsd:int .
+
 webSem:ConnieNielsen a webSem:Person ;
     webSem:name "Connie Nielsen" .
 
 webSem:ConradVeidt a webSem:Person ;
     webSem:name "Conrad Veidt" .
+
+webSem:Control a webSem:Movie ;
+    webSem:title "Control" ;
+    webSem:year "2007"^^xsd:int .
+
+webSem:CoolHandLuke a webSem:Movie ;
+    webSem:title "Cool Hand Luke" ;
+    webSem:year "1967"^^xsd:int .
 
 webSem:CoreyFeldman a webSem:Person ;
     webSem:name "Corey Feldman" .
@@ -1412,6 +1820,10 @@ webSem:CraigStorper a webSem:Person ;
 
 webSem:CraigT.Nelson a webSem:Person ;
     webSem:name "Craig T. Nelson" .
+
+webSem:Creed a webSem:Movie ;
+    webSem:title "Creed" ;
+    webSem:year "2015"^^xsd:int .
 
 webSem:CressidaCowell a webSem:Person ;
     webSem:name "Cressida Cowell" .
@@ -1478,6 +1890,18 @@ webSem:DanaAndrews a webSem:Person ;
 
 webSem:DanaWynter a webSem:Person ;
     webSem:name "Dana Wynter" .
+
+webSem:DancerintheDark a webSem:Movie ;
+    webSem:title "Dancer in the Dark" ;
+    webSem:year "2000"^^xsd:int .
+
+webSem:DanceswithWolves a webSem:Movie ;
+    webSem:title "Dances with Wolves" ;
+    webSem:year "1990"^^xsd:int .
+
+webSem:Dangal a webSem:Movie ;
+    webSem:title "Dangal" ;
+    webSem:year "2016"^^xsd:int .
 
 webSem:DanielBrühl a webSem:Person ;
     webSem:name "Daniel Brühl" .
@@ -1671,6 +2095,18 @@ webSem:DavisGrubb a webSem:Person ;
 webSem:DavorDujmovic a webSem:Person ;
     webSem:name "Davor Dujmovic" .
 
+webSem:DawnoftheDead a webSem:Movie ;
+    webSem:title "Dawn of the Dead" ;
+    webSem:year "1978"^^xsd:int .
+
+webSem:DeadMan a webSem:Movie ;
+    webSem:title "Dead Man" ;
+    webSem:year "1995"^^xsd:int .
+
+webSem:DeadPoetsSociety a webSem:Movie ;
+    webSem:title "Dead Poets Society" ;
+    webSem:year "1989"^^xsd:int .
+
 webSem:Dean-CharlesChapman a webSem:Person ;
     webSem:name "Dean-Charles Chapman" .
 
@@ -1713,6 +2149,10 @@ webSem:DelleBolton a webSem:Person ;
 webSem:DemetEvgar a webSem:Person ;
     webSem:name "Demet Evgar" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#DemonSlayertheMovie:MugenTrain> a webSem:Movie ;
+    webSem:title "Demon Slayer the Movie: Mugen Train" ;
+    webSem:year "2020"^^xsd:int .
+
 webSem:DenisVilleneuve a webSem:Person ;
     webSem:name "Denis Villeneuve" .
 
@@ -1737,6 +2177,10 @@ webSem:DerekHaas a webSem:Person ;
 webSem:DericWashburn a webSem:Person ;
     webSem:name "Deric Washburn" .
 
+webSem:DersuUzala a webSem:Movie ;
+    webSem:title "Dersu Uzala" ;
+    webSem:year "1975"^^xsd:int .
+
 webSem:DevPatel a webSem:Person ;
     webSem:name "Dev Patel" .
 
@@ -1748,6 +2192,14 @@ webSem:Dhanush a webSem:Person ;
 
 webSem:Dharmendra a webSem:Person ;
     webSem:name "Dharmendra" .
+
+webSem:Diabolique a webSem:Movie ;
+    webSem:title "Diabolique" ;
+    webSem:year "1955"^^xsd:int .
+
+webSem:DialMforMurder a webSem:Movie ;
+    webSem:title "Dial M for Murder" ;
+    webSem:year "1954"^^xsd:int .
 
 webSem:DianaWynneJones a webSem:Person ;
     webSem:name "Diana Wynne Jones" .
@@ -1773,8 +2225,20 @@ webSem:DickVanDyke a webSem:Person ;
 webSem:DickieJones a webSem:Person ;
     webSem:name "Dickie Jones" .
 
+webSem:DieHard a webSem:Movie ;
+    webSem:title "Die Hard" ;
+    webSem:year "1988"^^xsd:int .
+
 webSem:DiegoLuna a webSem:Person ;
     webSem:name "Diego Luna" .
+
+webSem:DilBechara a webSem:Movie ;
+    webSem:title "Dil Bechara" ;
+    webSem:year "2020"^^xsd:int .
+
+webSem:DilChahtaHai a webSem:Movie ;
+    webSem:title "Dil Chahta Hai" ;
+    webSem:year "2001"^^xsd:int .
 
 webSem:DilipJha a webSem:Person ;
     webSem:name "Dilip Jha" .
@@ -1788,6 +2252,14 @@ webSem:Director a owl:Class ;
 
 webSem:DivyaDutta a webSem:Person ;
     webSem:name "Divya Dutta" .
+
+webSem:DjangoUnchained a webSem:Movie ;
+    webSem:title "Django Unchained" ;
+    webSem:year "2012"^^xsd:int .
+
+webSem:DogDayAfternoon a webSem:Movie ;
+    webSem:title "Dog Day Afternoon" ;
+    webSem:year "1975"^^xsd:int .
 
 webSem:DominicWest a webSem:Person ;
     webSem:name "Dominic West" .
@@ -1831,6 +2303,10 @@ webSem:DonnaMurphy a webSem:Person ;
 webSem:DonnaReed a webSem:Person ;
     webSem:name "Donna Reed" .
 
+webSem:DonnieDarko a webSem:Movie ;
+    webSem:title "Donnie Darko" ;
+    webSem:year "2001"^^xsd:int .
+
 webSem:DonnieYen a webSem:Person ;
     webSem:name "Donnie Yen" .
 
@@ -1852,6 +2328,10 @@ webSem:DorothyKingsley a webSem:Person ;
 webSem:DorothyM.Johnson a webSem:Person ;
     webSem:name "Dorothy M. Johnson" .
 
+webSem:DoubleIndemnity a webSem:Movie ;
+    webSem:title "Double Indemnity" ;
+    webSem:year "1944"^^xsd:int .
+
 webSem:DougLiman a webSem:Person ;
     webSem:name "Doug Liman" .
 
@@ -1861,20 +2341,54 @@ webSem:DougieBrimson a webSem:Person ;
 webSem:DouglasBooth a webSem:Person ;
     webSem:name "Douglas Booth" .
 
+webSem:Downfall a webSem:Movie ;
+    webSem:title "Downfall" ;
+    webSem:year "2004"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Dr.Strangeloveor:HowILearnedtoStopWorryingandLovetheBomb> a webSem:Movie ;
+    webSem:title "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb" ;
+    webSem:year "1964"^^xsd:int .
+
 webSem:DrewBarrymore a webSem:Person ;
     webSem:name "Drew Barrymore" .
 
 webSem:DrewGoddard a webSem:Person ;
     webSem:name "Drew Goddard" .
 
+webSem:Drishyam a webSem:Movie ;
+    webSem:title "Drishyam" ;
+    webSem:year "2013"^^xsd:int,
+        "2015"^^xsd:int .
+
+webSem:Drishyam2 a webSem:Movie ;
+    webSem:title "Drishyam 2" ;
+    webSem:year "2021"^^xsd:int,
+        "2022"^^xsd:int .
+
 webSem:DuaneJones a webSem:Person ;
     webSem:name "Duane Jones" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Duck,YouSucker!> a webSem:Movie ;
+    webSem:title "Duck, You Sucker!" ;
+    webSem:year "1971"^^xsd:int .
+
+webSem:DuckSoup a webSem:Movie ;
+    webSem:title "Duck Soup" ;
+    webSem:year "1933"^^xsd:int .
 
 webSem:DudleyNichols a webSem:Person ;
     webSem:name "Dudley Nichols" .
 
 webSem:DulquerSalmaan a webSem:Person ;
     webSem:name "Dulquer Salmaan" .
+
+webSem:Dune a webSem:Movie ;
+    webSem:title "Dune" ;
+    webSem:year "2021"^^xsd:int .
+
+webSem:Dunkirk a webSem:Movie ;
+    webSem:title "Dunkirk" ;
+    webSem:year "2017"^^xsd:int .
 
 webSem:DusanKovacevic a webSem:Person ;
     webSem:name "Dusan Kovacevic" .
@@ -1887,6 +2401,10 @@ webSem:DwayneJohnson a webSem:Person ;
 
 webSem:E.A.Ellington a webSem:Person ;
     webSem:name "E.A. Ellington" .
+
+webSem:E.T.theExtra-Terrestrial a webSem:Movie ;
+    webSem:title "E.T. the Extra-Terrestrial" ;
+    webSem:year "1982"^^xsd:int .
 
 webSem:EdHarris a webSem:Person ;
     webSem:name "Ed Harris" .
@@ -1902,6 +2420,10 @@ webSem:EdgarAllanWoolf a webSem:Person ;
 
 webSem:EdgarWright a webSem:Person ;
     webSem:name "Edgar Wright" .
+
+webSem:EdgeofTomorrow a webSem:Movie ;
+    webSem:title "Edge of Tomorrow" ;
+    webSem:year "2014"^^xsd:int .
 
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#EdmondO'Brien> a webSem:Person ;
     webSem:name "Edmond O'Brien" .
@@ -1959,6 +2481,10 @@ webSem:EijirôTôno a webSem:Person ;
 
 webSem:EikoKadono a webSem:Person ;
     webSem:name "Eiko Kadono" .
+
+webSem:ElDorado a webSem:Movie ;
+    webSem:title "El Dorado" ;
+    webSem:year "1966"^^xsd:int .
 
 webSem:ElaineJin a webSem:Person ;
     webSem:name "Elaine Jin" .
@@ -2125,6 +2651,10 @@ webSem:ErnstLubitsch a webSem:Person ;
 webSem:ErtemEgilmez a webSem:Person ;
     webSem:name "Ertem Egilmez" .
 
+webSem:EternalSunshineoftheSpotlessMind a webSem:Movie ;
+    webSem:title "Eternal Sunshine of the Spotless Mind" ;
+    webSem:year "2004"^^xsd:int .
+
 webSem:EthanCoen a webSem:Person ;
     webSem:name "Ethan Coen" .
 
@@ -2149,11 +2679,23 @@ webSem:EvanRachelWood a webSem:Person ;
 webSem:EverettSloane a webSem:Person ;
     webSem:name "Everett Sloane" .
 
+webSem:EverythingEverywhereAllatOnce a webSem:Movie ;
+    webSem:title "Everything Everywhere All at Once" ;
+    webSem:year "2022"^^xsd:int .
+
+webSem:EvilDeadII a webSem:Movie ;
+    webSem:title "Evil Dead II" ;
+    webSem:year "1987"^^xsd:int .
+
 webSem:EwanMcGregor a webSem:Person ;
     webSem:name "Ewan McGregor" .
 
 webSem:EwenBremner a webSem:Person ;
     webSem:name "Ewen Bremner" .
+
+webSem:EyesWithoutaFace a webSem:Movie ;
+    webSem:title "Eyes Without a Face" ;
+    webSem:year "1960"^^xsd:int .
 
 webSem:F.GaryGray a webSem:Person ;
     webSem:name "F. Gary Gray" .
@@ -2169,6 +2711,22 @@ webSem:F.X.Toole a webSem:Person ;
 
 webSem:FahadhFaasil a webSem:Person ;
     webSem:name "Fahadh Faasil" .
+
+webSem:Fantasia a webSem:Movie ;
+    webSem:title "Fantasia" ;
+    webSem:year "1940"^^xsd:int .
+
+webSem:FantasticMr.Fox a webSem:Movie ;
+    webSem:title "Fantastic Mr. Fox" ;
+    webSem:year "2009"^^xsd:int .
+
+webSem:FarewellMyConcubine a webSem:Movie ;
+    webSem:title "Farewell My Concubine" ;
+    webSem:year "1993"^^xsd:int .
+
+webSem:Fargo a webSem:Movie ;
+    webSem:title "Fargo" ;
+    webSem:year "1996"^^xsd:int .
 
 webSem:FarhanAkhtar a webSem:Person ;
     webSem:name "Farhan Akhtar" .
@@ -2200,11 +2758,27 @@ webSem:FerdiaWalsh-Peelo a webSem:Person ;
 webSem:FernandoMeirelles a webSem:Person ;
     webSem:name "Fernando Meirelles" .
 
+webSem:FiddlerontheRoof a webSem:Movie ;
+    webSem:title "Fiddler on the Roof" ;
+    webSem:year "1971"^^xsd:int .
+
+webSem:FieldofDreams a webSem:Movie ;
+    webSem:title "Field of Dreams" ;
+    webSem:year "1989"^^xsd:int .
+
+webSem:FightClub a webSem:Movie ;
+    webSem:title "Fight Club" ;
+    webSem:year "1999"^^xsd:int .
+
 webSem:FikretKuskan a webSem:Person ;
     webSem:name "Fikret Kuskan" .
 
 webSem:FilippYankovskiy a webSem:Person ;
     webSem:name "Filipp Yankovskiy" .
+
+webSem:FindingNemo a webSem:Movie ;
+    webSem:title "Finding Nemo" ;
+    webSem:year "2003"^^xsd:int .
 
 webSem:FionnWhitehead a webSem:Person ;
     webSem:name "Fionn Whitehead" .
@@ -2224,14 +2798,26 @@ webSem:FlorianHenckelvonDonnersmarck a webSem:Person ;
 webSem:FlorianZeller a webSem:Person ;
     webSem:name "Florian Zeller" .
 
+webSem:ForaFewDollarsMore a webSem:Movie ;
+    webSem:title "For a Few Dollars More" ;
+    webSem:year "1965"^^xsd:int .
+
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#FordBeebeJr.> a webSem:Person ;
     webSem:name "Ford Beebe Jr." .
+
+webSem:FordvFerrari a webSem:Movie ;
+    webSem:title "Ford v Ferrari" ;
+    webSem:year "2019"^^xsd:int .
 
 webSem:ForestWhitaker a webSem:Person ;
     webSem:name "Forest Whitaker" .
 
 webSem:ForrestCarter a webSem:Person ;
     webSem:name "Forrest Carter" .
+
+webSem:ForrestGump a webSem:Movie ;
+    webSem:title "Forrest Gump" ;
+    webSem:year "1994"^^xsd:int .
 
 webSem:FranWalsh a webSem:Person ;
     webSem:name "Fran Walsh" .
@@ -2281,6 +2867,10 @@ webSem:FrankPierson a webSem:Person ;
 webSem:FrankS.Nugent a webSem:Person ;
     webSem:name "Frank S. Nugent" .
 
+webSem:Frankenstein a webSem:Movie ;
+    webSem:title "Frankenstein" ;
+    webSem:year "1931"^^xsd:int .
+
 webSem:FranklinCoen a webSem:Person ;
     webSem:name "Franklin Coen" .
 
@@ -2298,6 +2888,10 @@ webSem:FrançoisGirard a webSem:Person ;
 
 webSem:FrançoisTruffaut a webSem:Person ;
     webSem:name "François Truffaut" .
+
+webSem:Freaks a webSem:Movie ;
+    webSem:title "Freaks" ;
+    webSem:year "1932"^^xsd:int .
 
 webSem:FredDraper a webSem:Person ;
     webSem:name "Fred Draper" .
@@ -2332,8 +2926,16 @@ webSem:FritzLang a webSem:Person ;
 webSem:FrédériqueFeder a webSem:Person ;
     webSem:name "Frédérique Feder" .
 
+webSem:FullMetalJacket a webSem:Movie ;
+    webSem:title "Full Metal Jacket" ;
+    webSem:year "1987"^^xsd:int .
+
 webSem:FulvioMorsella a webSem:Person ;
     webSem:name "Fulvio Morsella" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#G.O.R.A.> a webSem:Movie ;
+    webSem:title "G.O.R.A." ;
+    webSem:year "2004"^^xsd:int .
 
 webSem:GabrielByrne a webSem:Person ;
     webSem:name "Gabriel Byrne" .
@@ -2349,6 +2951,14 @@ webSem:GalGadot a webSem:Person ;
 
 webSem:GaleAnneHurd a webSem:Person ;
     webSem:name "Gale Anne Hurd" .
+
+webSem:Gandhi a webSem:Movie ;
+    webSem:title "Gandhi" ;
+    webSem:year "1982"^^xsd:int .
+
+webSem:GangsofWasseypur a webSem:Movie ;
+    webSem:title "Gangs of Wasseypur" ;
+    webSem:year "2012"^^xsd:int .
 
 webSem:GaronTsuchiya a webSem:Person ;
     webSem:name "Garon Tsuchiya" .
@@ -2488,8 +3098,24 @@ webSem:GeromeRagni a webSem:Person ;
 webSem:GerryConlon a webSem:Person ;
     webSem:name "Gerry Conlon" .
 
+webSem:GetOut a webSem:Movie ;
+    webSem:title "Get Out" ;
+    webSem:year "2017"^^xsd:int .
+
+webSem:GhostintheShell a webSem:Movie ;
+    webSem:title "Ghost in the Shell" ;
+    webSem:year "1995"^^xsd:int .
+
 webSem:GianMariaVolontè a webSem:Person ;
     webSem:name "Gian Maria Volontè" .
+
+webSem:Giant a webSem:Movie ;
+    webSem:title "Giant" ;
+    webSem:year "1956"^^xsd:int .
+
+webSem:Gilda a webSem:Movie ;
+    webSem:title "Gilda" ;
+    webSem:year "1946"^^xsd:int .
 
 webSem:GillDennis a webSem:Person ;
     webSem:name "Gill Dennis" .
@@ -2511,6 +3137,10 @@ webSem:GiuseppeTomasidiLampedusa a webSem:Person ;
 
 webSem:GiuseppeTornatore a webSem:Person ;
     webSem:name "Giuseppe Tornatore" .
+
+webSem:Gladiator a webSem:Movie ;
+    webSem:title "Gladiator" ;
+    webSem:year "2000"^^xsd:int .
 
 webSem:GladysGeorge a webSem:Person ;
     webSem:name "Gladys George" .
@@ -2542,11 +3172,31 @@ webSem:GloriaStuart a webSem:Person ;
 webSem:GloriaSwanson a webSem:Person ;
     webSem:name "Gloria Swanson" .
 
+webSem:Glory a webSem:Movie ;
+    webSem:title "Glory" ;
+    webSem:year "1989"^^xsd:int .
+
+webSem:GoneGirl a webSem:Movie ;
+    webSem:title "Gone Girl" ;
+    webSem:year "2014"^^xsd:int .
+
+webSem:GonewiththeWind a webSem:Movie ;
+    webSem:title "Gone with the Wind" ;
+    webSem:year "1939"^^xsd:int .
+
 webSem:GongLi a webSem:Person ;
     webSem:name "Gong Li" .
 
 webSem:GongYoo a webSem:Person ;
     webSem:name "Gong Yoo" .
+
+webSem:GoodWillHunting a webSem:Movie ;
+    webSem:title "Good Will Hunting" ;
+    webSem:year "1997"^^xsd:int .
+
+webSem:Goodfellas a webSem:Movie ;
+    webSem:title "Goodfellas" ;
+    webSem:year "1990"^^xsd:int .
 
 webSem:GordanMihic a webSem:Person ;
     webSem:name "Gordan Mihic" .
@@ -2578,8 +3228,24 @@ webSem:GrahamMoore a webSem:Person ;
 webSem:GrahamNorton a webSem:Person ;
     webSem:name "Graham Norton" .
 
+webSem:GranTorino a webSem:Movie ;
+    webSem:title "Gran Torino" ;
+    webSem:year "2008"^^xsd:int .
+
 webSem:GrantThompson a webSem:Person ;
     webSem:name "Grant Thompson" .
+
+webSem:GraveoftheFireflies a webSem:Movie ;
+    webSem:title "Grave of the Fireflies" ;
+    webSem:year "1988"^^xsd:int .
+
+webSem:GreenBook a webSem:Movie ;
+    webSem:title "Green Book" ;
+    webSem:year "2018"^^xsd:int .
+
+webSem:GreenStreetHooligans a webSem:Movie ;
+    webSem:title "Green Street Hooligans" ;
+    webSem:year "2005"^^xsd:int .
 
 webSem:GregoryAllenHoward a webSem:Person ;
     webSem:name "Gregory Allen Howard" .
@@ -2593,8 +3259,20 @@ webSem:GregoryPeck a webSem:Person ;
 webSem:GrigoriyAleksandrov a webSem:Person ;
     webSem:name "Grigoriy Aleksandrov" .
 
+webSem:Grindhouse a webSem:Movie ;
+    webSem:title "Grindhouse" ;
+    webSem:year "2007"^^xsd:int .
+
 webSem:GrouchoMarx a webSem:Person ;
     webSem:name "Groucho Marx" .
+
+webSem:GroundhogDay a webSem:Movie ;
+    webSem:title "Groundhog Day" ;
+    webSem:year "1993"^^xsd:int .
+
+webSem:GuardiansoftheGalaxy a webSem:Movie ;
+    webSem:title "Guardians of the Galaxy" ;
+    webSem:year "2014"^^xsd:int .
 
 webSem:GuillaumeCanet a webSem:Person ;
     webSem:name "Guillaume Canet" .
@@ -2608,8 +3286,16 @@ webSem:GuillermoArriaga a webSem:Person ;
 webSem:GuillermodelToro a webSem:Person ;
     webSem:name "Guillermo del Toro" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#GuillermodelToro'sPinocchio> a webSem:Movie ;
+    webSem:title "Guillermo del Toro's Pinocchio" ;
+    webSem:year "2022"^^xsd:int .
+
 webSem:GuinevereTurner a webSem:Person ;
     webSem:name "Guinevere Turner" .
+
+webSem:GullyBoy a webSem:Movie ;
+    webSem:title "Gully Boy" ;
+    webSem:year "2019"^^xsd:int .
 
 webSem:Gulzar a webSem:Person ;
     webSem:name "Gulzar" .
@@ -2659,6 +3345,14 @@ webSem:H.G.Wells a webSem:Person ;
 webSem:HaJung-woo a webSem:Person ;
     webSem:name "Ha Jung-woo" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Hachi:ADog'sTale> a webSem:Movie ;
+    webSem:title "Hachi: A Dog's Tale" ;
+    webSem:year "2009"^^xsd:int .
+
+webSem:HacksawRidge a webSem:Movie ;
+    webSem:title "Hacksaw Ridge" ;
+    webSem:year "2016"^^xsd:int .
+
 webSem:Hae-JinYoo a webSem:Person ;
     webSem:name "Hae-Jin Yoo" .
 
@@ -2667,6 +3361,10 @@ webSem:HaileeSteinfeld a webSem:Person ;
 
 webSem:HaingS.Ngor a webSem:Person ;
     webSem:name "Haing S. Ngor" .
+
+webSem:Hair a webSem:Movie ;
+    webSem:title "Hair" ;
+    webSem:year "1979"^^xsd:int .
 
 webSem:HalDresner a webSem:Person ;
     webSem:name "Hal Dresner" .
@@ -2680,8 +3378,16 @@ webSem:HalinaGryglaszewska a webSem:Person ;
 webSem:HalitAkçatepe a webSem:Person ;
     webSem:name "Halit Akçatepe" .
 
+webSem:Halloween a webSem:Movie ;
+    webSem:title "Halloween" ;
+    webSem:year "1978"^^xsd:int .
+
 webSem:HalstedWelles a webSem:Person ;
     webSem:name "Halsted Welles" .
+
+webSem:Hamilton a webSem:Movie ;
+    webSem:title "Hamilton" ;
+    webSem:year "2020"^^xsd:int .
 
 webSem:HamptonFancher a webSem:Person ;
     webSem:name "Hampton Fancher" .
@@ -2697,6 +3403,10 @@ webSem:HansJanowitz a webSem:Person ;
 
 webSem:HanuRaghavapudi a webSem:Person ;
     webSem:name "Hanu Raghavapudi" .
+
+webSem:Harakiri a webSem:Movie ;
+    webSem:title "Harakiri" ;
+    webSem:year "1962"^^xsd:int .
 
 webSem:HaroldJacobSmith a webSem:Person ;
     webSem:name "Harold Jacob Smith" .
@@ -2731,6 +3441,14 @@ webSem:HarryGrey a webSem:Person ;
 webSem:HarryKurnitz a webSem:Person ;
     webSem:name "Harry Kurnitz" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#HarryPotterandtheDeathlyHallows:Part2> a webSem:Movie ;
+    webSem:title "Harry Potter and the Deathly Hallows: Part 2" ;
+    webSem:year "2011"^^xsd:int .
+
+webSem:HarryPotterandthePrisonerofAzkaban a webSem:Movie ;
+    webSem:title "Harry Potter and the Prisoner of Azkaban" ;
+    webSem:year "2004"^^xsd:int .
+
 webSem:HarryRuby a webSem:Person ;
     webSem:name "Harry Ruby" .
 
@@ -2764,14 +3482,26 @@ webSem:HawkOstby a webSem:Person ;
 webSem:HayaoMiyazaki a webSem:Person ;
     webSem:name "Hayao Miyazaki" .
 
+webSem:Heat a webSem:Movie ;
+    webSem:title "Heat" ;
+    webSem:year "1995"^^xsd:int .
+
 webSem:HeathLedger a webSem:Person ;
     webSem:name "Heath Ledger" .
+
+webSem:HedwigandtheAngryInch a webSem:Movie ;
+    webSem:title "Hedwig and the Angry Inch" ;
+    webSem:year "2001"^^xsd:int .
 
 webSem:HelenaBonhamCarter a webSem:Person ;
     webSem:name "Helena Bonham Carter" .
 
 webSem:HelenaRojo a webSem:Person ;
     webSem:name "Helena Rojo" .
+
+webSem:HellorHighWater a webSem:Movie ;
+    webSem:title "Hell or High Water" ;
+    webSem:year "2016"^^xsd:int .
 
 webSem:HelmutGriem a webSem:Person ;
     webSem:name "Helmut Griem" .
@@ -2812,6 +3542,10 @@ webSem:HenrySelick a webSem:Person ;
 webSem:HenryThomas a webSem:Person ;
     webSem:name "Henry Thomas" .
 
+webSem:Her a webSem:Movie ;
+    webSem:title "Her" ;
+    webSem:year "2013"^^xsd:int .
+
 webSem:HerbertGrönemeyer a webSem:Person ;
     webSem:name "Herbert Grönemeyer" .
 
@@ -2821,6 +3555,10 @@ webSem:HermanJ.Mankiewicz a webSem:Person ;
 webSem:HermannSudermann a webSem:Person ;
     webSem:name "Hermann Sudermann" .
 
+webSem:HiddenFigures a webSem:Movie ;
+    webSem:title "Hidden Figures" ;
+    webSem:year "2016"^^xsd:int .
+
 webSem:HideakiAnno a webSem:Person ;
     webSem:name "Hideaki Anno" .
 
@@ -2829,6 +3567,18 @@ webSem:HideoOguni a webSem:Person ;
 
 webSem:HideyukiKikuchi a webSem:Person ;
     webSem:name "Hideyuki Kikuchi" .
+
+webSem:HighNoon a webSem:Movie ;
+    webSem:title "High Noon" ;
+    webSem:year "1952"^^xsd:int .
+
+webSem:HighPlainsDrifter a webSem:Movie ;
+    webSem:title "High Plains Drifter" ;
+    webSem:year "1973"^^xsd:int .
+
+webSem:HighandLow a webSem:Movie ;
+    webSem:title "High and Low" ;
+    webSem:year "1963"^^xsd:int .
 
 webSem:HilaryStGeorgeSaunders a webSem:Person ;
     webSem:name "Hilary St George Saunders" .
@@ -2851,8 +3601,16 @@ webSem:Homer a webSem:Person ;
 webSem:HonorKneafsey a webSem:Person ;
     webSem:name "Honor Kneafsey" .
 
+webSem:Hoosiers a webSem:Movie ;
+    webSem:title "Hoosiers" ;
+    webSem:year "1986"^^xsd:int .
+
 webSem:HortonFoote a webSem:Person ;
     webSem:name "Horton Foote" .
+
+webSem:HotelRwanda a webSem:Movie ;
+    webSem:title "Hotel Rwanda" ;
+    webSem:year "2004"^^xsd:int .
 
 webSem:HowardFast a webSem:Person ;
     webSem:name "Howard Fast" .
@@ -2868,6 +3626,18 @@ webSem:HowardKoch a webSem:Person ;
 
 webSem:HowardLindsay a webSem:Person ;
     webSem:name "Howard Lindsay" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Howl'sMovingCastle> a webSem:Movie ;
+    webSem:title "Howl's Moving Castle" ;
+    webSem:year "2004"^^xsd:int .
+
+webSem:HowtoTrainYourDragon a webSem:Movie ;
+    webSem:title "How to Train Your Dragon" ;
+    webSem:year "2010"^^xsd:int .
+
+webSem:HowtoTrainYourDragon2 a webSem:Movie ;
+    webSem:title "How to Train Your Dragon 2" ;
+    webSem:year "2014"^^xsd:int .
 
 webSem:HrishikeshMukherjee a webSem:Person ;
     webSem:name "Hrishikesh Mukherjee" .
@@ -2905,8 +3675,16 @@ webSem:HunJang a webSem:Person ;
 webSem:Hümeyra a webSem:Person ;
     webSem:name "Hümeyra" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#I,Tonya> a webSem:Movie ;
+    webSem:title "I, Tonya" ;
+    webSem:year "2017"^^xsd:int .
+
 webSem:I.A.L.Diamond a webSem:Person ;
     webSem:name "I.A.L. Diamond" .
+
+webSem:ISawtheDevil a webSem:Movie ;
+    webSem:title "I Saw the Devil" ;
+    webSem:year "2010"^^xsd:int .
 
 webSem:IainRea a webSem:Person ;
     webSem:name "Iain Rea" .
@@ -2929,6 +3707,10 @@ webSem:IemasaKayumi a webSem:Person ;
 webSem:IgnatDaniltsev a webSem:Person ;
     webSem:name "Ignat Daniltsev" .
 
+webSem:Ikiru a webSem:Movie ;
+    webSem:title "Ikiru" ;
+    webSem:year "1952"^^xsd:int .
+
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#IleanaD'Cruz> a webSem:Person ;
     webSem:name "Ileana D'Cruz" .
 
@@ -2938,11 +3720,39 @@ webSem:ImeldaStaunton a webSem:Person ;
 webSem:ImtiazAli a webSem:Person ;
     webSem:name "Imtiaz Ali" .
 
+webSem:InColdBlood a webSem:Movie ;
+    webSem:title "In Cold Blood" ;
+    webSem:year "1967"^^xsd:int .
+
+webSem:InaLonelyPlace a webSem:Movie ;
+    webSem:title "In a Lonely Place" ;
+    webSem:year "1950"^^xsd:int .
+
+webSem:Incendies a webSem:Movie ;
+    webSem:title "Incendies" ;
+    webSem:year "2010"^^xsd:int .
+
+webSem:Inception a webSem:Movie ;
+    webSem:title "Inception" ;
+    webSem:year "2010"^^xsd:int .
+
+webSem:IndianaJonesandtheLastCrusade a webSem:Movie ;
+    webSem:title "Indiana Jones and the Last Crusade" ;
+    webSem:year "1989"^^xsd:int .
+
+webSem:IndianaJonesandtheRaidersoftheLostArk a webSem:Movie ;
+    webSem:title "Indiana Jones and the Raiders of the Lost Ark" ;
+    webSem:year "1981"^^xsd:int .
+
 webSem:IndraneilSengupta a webSem:Person ;
     webSem:name "Indraneil Sengupta" .
 
 webSem:IngeLandgut a webSem:Person ;
     webSem:name "Inge Landgut" .
+
+webSem:InglouriousBasterds a webSem:Movie ;
+    webSem:title "Inglourious Basterds" ;
+    webSem:year "2009"^^xsd:int .
 
 webSem:IngmarBergman a webSem:Person ;
     webSem:name "Ingmar Bergman" .
@@ -2952,6 +3762,42 @@ webSem:IngridBergman a webSem:Person ;
 
 webSem:IngridThulin a webSem:Person ;
     webSem:name "Ingrid Thulin" .
+
+webSem:InherittheWind a webSem:Movie ;
+    webSem:title "Inherit the Wind" ;
+    webSem:year "1960"^^xsd:int .
+
+webSem:InsideOut a webSem:Movie ;
+    webSem:title "Inside Out" ;
+    webSem:year "2015"^^xsd:int .
+
+webSem:Interstellar a webSem:Movie ;
+    webSem:title "Interstellar" ;
+    webSem:year "2014"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#InterviewwiththeVampire:TheVampireChronicles> a webSem:Movie ;
+    webSem:title "Interview with the Vampire: The Vampire Chronicles" ;
+    webSem:year "1994"^^xsd:int .
+
+webSem:IntheMoodforLove a webSem:Movie ;
+    webSem:title "In the Mood for Love" ;
+    webSem:year "2000"^^xsd:int .
+
+webSem:IntheNameoftheFather a webSem:Movie ;
+    webSem:title "In the Name of the Father" ;
+    webSem:year "1993"^^xsd:int .
+
+webSem:IntotheWild a webSem:Movie ;
+    webSem:title "Into the Wild" ;
+    webSem:year "2007"^^xsd:int .
+
+webSem:InvasionoftheBodySnatchers a webSem:Movie ;
+    webSem:title "Invasion of the Body Snatchers" ;
+    webSem:year "1956"^^xsd:int .
+
+webSem:IpMan a webSem:Movie ;
+    webSem:title "Ip Man" ;
+    webSem:year "2008"^^xsd:int .
 
 webSem:IraLevin a webSem:Person ;
     webSem:name "Ira Levin" .
@@ -2964,6 +3810,10 @@ webSem:IrenePapas a webSem:Person ;
 
 webSem:IrisYamashita a webSem:Person ;
     webSem:name "Iris Yamashita" .
+
+webSem:IronMan a webSem:Movie ;
+    webSem:title "Iron Man" ;
+    webSem:year "2008"^^xsd:int .
 
 webSem:IrrfanKhan a webSem:Person ;
     webSem:name "Irrfan Khan" .
@@ -2983,6 +3833,10 @@ webSem:IsabelleSobelman a webSem:Person ;
 webSem:IsaoTakahata a webSem:Person ;
     webSem:name "Isao Takahata" .
 
+webSem:IsleofDogs a webSem:Movie ;
+    webSem:title "Isle of Dogs" ;
+    webSem:year "2018"^^xsd:int .
+
 webSem:IsmailHacioglu a webSem:Person ;
     webSem:name "Ismail Hacioglu" .
 
@@ -2994,6 +3848,14 @@ webSem:IsseyTakahashi a webSem:Person ;
 
 webSem:IsuzuYamada a webSem:Person ;
     webSem:name "Isuzu Yamada" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#It'saWonderfulLife> a webSem:Movie ;
+    webSem:title "It's a Wonderful Life" ;
+    webSem:year "1946"^^xsd:int .
+
+webSem:ItHappenedOneNight a webSem:Movie ;
+    webSem:title "It Happened One Night" ;
+    webSem:year "1934"^^xsd:int .
 
 webSem:IvanGoff a webSem:Person ;
     webSem:name "Ivan Goff" .
@@ -3030,6 +3892,10 @@ webSem:J.MichaelStraczynski a webSem:Person ;
 
 webSem:J.R.R.Tolkien a webSem:Person ;
     webSem:name "J.R.R. Tolkien" .
+
+webSem:JFK a webSem:Movie ;
+    webSem:title "JFK" ;
+    webSem:year "1991"^^xsd:int .
 
 webSem:JacekDehnel a webSem:Person ;
     webSem:name "Jacek Dehnel" .
@@ -3111,6 +3977,10 @@ webSem:JacquesTourneur a webSem:Person ;
 
 webSem:JadenSmith a webSem:Person ;
     webSem:name "Jaden Smith" .
+
+webSem:JaiBhim a webSem:Movie ;
+    webSem:title "Jai Bhim" ;
+    webSem:year "2021"^^xsd:int .
 
 webSem:JaideepSahni a webSem:Person ;
     webSem:name "Jaideep Sahni" .
@@ -3313,6 +4183,10 @@ webSem:JavedSiddiqui a webSem:Person ;
 webSem:JavierBardem a webSem:Person ;
     webSem:name "Javier Bardem" .
 
+webSem:Jaws a webSem:Movie ;
+    webSem:title "Jaws" ;
+    webSem:year "1975"^^xsd:int .
+
 webSem:JayBaruchel a webSem:Person ;
     webSem:name "Jay Baruchel" .
 
@@ -3427,6 +4301,10 @@ webSem:JennyBicks a webSem:Person ;
 webSem:JeonGook-hwan a webSem:Person ;
     webSem:name "Jeon Gook-hwan" .
 
+webSem:JeremiahJohnson a webSem:Movie ;
+    webSem:title "Jeremiah Johnson" ;
+    webSem:year "1972"^^xsd:int .
+
 webSem:JeremyIrons a webSem:Person ;
     webSem:name "Jeremy Irons" .
 
@@ -3444,6 +4322,10 @@ webSem:JeromeRobbins a webSem:Person ;
 
 webSem:JerryJuhl a webSem:Person ;
     webSem:name "Jerry Juhl" .
+
+webSem:JerryMaguire a webSem:Movie ;
+    webSem:title "Jerry Maguire" ;
+    webSem:year "1996"^^xsd:int .
 
 webSem:JerryNelson a webSem:Person ;
     webSem:name "Jerry Nelson" .
@@ -3468,6 +4350,10 @@ webSem:JessicaTandy a webSem:Person ;
 
 webSem:JezButterworth a webSem:Person ;
     webSem:name "Jez Butterworth" .
+
+webSem:Jhund a webSem:Movie ;
+    webSem:title "Jhund" ;
+    webSem:year "2022"^^xsd:int .
 
 webSem:JihadHojeily a webSem:Person ;
     webSem:name "Jihad Hojeily" .
@@ -3794,6 +4680,10 @@ webSem:JohnnyCash a webSem:Person ;
 webSem:JohnnyDepp a webSem:Person ;
     webSem:name "Johnny Depp" .
 
+webSem:Joker a webSem:Movie ;
+    webSem:title "Joker" ;
+    webSem:year "2019"^^xsd:int .
+
 webSem:JonBernthal a webSem:Person ;
     webSem:name "Jon Bernthal" .
 
@@ -3899,8 +4789,16 @@ webSem:JoshSinger a webSem:Person ;
 webSem:JossWhedon a webSem:Person ;
     webSem:name "Joss Whedon" .
 
+webSem:JoyeuxNoel a webSem:Movie ;
+    webSem:title "Joyeux Noel" ;
+    webSem:year "2005"^^xsd:int .
+
 webSem:JuanJoséCampanella a webSem:Person ;
     webSem:name "Juan José Campanella" .
+
+webSem:JudgmentatNuremberg a webSem:Movie ;
+    webSem:title "Judgment at Nuremberg" ;
+    webSem:year "1961"^^xsd:int .
 
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#JudithO'Dea> a webSem:Person ;
     webSem:name "Judith O'Dea" .
@@ -3944,6 +4842,10 @@ webSem:JungYu-mi a webSem:Person ;
 webSem:JunkoIwao a webSem:Person ;
     webSem:name "Junko Iwao" .
 
+webSem:JurassicPark a webSem:Movie ;
+    webSem:title "Jurassic Park" ;
+    webSem:year "1993"^^xsd:int .
+
 webSem:JustinBraine a webSem:Person ;
     webSem:name "Justin Braine" .
 
@@ -3962,17 +4864,41 @@ webSem:JürgenProchnow a webSem:Person ;
 webSem:JüriJärvet a webSem:Person ;
     webSem:name "Jüri Järvet" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#K.G.F:Chapter2> a webSem:Movie ;
+    webSem:title "K.G.F: Chapter 2" ;
+    webSem:year "2022"^^xsd:int .
+
 webSem:K.N.VijayKumar a webSem:Person ;
     webSem:name "K.N. Vijay Kumar" .
 
 webSem:KabirKhan a webSem:Person ;
     webSem:name "Kabir Khan" .
 
+webSem:Kagemusha a webSem:Movie ;
+    webSem:title "Kagemusha" ;
+    webSem:year "1980"^^xsd:int .
+
+webSem:Kahaani a webSem:Movie ;
+    webSem:title "Kahaani" ;
+    webSem:year "2012"^^xsd:int .
+
+webSem:KaiPoChe a webSem:Movie ;
+    webSem:title "Kai Po Che" ;
+    webSem:year "2013"^^xsd:int .
+
 webSem:KaigeChen a webSem:Person ;
     webSem:name "Kaige Chen" .
 
+webSem:Kaithi a webSem:Movie ;
+    webSem:title "Kaithi" ;
+    webSem:year "2019"^^xsd:int .
+
 webSem:Kajol a webSem:Person ;
     webSem:name "Kajol" .
+
+webSem:KalHoNaaHo a webSem:Movie ;
+    webSem:title "Kal Ho Naa Ho" ;
+    webSem:year "2003"^^xsd:int .
 
 webSem:KamalHaasan a webSem:Person ;
     webSem:name "Kamal Haasan" .
@@ -3982,6 +4908,10 @@ webSem:KanetoShindô a webSem:Person ;
 
 webSem:KangHye-jeong a webSem:Person ;
     webSem:name "Kang Hye-jeong" .
+
+webSem:Kantara a webSem:Movie ;
+    webSem:title "Kantara" ;
+    webSem:year "2022"^^xsd:int .
 
 webSem:KanuBannerjee a webSem:Person ;
     webSem:name "Kanu Bannerjee" .
@@ -4148,11 +5078,23 @@ webSem:KevinPeterHall a webSem:Person ;
 webSem:KevinSpacey a webSem:Person ;
     webSem:name "Kevin Spacey" .
 
+webSem:KeyLargo a webSem:Movie ;
+    webSem:title "Key Largo" ;
+    webSem:year "1948"^^xsd:int .
+
 webSem:KhaledEl-Sawi a webSem:Person ;
     webSem:name "Khaled El-Sawi" .
 
 webSem:KiaraAdvani a webSem:Person ;
     webSem:name "Kiara Advani" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Kiki'sDeliveryService> a webSem:Movie ;
+    webSem:title "Kiki's Delivery Service" ;
+    webSem:year "1989"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#KillBill:Vol.1> a webSem:Movie ;
+    webSem:title "Kill Bill: Vol. 1" ;
+    webSem:year "2003"^^xsd:int .
 
 webSem:KimDarby a webSem:Person ;
     webSem:name "Kim Darby" .
@@ -4175,6 +5117,14 @@ webSem:KimSang-kyung a webSem:Person ;
 webSem:KimWilson a webSem:Person ;
     webSem:name "Kim Wilson" .
 
+webSem:KingKong a webSem:Movie ;
+    webSem:title "King Kong" ;
+    webSem:year "1933"^^xsd:int .
+
+webSem:KingRichard a webSem:Movie ;
+    webSem:title "King Richard" ;
+    webSem:year "2021"^^xsd:int .
+
 webSem:KiranrajK a webSem:Person ;
     webSem:name "Kiranraj K" .
 
@@ -4195,6 +5145,10 @@ webSem:KishoriBallal a webSem:Person ;
 
 webSem:KiyoshiShigematsu a webSem:Person ;
     webSem:name "Kiyoshi Shigematsu" .
+
+webSem:Klaus a webSem:Movie ;
+    webSem:title "Klaus" ;
+    webSem:year "2019"^^xsd:int .
 
 webSem:KlausKinski a webSem:Person ;
     webSem:name "Klaus Kinski" .
@@ -4229,6 +5183,10 @@ webSem:KrzysztofKieslowski a webSem:Person ;
 webSem:KrzysztofPiesiewicz a webSem:Person ;
     webSem:name "Krzysztof Piesiewicz" .
 
+webSem:KuchKuchHotaHai a webSem:Movie ;
+    webSem:title "Kuch Kuch Hota Hai" ;
+    webSem:year "1998"^^xsd:int .
+
 webSem:KumarDave a webSem:Person ;
     webSem:name "Kumar Dave" .
 
@@ -4256,17 +5214,41 @@ webSem:KåreHedebrant a webSem:Person ;
 webSem:KôgoNoda a webSem:Person ;
     webSem:name "Kôgo Noda" .
 
+webSem:L.A.Confidential a webSem:Movie ;
+    webSem:title "L.A. Confidential" ;
+    webSem:year "1997"^^xsd:int .
+
+webSem:LaLaLand a webSem:Movie ;
+    webSem:title "La La Land" ;
+    webSem:year "2016"^^xsd:int .
+
+webSem:LaVieEnRose a webSem:Movie ;
+    webSem:title "La Vie En Rose" ;
+    webSem:year "2007"^^xsd:int .
+
 webSem:LadyGaga a webSem:Person ;
     webSem:name "Lady Gaga" .
 
 webSem:LaetaKalogridis a webSem:Person ;
     webSem:name "Laeta Kalogridis" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Lagaan:OnceUponaTimeinIndia> a webSem:Movie ;
+    webSem:title "Lagaan: Once Upon a Time in India" ;
+    webSem:year "2001"^^xsd:int .
+
+webSem:Lahaine a webSem:Movie ;
+    webSem:title "La haine" ;
+    webSem:year "1995"^^xsd:int .
+
 webSem:LambertoMaggiorani a webSem:Person ;
     webSem:name "Lamberto Maggiorani" .
 
 webSem:LanaWachowski a webSem:Person ;
     webSem:name "Lana Wachowski" .
+
+webSem:LandofMine a webSem:Movie ;
+    webSem:title "Land of Mine" ;
+    webSem:year "2015"^^xsd:int .
 
 webSem:LarryClemmons a webSem:Person ;
     webSem:name "Larry Clemmons" .
@@ -4279,6 +5261,10 @@ webSem:LarsvonTrier a webSem:Person ;
 
 webSem:LasseHallström a webSem:Person ;
     webSem:name "Lasse Hallström" .
+
+webSem:Laura a webSem:Movie ;
+    webSem:title "Laura" ;
+    webSem:year "1944"^^xsd:int .
 
 webSem:LauraDern a webSem:Person ;
     webSem:name "Laura Dern" .
@@ -4306,6 +5292,10 @@ webSem:LawrenceHauben a webSem:Person ;
 
 webSem:LawrenceKasdan a webSem:Person ;
     webSem:name "Lawrence Kasdan" .
+
+webSem:LawrenceofArabia a webSem:Movie ;
+    webSem:title "Lawrence of Arabia" ;
+    webSem:year "1962"^^xsd:int .
 
 webSem:LazarRistovski a webSem:Person ;
     webSem:name "Lazar Ristovski" .
@@ -4336,6 +5326,10 @@ webSem:LeeUnkrich a webSem:Person ;
 
 webSem:LeeVanCleef a webSem:Person ;
     webSem:name "Lee Van Cleef" .
+
+webSem:LegendsoftheFall a webSem:Movie ;
+    webSem:title "Legends of the Fall" ;
+    webSem:year "1994"^^xsd:int .
 
 webSem:LeighBrackett a webSem:Person ;
     webSem:name "Leigh Brackett" .
@@ -4376,6 +5370,10 @@ webSem:LeonardoDiCaprio a webSem:Person ;
 webSem:LeopoldStokowski a webSem:Person ;
     webSem:name "Leopold Stokowski" .
 
+webSem:LesMisérables a webSem:Movie ;
+    webSem:title "Les Misérables" ;
+    webSem:year "2012"^^xsd:int .
+
 webSem:LeslieCheung a webSem:Person ;
     webSem:name "Leslie Cheung" .
 
@@ -4384,6 +5382,18 @@ webSem:LeslieCheung a webSem:Person ;
 
 webSem:LesserSamuels a webSem:Person ;
     webSem:name "Lesser Samuels" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Let'sGo!India> a webSem:Movie ;
+    webSem:title "Let's Go! India" ;
+    webSem:year "2007"^^xsd:int .
+
+webSem:LettersfromIwoJima a webSem:Movie ;
+    webSem:title "Letters from Iwo Jima" ;
+    webSem:year "2006"^^xsd:int .
+
+webSem:LettheRightOneIn a webSem:Movie ;
+    webSem:title "Let the Right One In" ;
+    webSem:year "2008"^^xsd:int .
 
 webSem:LewWallace a webSem:Person ;
     webSem:name "Lew Wallace" .
@@ -4403,8 +5413,20 @@ webSem:LiamNeeson a webSem:Person ;
 webSem:LianellaCarell a webSem:Person ;
     webSem:name "Lianella Carell" .
 
+webSem:LifeIsBeautiful a webSem:Movie ;
+    webSem:title "Life Is Beautiful" ;
+    webSem:year "1997"^^xsd:int .
+
+webSem:LifeofBrian a webSem:Movie ;
+    webSem:title "Life of Brian" ;
+    webSem:year "1979"^^xsd:int .
+
 webSem:LijoMolJose a webSem:Person ;
     webSem:name "Lijo Mol Jose" .
+
+webSem:LikeStarsonEarth a webSem:Movie ;
+    webSem:title "Like Stars on Earth" ;
+    webSem:year "2007"^^xsd:int .
 
 webSem:LillianGish a webSem:Person ;
     webSem:name "Lillian Gish" .
@@ -4436,6 +5458,10 @@ webSem:LindaLarkin a webSem:Person ;
 webSem:LindaWoolverton a webSem:Person ;
     webSem:name "Linda Woolverton" .
 
+webSem:Lion a webSem:Movie ;
+    webSem:title "Lion" ;
+    webSem:year "2016"^^xsd:int .
+
 webSem:LionelBarrymore a webSem:Person ;
     webSem:name "Lionel Barrymore" .
 
@@ -4445,11 +5471,19 @@ webSem:LionelWhite a webSem:Person ;
 webSem:LisaHannigan a webSem:Person ;
     webSem:name "Lisa Hannigan" .
 
+webSem:LittleBigMan a webSem:Movie ;
+    webSem:title "Little Big Man" ;
+    webSem:year "1970"^^xsd:int .
+
 webSem:LiubomirasLaucevicius a webSem:Person ;
     webSem:name "Liubomiras Laucevicius" .
 
 webSem:LivUllmann a webSem:Person ;
     webSem:name "Liv Ullmann" .
+
+webSem:LiveAid a webSem:Movie ;
+    webSem:title "Live Aid" ;
+    webSem:year "1985"^^xsd:int .
 
 webSem:LizaMinnelli a webSem:Person ;
     webSem:name "Liza Minnelli" .
@@ -4457,8 +5491,20 @@ webSem:LizaMinnelli a webSem:Person ;
 webSem:LjubicaAdzovic a webSem:Person ;
     webSem:name "Ljubica Adzovic" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Lock,StockandTwoSmokingBarrels> a webSem:Movie ;
+    webSem:title "Lock, Stock and Two Smoking Barrels" ;
+    webSem:year "1998"^^xsd:int .
+
+webSem:Logan a webSem:Movie ;
+    webSem:title "Logan" ;
+    webSem:year "2017"^^xsd:int .
+
 webSem:LokeshKanagaraj a webSem:Person ;
     webSem:name "Lokesh Kanagaraj" .
+
+webSem:LoneStar a webSem:Movie ;
+    webSem:title "Lone Star" ;
+    webSem:year "1996"^^xsd:int .
 
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#LorenzoSempleJr.> a webSem:Person ;
     webSem:name "Lorenzo Semple Jr." .
@@ -4489,6 +5535,10 @@ webSem:LouisPrima a webSem:Person ;
 
 webSem:LouiseFletcher a webSem:Person ;
     webSem:name "Louise Fletcher" .
+
+webSem:LovingVincent a webSem:Movie ;
+    webSem:title "Loving Vincent" ;
+    webSem:year "2017"^^xsd:int .
 
 webSem:LowellGanz a webSem:Person ;
     webSem:name "Lowell Ganz" .
@@ -4532,11 +5582,23 @@ webSem:LukeDavies a webSem:Person ;
 webSem:LuànaBajrami a webSem:Person ;
     webSem:name "Luàna Bajrami" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Léon:TheProfessional> a webSem:Movie ;
+    webSem:title "Léon: The Professional" ;
+    webSem:year "1994"^^xsd:int .
+
+webSem:M a webSem:Movie ;
+    webSem:title "M" ;
+    webSem:year "1931"^^xsd:int .
+
 webSem:M.G.Sathya a webSem:Person ;
     webSem:name "M.G. Sathya" .
 
 webSem:M.NightShyamalan a webSem:Person ;
     webSem:name "M. Night Shyamalan" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#M.S.Dhoni:TheUntoldStory> a webSem:Movie ;
+    webSem:title "M.S. Dhoni: The Untold Story" ;
+    webSem:year "2016"^^xsd:int .
 
 webSem:M.S.Manimaran a webSem:Person ;
     webSem:name "M.S. Manimaran" .
@@ -4555,6 +5617,10 @@ webSem:MachikoKyô a webSem:Person ;
 
 webSem:MackSwain a webSem:Person ;
     webSem:name "Mack Swain" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#MadMax:FuryRoad> a webSem:Movie ;
+    webSem:title "Mad Max: Fury Road" ;
+    webSem:year "2015"^^xsd:int .
 
 webSem:MadeleineStowe a webSem:Person ;
     webSem:name "Madeleine Stowe" .
@@ -4582,6 +5648,10 @@ webSem:MahitoTsujimura a webSem:Person ;
 
 webSem:MajidMajidi a webSem:Person ;
     webSem:name "Majid Majidi" .
+
+webSem:Major a webSem:Movie ;
+    webSem:title "Major" ;
+    webSem:year "2022"^^xsd:int .
 
 webSem:MakotoShinkai a webSem:Person ;
     webSem:name "Makoto Shinkai" .
@@ -4786,6 +5856,10 @@ webSem:MaryMcDonnell a webSem:Person ;
 webSem:MaryOrr a webSem:Person ;
     webSem:name "Mary Orr" .
 
+webSem:MaryPoppins a webSem:Movie ;
+    webSem:title "Mary Poppins" ;
+    webSem:year "1964"^^xsd:int .
+
 webSem:MaryShelley a webSem:Person ;
     webSem:name "Mary Shelley" .
 
@@ -4794,6 +5868,10 @@ webSem:MarySteenburgen a webSem:Person ;
 
 webSem:MarySweeney a webSem:Person ;
     webSem:name "Mary Sweeney" .
+
+webSem:MaryandMax a webSem:Movie ;
+    webSem:title "Mary and Max" ;
+    webSem:year "2009"^^xsd:int .
 
 webSem:MaríaMarull a webSem:Person ;
     webSem:name "María Marull" .
@@ -4873,6 +5951,14 @@ webSem:MaxwellAnderson a webSem:Person ;
 webSem:MayumiTanaka a webSem:Person ;
     webSem:name "Mayumi Tanaka" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#McCabe&Mrs.Miller> a webSem:Movie ;
+    webSem:title "McCabe & Mrs. Miller" ;
+    webSem:year "1971"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#McFarland,USA> a webSem:Movie ;
+    webSem:title "McFarland, USA" ;
+    webSem:year "2015"^^xsd:int .
+
 webSem:MeatLoaf a webSem:Person ;
     webSem:name "Meat Loaf" .
 
@@ -4918,6 +6004,14 @@ webSem:MelissaBenoist a webSem:Person ;
 webSem:MelissaMathison a webSem:Person ;
     webSem:name "Melissa Mathison" .
 
+webSem:Memento a webSem:Movie ;
+    webSem:title "Memento" ;
+    webSem:year "2000"^^xsd:int .
+
+webSem:MemoriesofMurder a webSem:Movie ;
+    webSem:title "Memories of Murder" ;
+    webSem:year "2003"^^xsd:int .
+
 webSem:MennoMeyjes a webSem:Person ;
     webSem:name "Menno Meyjes" .
 
@@ -4932,6 +6026,10 @@ webSem:MervynLeRoy a webSem:Person ;
 
 webSem:MerylStreep a webSem:Person ;
     webSem:name "Meryl Streep" .
+
+webSem:Metropolis a webSem:Movie ;
+    webSem:title "Metropolis" ;
+    webSem:year "1927"^^xsd:int .
 
 webSem:MiaFarrow a webSem:Person ;
     webSem:name "Mia Farrow" .
@@ -5080,6 +6178,10 @@ webSem:MikeVitar a webSem:Person ;
 webSem:MikhailBychkov a webSem:Person ;
     webSem:name "Mikhail Bychkov" .
 
+webSem:MildredPierce a webSem:Movie ;
+    webSem:title "Mildred Pierce" ;
+    webSem:year "1945"^^xsd:int .
+
 webSem:MilesHoodSwarthout a webSem:Person ;
     webSem:name "Miles Hood Swarthout" .
 
@@ -5088,6 +6190,10 @@ webSem:MilesTeller a webSem:Person ;
 
 webSem:MillicentSimmonds a webSem:Person ;
     webSem:name "Millicent Simmonds" .
+
+webSem:MillionDollarBaby a webSem:Movie ;
+    webSem:title "Million Dollar Baby" ;
+    webSem:year "2004"^^xsd:int .
 
 webSem:MiloVentimiglia a webSem:Person ;
     webSem:name "Milo Ventimiglia" .
@@ -5104,11 +6210,23 @@ webSem:Ming-NaWen a webSem:Person ;
 webSem:MinoruChiaki a webSem:Person ;
     webSem:name "Minoru Chiaki" .
 
+webSem:Miracle a webSem:Movie ;
+    webSem:title "Miracle" ;
+    webSem:year "2004"^^xsd:int .
+
 webSem:MiriamShor a webSem:Person ;
     webSem:name "Miriam Shor" .
 
 webSem:MirjanaJokovic a webSem:Person ;
     webSem:name "Mirjana Jokovic" .
+
+webSem:Mirror a webSem:Movie ;
+    webSem:title "Mirror" ;
+    webSem:year "1975"^^xsd:int .
+
+webSem:MirrorGame a webSem:Movie ;
+    webSem:title "Mirror Game" ;
+    webSem:year "2016"^^xsd:int .
 
 webSem:MiteshShah a webSem:Person ;
     webSem:name "Mitesh Shah" .
@@ -5122,6 +6240,14 @@ webSem:MitsuoIwata a webSem:Person ;
 webSem:MiyuIrino a webSem:Person ;
     webSem:name "Miyu Irino" .
 
+webSem:Moana a webSem:Movie ;
+    webSem:title "Moana" ;
+    webSem:year "2016"^^xsd:int .
+
+webSem:ModernTimes a webSem:Movie ;
+    webSem:title "Modern Times" ;
+    webSem:year "1936"^^xsd:int .
+
 webSem:MohammadAmirNaji a webSem:Person ;
     webSem:name "Mohammad Amir Naji" .
 
@@ -5134,6 +6260,10 @@ webSem:MohitRaina a webSem:Person ;
 webSem:MoiraShearer a webSem:Person ;
     webSem:name "Moira Shearer" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Molly'sGame> a webSem:Movie ;
+    webSem:title "Molly's Game" ;
+    webSem:year "2017"^^xsd:int .
+
 webSem:MollyBloom a webSem:Person ;
     webSem:name "Molly Bloom" .
 
@@ -5143,8 +6273,20 @@ webSem:MonaSingh a webSem:Person ;
 webSem:MoneKamishiraishi a webSem:Person ;
     webSem:name "Mone Kamishiraishi" .
 
+webSem:Moneyball a webSem:Movie ;
+    webSem:title "Moneyball" ;
+    webSem:year "2011"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Monsters,Inc.> a webSem:Movie ;
+    webSem:title "Monsters, Inc." ;
+    webSem:year "2001"^^xsd:int .
+
 webSem:MontgomeryClift a webSem:Person ;
     webSem:name "Montgomery Clift" .
+
+webSem:MontyPythonandtheHolyGrail a webSem:Movie ;
+    webSem:title "Monty Python and the Holy Grail" ;
+    webSem:year "1975"^^xsd:int .
 
 webSem:MorganFreeman a webSem:Person ;
     webSem:name "Morgan Freeman" .
@@ -5158,8 +6300,16 @@ webSem:MorrieRyskind a webSem:Person ;
 webSem:MortenTyldum a webSem:Person ;
     webSem:name "Morten Tyldum" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#MoulinRouge!> a webSem:Movie ;
+    webSem:title "Moulin Rouge!" ;
+    webSem:year "2001"^^xsd:int .
+
 webSem:MoustaphaAkkad a webSem:Person ;
     webSem:name "Moustapha Akkad" .
+
+webSem:Mr.SmithGoestoWashington a webSem:Movie ;
+    webSem:title "Mr. Smith Goes to Washington" ;
+    webSem:year "1939"^^xsd:int .
 
 webSem:MrunalThakur a webSem:Person ;
     webSem:name "Mrunal Thakur" .
@@ -5169,6 +6319,22 @@ webSem:MuazzamBeg a webSem:Person ;
 
 webSem:MukeshChhabra a webSem:Person ;
     webSem:name "Mukesh Chhabra" .
+
+webSem:Mulan a webSem:Movie ;
+    webSem:title "Mulan" ;
+    webSem:year "1998"^^xsd:int .
+
+webSem:MyFairLady a webSem:Movie ;
+    webSem:title "My Fair Lady" ;
+    webSem:year "1964"^^xsd:int .
+
+webSem:MyFatherandMySon a webSem:Movie ;
+    webSem:title "My Father and My Son" ;
+    webSem:year "2005"^^xsd:int .
+
+webSem:MyNeighborTotoro a webSem:Movie ;
+    webSem:title "My Neighbor Totoro" ;
+    webSem:year "1988"^^xsd:int .
 
 webSem:MylesConnolly a webSem:Person ;
     webSem:name "Myles Connolly" .
@@ -5212,6 +6378,10 @@ webSem:NargisFakhri a webSem:Person ;
 webSem:NaseeruddinShah a webSem:Person ;
     webSem:name "Naseeruddin Shah" .
 
+webSem:Nashville a webSem:Movie ;
+    webSem:title "Nashville" ;
+    webSem:year "1975"^^xsd:int .
+
 webSem:Nassar a webSem:Person ;
     webSem:name "Nassar" .
 
@@ -5232,6 +6402,10 @@ webSem:NathanWest a webSem:Person ;
 
 webSem:NatsukiHanae a webSem:Person ;
     webSem:name "Natsuki Hanae" .
+
+webSem:NausicaäoftheValleyoftheWind a webSem:Movie ;
+    webSem:title "Nausicaä of the Valley of the Wind" ;
+    webSem:year "1984"^^xsd:int .
 
 webSem:NawazuddinSiddiqui a webSem:Person ;
     webSem:name "Nawazuddin Siddiqui" .
@@ -5264,6 +6438,18 @@ webSem:NeilPatrickHarris a webSem:Person ;
 
 webSem:NellCattrysse a webSem:Person ;
     webSem:name "Nell Cattrysse" .
+
+webSem:NeonGenesisEvangelion a webSem:Movie ;
+    webSem:title "Neon Genesis Evangelion" ;
+    webSem:year "1995"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#NeonGenesisEvangelion:TheEndofEvangelion> a webSem:Movie ;
+    webSem:title "Neon Genesis Evangelion: The End of Evangelion" ;
+    webSem:year "1997"^^xsd:int .
+
+webSem:Network a webSem:Movie ;
+    webSem:title "Network" ;
+    webSem:year "1976"^^xsd:int .
 
 webSem:NiZhen a webSem:Person ;
     webSem:name "Ni Zhen" .
@@ -5310,6 +6496,10 @@ webSem:NicolettaBraschi a webSem:Person ;
 webSem:Nien-JenWu a webSem:Person ;
     webSem:name "Nien-Jen Wu" .
 
+webSem:NightoftheLivingDead a webSem:Movie ;
+    webSem:title "Night of the Living Dead" ;
+    webSem:year "1968"^^xsd:int .
+
 webSem:NikhilMehrotra a webSem:Person ;
     webSem:name "Nikhil Mehrotra" .
 
@@ -5346,6 +6536,10 @@ webSem:NishikantKamat a webSem:Person ;
 webSem:NiteshTiwari a webSem:Person ;
     webSem:name "Nitesh Tiwari" .
 
+webSem:NoCountryforOldMen a webSem:Movie ;
+    webSem:title "No Country for Old Men" ;
+    webSem:year "2007"^^xsd:int .
+
 webSem:NoahBaumbach a webSem:Person ;
     webSem:name "Noah Baumbach" .
 
@@ -5373,6 +6567,18 @@ webSem:NormanJewison a webSem:Person ;
 webSem:NormanSteinberg a webSem:Person ;
     webSem:name "Norman Steinberg" .
 
+webSem:NorthbyNorthwest a webSem:Movie ;
+    webSem:title "North by Northwest" ;
+    webSem:year "1959"^^xsd:int .
+
+webSem:Nosferatu a webSem:Movie ;
+    webSem:title "Nosferatu" ;
+    webSem:year "1922"^^xsd:int .
+
+webSem:Notorious a webSem:Movie ;
+    webSem:title "Notorious" ;
+    webSem:year "1946"^^xsd:int .
+
 webSem:NozomuSasaki a webSem:Person ;
     webSem:name "Nozomu Sasaki" .
 
@@ -5388,8 +6594,24 @@ webSem:NunnallyJohnson a webSem:Person ;
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#O'SheaJacksonJr.> a webSem:Person ;
     webSem:name "O'Shea Jackson Jr." .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#OBrother,WhereArtThou?> a webSem:Movie ;
+    webSem:title "O Brother, Where Art Thou?" ;
+    webSem:year "2000"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#OMG:OhMyGod!> a webSem:Movie ;
+    webSem:title "OMG: Oh My God!" ;
+    webSem:year "2012"^^xsd:int .
+
 webSem:OctaviaSpencer a webSem:Person ;
     webSem:name "Octavia Spencer" .
+
+webSem:OfMiceandMen a webSem:Movie ;
+    webSem:title "Of Mice and Men" ;
+    webSem:year "1992"^^xsd:int .
+
+webSem:Oldboy a webSem:Movie ;
+    webSem:title "Oldboy" ;
+    webSem:year "2003"^^xsd:int .
 
 webSem:OlgaBaclanova a webSem:Person ;
     webSem:name "Olga Baclanova" .
@@ -5424,8 +6646,36 @@ webSem:OlivierNakache a webSem:Person ;
 webSem:OmarSy a webSem:Person ;
     webSem:name "Omar Sy" .
 
+webSem:Once a webSem:Movie ;
+    webSem:title "Once" ;
+    webSem:year "2007"^^xsd:int .
+
+webSem:OnceUponaTimeinAmerica a webSem:Movie ;
+    webSem:title "Once Upon a Time in America" ;
+    webSem:year "1984"^^xsd:int .
+
+webSem:OnceUponaTimeintheWest a webSem:Movie ;
+    webSem:title "Once Upon a Time in the West" ;
+    webSem:year "1968"^^xsd:int .
+
+webSem:OneCutoftheDead a webSem:Movie ;
+    webSem:title "One Cut of the Dead" ;
+    webSem:year "2017"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#OneFlewOvertheCuckoo'sNest> a webSem:Movie ;
+    webSem:title "One Flew Over the Cuckoo's Nest" ;
+    webSem:year "1975"^^xsd:int .
+
+webSem:OntheWaterfront a webSem:Movie ;
+    webSem:title "On the Waterfront" ;
+    webSem:year "1954"^^xsd:int .
+
 webSem:OonaLaurence a webSem:Person ;
     webSem:name "Oona Laurence" .
+
+webSem:OpenRange a webSem:Movie ;
+    webSem:title "Open Range" ;
+    webSem:year "2003"^^xsd:int .
 
 webSem:OresteBiancoli a webSem:Person ;
     webSem:name "Oreste Biancoli" .
@@ -5445,6 +6695,10 @@ webSem:OttoPreminger a webSem:Person ;
 webSem:OttoSander a webSem:Person ;
     webSem:name "Otto Sander" .
 
+webSem:OutofthePast a webSem:Movie ;
+    webSem:title "Out of the Past" ;
+    webSem:year "1947"^^xsd:int .
+
 webSem:OwenWilson a webSem:Person ;
     webSem:name "Owen Wilson" .
 
@@ -5457,6 +6711,14 @@ webSem:P.F.Kluge a webSem:Person ;
 webSem:P.L.Travers a webSem:Person ;
     webSem:name "P.L. Travers" .
 
+webSem:PK a webSem:Movie ;
+    webSem:title "PK" ;
+    webSem:year "2014"^^xsd:int .
+
+webSem:PaanSinghTomar a webSem:Movie ;
+    webSem:title "Paan Singh Tomar" ;
+    webSem:year "2012"^^xsd:int .
+
 webSem:PabloRago a webSem:Person ;
     webSem:name "Pablo Rago" .
 
@@ -5466,14 +6728,30 @@ webSem:PaddyChayefsky a webSem:Person ;
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#PaigeO'Hara> a webSem:Person ;
     webSem:name "Paige O'Hara" .
 
+webSem:PaleRider a webSem:Movie ;
+    webSem:title "Pale Rider" ;
+    webSem:year "1985"^^xsd:int .
+
 webSem:PamBrady a webSem:Person ;
     webSem:name "Pam Brady" .
 
 webSem:PamelaAdlon a webSem:Person ;
     webSem:name "Pamela Adlon" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Pan'sLabyrinth> a webSem:Movie ;
+    webSem:title "Pan's Labyrinth" ;
+    webSem:year "2006"^^xsd:int .
+
+webSem:Papillon a webSem:Movie ;
+    webSem:title "Papillon" ;
+    webSem:year "1973"^^xsd:int .
+
 webSem:ParambrataChattopadhyay a webSem:Person ;
     webSem:name "Parambrata Chattopadhyay" .
+
+webSem:Parasite a webSem:Movie ;
+    webSem:title "Parasite" ;
+    webSem:year "2019"^^xsd:int .
 
 webSem:PareshRawal a webSem:Person ;
     webSem:name "Paresh Rawal" .
@@ -5492,6 +6770,14 @@ webSem:PascalGreggory a webSem:Person ;
 
 webSem:PasqualeFestaCampanile a webSem:Person ;
     webSem:name "Pasquale Festa Campanile" .
+
+webSem:PatherPanchali a webSem:Movie ;
+    webSem:title "Pather Panchali" ;
+    webSem:year "1955"^^xsd:int .
+
+webSem:PathsofGlory a webSem:Movie ;
+    webSem:title "Paths of Glory" ;
+    webSem:year "1957"^^xsd:int .
 
 webSem:PatriciaClarkson a webSem:Person ;
     webSem:name "Patricia Clarkson" .
@@ -5577,6 +6863,10 @@ webSem:PaymanMaadi a webSem:Person ;
 webSem:PedroAlmodóvar a webSem:Person ;
     webSem:name "Pedro Almodóvar" .
 
+webSem:PeepingTom a webSem:Movie ;
+    webSem:title "Peeping Tom" ;
+    webSem:year "1960"^^xsd:int .
+
 webSem:PeggyWebling a webSem:Person ;
     webSem:name "Peggy Webling" .
 
@@ -5588,6 +6878,18 @@ webSem:PennyMarshall a webSem:Person ;
 
 webSem:PerRagnar a webSem:Person ;
     webSem:name "Per Ragnar" .
+
+webSem:PerfectBlue a webSem:Movie ;
+    webSem:title "Perfect Blue" ;
+    webSem:year "1997"^^xsd:int .
+
+webSem:Persepolis a webSem:Movie ;
+    webSem:title "Persepolis" ;
+    webSem:year "2007"^^xsd:int .
+
+webSem:Persona a webSem:Movie ;
+    webSem:title "Persona" ;
+    webSem:year "1966"^^xsd:int .
 
 webSem:PeteDocter a webSem:Person ;
     webSem:name "Pete Docter" .
@@ -5718,14 +7020,38 @@ webSem:PierreBrasseur a webSem:Person ;
 webSem:Pik-WahLee a webSem:Person ;
     webSem:name "Pik-Wah Lee" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#PinkFloyd:TheWall> a webSem:Movie ;
+    webSem:title "Pink Floyd: The Wall" ;
+    webSem:year "1982"^^xsd:int .
+
+webSem:Pinocchio a webSem:Movie ;
+    webSem:title "Pinocchio" ;
+    webSem:year "1940"^^xsd:int .
+
 webSem:PiperLaurie a webSem:Person ;
     webSem:name "Piper Laurie" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#PiratesoftheCaribbean:TheCurseoftheBlackPearl> a webSem:Movie ;
+    webSem:title "Pirates of the Caribbean: The Curse of the Black Pearl" ;
+    webSem:year "2003"^^xsd:int .
 
 webSem:PiyushGupta a webSem:Person ;
     webSem:name "Piyush Gupta" .
 
+webSem:PlanetoftheApes a webSem:Movie ;
+    webSem:title "Planet of the Apes" ;
+    webSem:year "1968"^^xsd:int .
+
+webSem:Platoon a webSem:Movie ;
+    webSem:title "Platoon" ;
+    webSem:year "1986"^^xsd:int .
+
 webSem:PonParthiban a webSem:Person ;
     webSem:name "Pon Parthiban" .
+
+webSem:PortraitofaLadyonFire a webSem:Movie ;
+    webSem:title "Portrait of a Lady on Fire" ;
+    webSem:year "2019"^^xsd:int .
 
 webSem:Prabhas a webSem:Person ;
     webSem:name "Prabhas" .
@@ -5739,6 +7065,10 @@ webSem:PrashanthNeel a webSem:Person ;
 webSem:PrasoonJoshi a webSem:Person ;
     webSem:name "Prasoon Joshi" .
 
+webSem:Predator a webSem:Movie ;
+    webSem:title "Predator" ;
+    webSem:year "1987"^^xsd:int .
+
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Predrag'Miki'Manojlovic> a webSem:Person ;
     webSem:name "Predrag 'Miki' Manojlovic" .
 
@@ -5751,11 +7081,31 @@ webSem:PreityZinta a webSem:Person ;
 webSem:PrestonSturges a webSem:Person ;
     webSem:name "Preston Sturges" .
 
+webSem:Pride a webSem:Movie ;
+    webSem:title "Pride" ;
+    webSem:year "2014"^^xsd:int .
+
+webSem:PrincessMononoke a webSem:Movie ;
+    webSem:title "Princess Mononoke" ;
+    webSem:year "1997"^^xsd:int .
+
+webSem:Prisoners a webSem:Movie ;
+    webSem:title "Prisoners" ;
+    webSem:year "2013"^^xsd:int .
+
 webSem:PriyankaChopraJonas a webSem:Person ;
     webSem:name "Priyanka Chopra Jonas" .
 
 webSem:PruittTaylorVince a webSem:Person ;
     webSem:name "Pruitt Taylor Vince" .
+
+webSem:Psycho a webSem:Movie ;
+    webSem:title "Psycho" ;
+    webSem:year "1960"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#PussinBoots:TheLastWish> a webSem:Movie ;
+    webSem:title "Puss in Boots: The Last Wish" ;
+    webSem:year "2022"^^xsd:int .
 
 webSem:QuentinTarantino a webSem:Person,
         owl:NamedIndividual ;
@@ -5771,11 +7121,19 @@ webSem:QuentinTarantino a webSem:Person,
 webSem:QuintonAaron a webSem:Person ;
     webSem:name "Quinton Aaron" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#QuoVadis,Aida?> a webSem:Movie ;
+    webSem:title "Quo Vadis, Aida?" ;
+    webSem:year "2020"^^xsd:int .
+
 webSem:R.C.Sherriff a webSem:Person ;
     webSem:name "R.C. Sherriff" .
 
 webSem:R.LeeErmey a webSem:Person ;
     webSem:name "R. Lee Ermey" .
+
+webSem:Raatchasan a webSem:Movie ;
+    webSem:title "Raatchasan" ;
+    webSem:year "2018"^^xsd:int .
 
 webSem:RachelHouse a webSem:Person ;
     webSem:name "Rachel House" .
@@ -5792,11 +7150,19 @@ webSem:RadhikaApte a webSem:Person ;
 webSem:RaghuvirYadav a webSem:Person ;
     webSem:name "Raghuvir Yadav" .
 
+webSem:RagingBull a webSem:Movie ;
+    webSem:title "Raging Bull" ;
+    webSem:year "1980"^^xsd:int .
+
 webSem:RahiAnilBarve a webSem:Person ;
     webSem:name "Rahi Anil Barve" .
 
 webSem:RahulPandey a webSem:Person ;
     webSem:name "Rahul Pandey" .
+
+webSem:RaisetheRedLantern a webSem:Movie ;
+    webSem:title "Raise the Red Lantern" ;
+    webSem:year "1991"^^xsd:int .
 
 webSem:RajArjun a webSem:Person ;
     webSem:name "Raj Arjun" .
@@ -5852,6 +7218,10 @@ webSem:RamiMalek a webSem:Person ;
 webSem:RamiroRodriguez a webSem:Person ;
     webSem:name "Ramiro Rodriguez" .
 
+webSem:Ran a webSem:Movie ;
+    webSem:title "Ran" ;
+    webSem:year "1985"^^xsd:int .
+
 webSem:RanaDaggubati a webSem:Person ;
     webSem:name "Rana Daggubati" .
 
@@ -5879,11 +7249,23 @@ webSem:RashidaJones a webSem:Person ;
 webSem:RashmikaMandanna a webSem:Person ;
     webSem:name "Rashmika Mandanna" .
 
+webSem:Rashomon a webSem:Movie ;
+    webSem:title "Rashomon" ;
+    webSem:year "1950"^^xsd:int .
+
+webSem:Ratatouille a webSem:Movie ;
+    webSem:title "Ratatouille" ;
+    webSem:year "2007"^^xsd:int .
+
 webSem:RathnaKumar a webSem:Person ;
     webSem:name "Rathna Kumar" .
 
 webSem:RaveenaTandon a webSem:Person ;
     webSem:name "Raveena Tandon" .
+
+webSem:Ray a webSem:Movie ;
+    webSem:title "Ray" ;
+    webSem:year "2004"^^xsd:int .
 
 webSem:RayBolger a webSem:Person ;
     webSem:name "Ray Bolger" .
@@ -5909,8 +7291,20 @@ webSem:RaymondW.Thorp a webSem:Person ;
 webSem:RaynoldGideon a webSem:Person ;
     webSem:name "Raynold Gideon" .
 
+webSem:RearWindow a webSem:Movie ;
+    webSem:title "Rear Window" ;
+    webSem:year "1954"^^xsd:int .
+
+webSem:Rebecca a webSem:Movie ;
+    webSem:title "Rebecca" ;
+    webSem:year "1940"^^xsd:int .
+
 webSem:RebeccaFerguson a webSem:Person ;
     webSem:name "Rebecca Ferguson" .
+
+webSem:RedRiver a webSem:Movie ;
+    webSem:title "Red River" ;
+    webSem:year "1948"^^xsd:int .
 
 webSem:ReemaKagti a webSem:Person ;
     webSem:name "Reema Kagti" .
@@ -5933,6 +7327,10 @@ webSem:ReikoYoshida a webSem:Person ;
 webSem:ReinaldoMarcusGreen a webSem:Person ;
     webSem:name "Reinaldo Marcus Green" .
 
+webSem:RemembertheTitans a webSem:Movie ;
+    webSem:title "Remember the Titans" ;
+    webSem:year "2000"^^xsd:int .
+
 webSem:ReneAuberjonois a webSem:Person ;
     webSem:name "Rene Auberjonois" .
 
@@ -5941,6 +7339,18 @@ webSem:RenéWheeler a webSem:Person ;
 
 webSem:RenéeZellweger a webSem:Person ;
     webSem:name "Renée Zellweger" .
+
+webSem:Repulsion a webSem:Movie ;
+    webSem:title "Repulsion" ;
+    webSem:year "1965"^^xsd:int .
+
+webSem:RequiemforaDream a webSem:Movie ;
+    webSem:title "Requiem for a Dream" ;
+    webSem:year "2000"^^xsd:int .
+
+webSem:ReservoirDogs a webSem:Movie ;
+    webSem:title "Reservoir Dogs" ;
+    webSem:year "1992"^^xsd:int .
 
 webSem:Revathi a webSem:Person ;
     webSem:name "Revathi" .
@@ -6016,6 +7426,10 @@ webSem:RikaTakahashi a webSem:Person ;
 
 webSem:RikoSakaguchi a webSem:Person ;
     webSem:name "Riko Sakaguchi" .
+
+webSem:RioBravo a webSem:Movie ;
+    webSem:title "Rio Bravo" ;
+    webSem:year "1959"^^xsd:int .
 
 webSem:RishabShetty a webSem:Person ;
     webSem:name "Rishab Shetty" .
@@ -6179,6 +7593,10 @@ webSem:RobertoBenigni a webSem:Person ;
 webSem:RobinBhatt a webSem:Person ;
     webSem:name "Robin Bhatt" .
 
+webSem:RobinHood a webSem:Movie ;
+    webSem:title "Robin Hood" ;
+    webSem:year "1973"^^xsd:int .
+
 webSem:RobinWilliams a webSem:Person ;
     webSem:name "Robin Williams" .
 
@@ -6193,6 +7611,22 @@ webSem:RochelleDavis a webSem:Person ;
 
 webSem:RockHudson a webSem:Person ;
     webSem:name "Rock Hudson" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Rocketry:TheNambiEffect> a webSem:Movie ;
+    webSem:title "Rocketry: The Nambi Effect" ;
+    webSem:year "2022"^^xsd:int .
+
+webSem:Rockstar a webSem:Movie ;
+    webSem:title "Rockstar" ;
+    webSem:year "2011"^^xsd:int .
+
+webSem:Rocky a webSem:Movie ;
+    webSem:title "Rocky" ;
+    webSem:year "1976"^^xsd:int .
+
+webSem:RockyII a webSem:Movie ;
+    webSem:title "Rocky II" ;
+    webSem:year "1979"^^xsd:int .
 
 webSem:RodSerling a webSem:Person ;
     webSem:name "Rod Serling" .
@@ -6281,6 +7715,10 @@ webSem:RoneeBlakley a webSem:Person ;
 webSem:RonnieDelCarmen a webSem:Person ;
     webSem:name "Ronnie Del Carmen" .
 
+webSem:Room a webSem:Movie ;
+    webSem:title "Room" ;
+    webSem:year "2015"^^xsd:int .
+
 webSem:RooneyMara a webSem:Person ;
     webSem:name "Rooney Mara" .
 
@@ -6295,6 +7733,10 @@ webSem:RoseMcGowan a webSem:Person ;
 
 webSem:RosemarieDeWitt a webSem:Person ;
     webSem:name "Rosemarie DeWitt" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Rosemary'sBaby> a webSem:Movie ;
+    webSem:title "Rosemary's Baby" ;
+    webSem:year "1968"^^xsd:int .
 
 webSem:RossStewart a webSem:Person ;
     webSem:name "Ross Stewart" .
@@ -6311,6 +7753,10 @@ webSem:RubenFleischer a webSem:Person ;
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Rubin'Hurricane'Carter> a webSem:Person ;
     webSem:name "Rubin 'Hurricane' Carter" .
 
+webSem:Rudy a webSem:Movie ;
+    webSem:title "Rudy" ;
+    webSem:year "1993"^^xsd:int .
+
 webSem:Rufus a webSem:Person ;
     webSem:name "Rufus" .
 
@@ -6319,6 +7765,10 @@ webSem:RupertGraves a webSem:Person ;
 
 webSem:RupertGrint a webSem:Person ;
     webSem:name "Rupert Grint" .
+
+webSem:Rush a webSem:Movie ;
+    webSem:title "Rush" ;
+    webSem:year "2013"^^xsd:int .
 
 webSem:RusselCrouse a webSem:Person ;
     webSem:name "Russel Crouse" .
@@ -6518,6 +7968,10 @@ webSem:SarahBerry a webSem:Person ;
 webSem:SarahWaters a webSem:Person ;
     webSem:name "Sarah Waters" .
 
+webSem:SardarUdham a webSem:Movie ;
+    webSem:title "Sardar Udham" ;
+    webSem:year "2021"^^xsd:int .
+
 webSem:SarehBayat a webSem:Person ;
     webSem:name "Sareh Bayat" .
 
@@ -6545,11 +7999,28 @@ webSem:SaumyaJoshi a webSem:Person ;
 webSem:SaurabhM.Pandey a webSem:Person ;
     webSem:name "Saurabh M. Pandey" .
 
+webSem:SavingPrivateRyan a webSem:Movie ;
+    webSem:title "Saving Private Ryan" ;
+    webSem:year "1998"^^xsd:int .
+
+webSem:Saw a webSem:Movie ;
+    webSem:title "Saw" ;
+    webSem:year "2004"^^xsd:int .
+
 webSem:SaïdTaghmaoui a webSem:Person ;
     webSem:name "Saïd Taghmaoui" .
 
+webSem:Scarface a webSem:Movie ;
+    webSem:title "Scarface" ;
+    webSem:year "1932"^^xsd:int,
+        "1983"^^xsd:int .
+
 webSem:ScarlettJohansson a webSem:Person ;
     webSem:name "Scarlett Johansson" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Schindler'sList> a webSem:Movie ;
+    webSem:title "Schindler's List" ;
+    webSem:year "1993"^^xsd:int .
 
 webSem:ScottAdsit a webSem:Person ;
     webSem:name "Scott Adsit" .
@@ -6587,6 +8058,10 @@ webSem:ScottWeinger a webSem:Person ;
 webSem:ScottWilson a webSem:Person ;
     webSem:name "Scott Wilson" .
 
+webSem:Se7en a webSem:Movie ;
+    webSem:title "Se7en" ;
+    webSem:year "1995"^^xsd:int .
+
 webSem:SeanAstin a webSem:Person ;
     webSem:name "Sean Astin" .
 
@@ -6605,6 +8080,10 @@ webSem:SeanPenn a webSem:Person ;
 webSem:SeanYoung a webSem:Person ;
     webSem:name "Sean Young" .
 
+webSem:SearchingforBobbyFischer a webSem:Movie ;
+    webSem:title "Searching for Bobby Fischer" ;
+    webSem:year "1993"^^xsd:int .
+
 webSem:SebastianCabot a webSem:Person ;
     webSem:name "Sebastian Cabot" .
 
@@ -6613,6 +8092,10 @@ webSem:SebastianKoch a webSem:Person ;
 
 webSem:SebastianStan a webSem:Person ;
     webSem:name "Sebastian Stan" .
+
+webSem:SecretSuperstar a webSem:Movie ;
+    webSem:title "Secret Superstar" ;
+    webSem:year "2017"^^xsd:int .
 
 webSem:SergeiEisenstein a webSem:Person ;
     webSem:name "Sergei Eisenstein" .
@@ -6632,6 +8115,18 @@ webSem:SergioPablos a webSem:Person ;
 webSem:SetonI.Miller a webSem:Person ;
     webSem:name "Seton I. Miller" .
 
+webSem:SevenBridesforSevenBrothers a webSem:Movie ;
+    webSem:title "Seven Brides for Seven Brothers" ;
+    webSem:year "1954"^^xsd:int .
+
+webSem:SevenSamurai a webSem:Movie ;
+    webSem:title "Seven Samurai" ;
+    webSem:year "1954"^^xsd:int .
+
+webSem:ShadowofaDoubt a webSem:Movie ;
+    webSem:title "Shadow of a Doubt" ;
+    webSem:year "1943"^^xsd:int .
+
 webSem:ShahRukhKhan a webSem:Person ;
     webSem:name "Shah Rukh Khan" .
 
@@ -6644,6 +8139,10 @@ webSem:ShameikMoore a webSem:Person ;
 webSem:ShammiKapoor a webSem:Person ;
     webSem:name "Shammi Kapoor" .
 
+webSem:Shane a webSem:Movie ;
+    webSem:title "Shane" ;
+    webSem:year "1953"^^xsd:int .
+
 webSem:SharonStone a webSem:Person ;
     webSem:name "Sharon Stone" .
 
@@ -6653,11 +8152,23 @@ webSem:ShashankKhaitan a webSem:Person ;
 webSem:ShaunScott a webSem:Person ;
     webSem:name "Shaun Scott" .
 
+webSem:ShaunoftheDead a webSem:Movie ;
+    webSem:title "Shaun of the Dead" ;
+    webSem:year "2004"^^xsd:int .
+
 webSem:ShelleyDuvall a webSem:Person ;
     webSem:name "Shelley Duvall" .
 
 webSem:ShelleyWinters a webSem:Person ;
     webSem:name "Shelley Winters" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#SherlockJr.> a webSem:Movie ;
+    webSem:title "Sherlock Jr." ;
+    webSem:year "1924"^^xsd:int .
+
+webSem:Shershaah a webSem:Movie ;
+    webSem:title "Shershaah" ;
+    webSem:year "2021"^^xsd:int .
 
 webSem:SherwoodKing a webSem:Person ;
     webSem:name "Sherwood King" .
@@ -6677,6 +8188,10 @@ webSem:ShimitAmin a webSem:Person ;
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Shin'ichirôUeda> a webSem:Person ;
     webSem:name "Shin'ichirô Ueda" .
 
+webSem:Shine a webSem:Movie ;
+    webSem:title "Shine" ;
+    webSem:year "1996"^^xsd:int .
+
 webSem:ShinobuHashimoto a webSem:Person ;
     webSem:name "Shinobu Hashimoto" .
 
@@ -6692,6 +8207,10 @@ webSem:ShirowMasamune a webSem:Person ;
 webSem:ShivPanditt a webSem:Person ;
     webSem:name "Shiv Panditt" .
 
+webSem:Sholay a webSem:Movie ;
+    webSem:title "Sholay" ;
+    webSem:year "1975"^^xsd:int .
+
 webSem:SholomAleichem a webSem:Person ;
     webSem:name "Sholom Aleichem" .
 
@@ -6701,6 +8220,10 @@ webSem:ShoojitSircar a webSem:Person ;
 webSem:ShraddhaKapoor a webSem:Person ;
     webSem:name "Shraddha Kapoor" .
 
+webSem:Shrek a webSem:Movie ;
+    webSem:title "Shrek" ;
+    webSem:year "2001"^^xsd:int .
+
 webSem:ShreyasJain a webSem:Person ;
     webSem:name "Shreyas Jain" .
 
@@ -6709,6 +8232,10 @@ webSem:ShriyaSaran a webSem:Person ;
 
 webSem:ShubhenduBhattacharya a webSem:Person ;
     webSem:name "Shubhendu Bhattacharya" .
+
+webSem:ShutterIsland a webSem:Movie ;
+    webSem:title "Shutter Island" ;
+    webSem:year "2010"^^xsd:int .
 
 webSem:ShwetaBasuPrasad a webSem:Person ;
     webSem:name "Shweta Basu Prasad" .
@@ -6758,8 +8285,20 @@ webSem:SimoneSignoret a webSem:Person ;
 webSem:Simran a webSem:Person ;
     webSem:name "Simran" .
 
+webSem:SingStreet a webSem:Movie ;
+    webSem:title "Sing Street" ;
+    webSem:year "2016"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Singin'intheRain> a webSem:Movie ;
+    webSem:title "Singin' in the Rain" ;
+    webSem:year "1952"^^xsd:int .
+
 webSem:SissySpacek a webSem:Person ;
     webSem:name "Sissy Spacek" .
+
+webSem:SitaRamam a webSem:Movie ;
+    webSem:title "Sita Ramam" ;
+    webSem:year "2022"^^xsd:int .
 
 webSem:Siu-WongFan a webSem:Person ;
     webSem:name "Siu-Wong Fan" .
@@ -6773,8 +8312,20 @@ webSem:Sjón a webSem:Person ;
 webSem:SlimPickens a webSem:Person ;
     webSem:name "Slim Pickens" .
 
+webSem:Snatch a webSem:Movie ;
+    webSem:title "Snatch" ;
+    webSem:year "2000"^^xsd:int .
+
+webSem:SnowWhiteandtheSevenDwarfs a webSem:Movie ;
+    webSem:title "Snow White and the Seven Dwarfs" ;
+    webSem:year "1937"^^xsd:int .
+
 webSem:SohumShah a webSem:Person ;
     webSem:name "Sohum Shah" .
+
+webSem:Solaris a webSem:Movie ;
+    webSem:title "Solaris" ;
+    webSem:year "1972"^^xsd:int .
 
 webSem:SoledadVillamil a webSem:Person ;
     webSem:name "Soledad Villamil" .
@@ -6785,11 +8336,19 @@ webSem:SolomonNorthup a webSem:Person ;
 webSem:SolveigDommartin a webSem:Person ;
     webSem:name "Solveig Dommartin" .
 
+webSem:SomeLikeItHot a webSem:Movie ;
+    webSem:title "Some Like It Hot" ;
+    webSem:year "1959"^^xsd:int .
+
 webSem:SondraLocke a webSem:Person ;
     webSem:name "Sondra Locke" .
 
 webSem:SongKang-ho a webSem:Person ;
     webSem:name "Song Kang-ho" .
+
+webSem:SongoftheSea a webSem:Movie ;
+    webSem:title "Song of the Sea" ;
+    webSem:year "2014"^^xsd:int .
 
 webSem:SoniaChernus a webSem:Person ;
     webSem:name "Sonia Chernus" .
@@ -6797,20 +8356,72 @@ webSem:SoniaChernus a webSem:Person ;
 webSem:SonuSinha a webSem:Person ;
     webSem:name "Sonu Sinha" .
 
+webSem:SooraraiPottru a webSem:Movie ;
+    webSem:title "Soorarai Pottru" ;
+    webSem:year "2020"^^xsd:int .
+
 webSem:SophieMarceau a webSem:Person ;
     webSem:name "Sophie Marceau" .
 
 webSem:SophieOkonedo a webSem:Person ;
     webSem:name "Sophie Okonedo" .
 
+webSem:Soul a webSem:Movie ;
+    webSem:title "Soul" ;
+    webSem:year "2020"^^xsd:int .
+
+webSem:SoundofMetal a webSem:Movie ;
+    webSem:title "Sound of Metal" ;
+    webSem:year "2019"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#SouthPark:Bigger,Longer&Uncut> a webSem:Movie ;
+    webSem:title "South Park: Bigger, Longer & Uncut" ;
+    webSem:year "1999"^^xsd:int .
+
+webSem:Southpaw a webSem:Movie ;
+    webSem:title "Southpaw" ;
+    webSem:year "2015"^^xsd:int .
+
+webSem:Spartacus a webSem:Movie ;
+    webSem:title "Spartacus" ;
+    webSem:year "1960"^^xsd:int .
+
+webSem:Spellbound a webSem:Movie ;
+    webSem:title "Spellbound" ;
+    webSem:year "1945"^^xsd:int .
+
 webSem:SpencerTracy a webSem:Person ;
     webSem:name "Spencer Tracy" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Spider-Man:IntotheSpider-Verse> a webSem:Movie ;
+    webSem:title "Spider-Man: Into the Spider-Verse" ;
+    webSem:year "2018"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Spider-Man:NoWayHome> a webSem:Movie ;
+    webSem:title "Spider-Man: No Way Home" ;
+    webSem:year "2021"^^xsd:int .
 
 webSem:SpikeJonze a webSem:Person ;
     webSem:name "Spike Jonze" .
 
+webSem:SpiritedAway a webSem:Movie ;
+    webSem:title "Spirited Away" ;
+    webSem:year "2001"^^xsd:int .
+
+webSem:Spotlight a webSem:Movie ;
+    webSem:title "Spotlight" ;
+    webSem:year "2015"^^xsd:int .
+
 webSem:SriramRaghavan a webSem:Person ;
     webSem:name "Sriram Raghavan" .
+
+webSem:Stagecoach a webSem:Movie ;
+    webSem:title "Stagecoach" ;
+    webSem:year "1939"^^xsd:int .
+
+webSem:Stalker a webSem:Movie ;
+    webSem:title "Stalker" ;
+    webSem:year "1979"^^xsd:int .
 
 webSem:StanChervin a webSem:Person ;
     webSem:name "Stan Chervin" .
@@ -6820,6 +8431,10 @@ webSem:StanLee a webSem:Person ;
 
 webSem:StanRedding a webSem:Person ;
     webSem:name "Stan Redding" .
+
+webSem:StandbyMe a webSem:Movie ;
+    webSem:title "Stand by Me" ;
+    webSem:year "1986"^^xsd:int .
 
 webSem:StanislasCarrédeMalberg a webSem:Person ;
     webSem:name "Stanislas Carré de Malberg" .
@@ -6838,6 +8453,18 @@ webSem:StanleyKramer a webSem:Person ;
 
 webSem:StanleyKubrick a webSem:Person ;
     webSem:name "Stanley Kubrick" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#StarWars:EpisodeIV-ANewHope> a webSem:Movie ;
+    webSem:title "Star Wars: Episode IV - A New Hope" ;
+    webSem:year "1977"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#StarWars:EpisodeV-TheEmpireStrikesBack> a webSem:Movie ;
+    webSem:title "Star Wars: Episode V - The Empire Strikes Back" ;
+    webSem:year "1980"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#StarWars:EpisodeVI-ReturnoftheJedi> a webSem:Movie ;
+    webSem:title "Star Wars: Episode VI - Return of the Jedi" ;
+    webSem:year "1983"^^xsd:int .
 
 webSem:StefanZweig a webSem:Person ;
     webSem:name "Stefan Zweig" .
@@ -6920,6 +8547,14 @@ webSem:StevenSpielberg a webSem:Person ;
 webSem:StevenZaillian a webSem:Person ;
     webSem:name "Steven Zaillian" .
 
+webSem:StraightOuttaCompton a webSem:Movie ;
+    webSem:title "Straight Outta Compton" ;
+    webSem:year "2015"^^xsd:int .
+
+webSem:StrangersonaTrain a webSem:Movie ;
+    webSem:title "Strangers on a Train" ;
+    webSem:year "1951"^^xsd:int .
+
 webSem:StrotherMartin a webSem:Person ;
     webSem:name "Strother Martin" .
 
@@ -6956,6 +8591,14 @@ webSem:SumitaSanyal a webSem:Person ;
 webSem:Sung-boShim a webSem:Person ;
     webSem:name "Sung-bo Shim" .
 
+webSem:Sunrise a webSem:Movie ;
+    webSem:title "Sunrise" ;
+    webSem:year "1927"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#SunsetBlvd.> a webSem:Movie ;
+    webSem:title "Sunset Blvd." ;
+    webSem:year "1950"^^xsd:int .
+
 webSem:SupratikSen a webSem:Person ;
     webSem:name "Supratik Sen" .
 
@@ -6980,8 +8623,20 @@ webSem:SushantSinghRajput a webSem:Person ;
 <http://www.semanticweb.org/marya/ontologies/2023/2/webSem#SusoCecchiD'Amico> a webSem:Person ;
     webSem:name "Suso Cecchi D'Amico" .
 
+webSem:Suspicion a webSem:Movie ;
+    webSem:title "Suspicion" ;
+    webSem:year "1941"^^xsd:int .
+
 webSem:SuzannePleshette a webSem:Person ;
     webSem:name "Suzanne Pleshette" .
+
+webSem:Swades a webSem:Movie ;
+    webSem:title "Swades" ;
+    webSem:year "2004"^^xsd:int .
+
+webSem:SweetSmellofSuccess a webSem:Movie ;
+    webSem:title "Sweet Smell of Success" ;
+    webSem:year "1957"^^xsd:int .
 
 webSem:SydneyBoehm a webSem:Person ;
     webSem:name "Sydney Boehm" .
@@ -7049,6 +8704,14 @@ webSem:TakuyaKimura a webSem:Person ;
 webSem:TaliaShire a webSem:Person ;
     webSem:name "Talia Shire" .
 
+webSem:Talvar a webSem:Movie ;
+    webSem:title "Talvar" ;
+    webSem:year "2015"^^xsd:int .
+
+webSem:Tangled a webSem:Movie ;
+    webSem:title "Tangled" ;
+    webSem:year "2010"^^xsd:int .
+
 webSem:TaniBasu a webSem:Person ;
     webSem:name "Tani Basu" .
 
@@ -7063,6 +8726,10 @@ webSem:TatsuyaGashûin a webSem:Person ;
 
 webSem:TatsuyaNakadai a webSem:Person ;
     webSem:name "Tatsuya Nakadai" .
+
+webSem:TaxiDriver a webSem:Movie ;
+    webSem:title "Taxi Driver" ;
+    webSem:year "1976"^^xsd:int .
 
 webSem:TaylorHackford a webSem:Person ;
     webSem:name "Taylor Hackford" .
@@ -7094,6 +8761,10 @@ webSem:TerenceWinter a webSem:Person ;
 webSem:TeresaWright a webSem:Person ;
     webSem:name "Teresa Wright" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Terminator2:JudgmentDay> a webSem:Movie ;
+    webSem:title "Terminator 2: Judgment Day" ;
+    webSem:year "1991"^^xsd:int .
+
 webSem:TerrenceHoward a webSem:Person ;
     webSem:name "Terrence Howard" .
 
@@ -7124,8 +8795,568 @@ webSem:TewfikEl-Hakim a webSem:Person ;
 webSem:ThandiweNewton a webSem:Person ;
     webSem:name "Thandiwe Newton" .
 
+webSem:The400Blows a webSem:Movie ;
+    webSem:title "The 400 Blows" ;
+    webSem:year "1959"^^xsd:int .
+
+webSem:TheApartment a webSem:Movie ;
+    webSem:title "The Apartment" ;
+    webSem:year "1960"^^xsd:int .
+
+webSem:TheArtofRacingintheRain a webSem:Movie ;
+    webSem:title "The Art of Racing in the Rain" ;
+    webSem:year "2019"^^xsd:int .
+
+webSem:TheAsphaltJungle a webSem:Movie ;
+    webSem:title "The Asphalt Jungle" ;
+    webSem:year "1950"^^xsd:int .
+
+webSem:TheAssassinationofJesseJamesbytheCowardRobertFord a webSem:Movie ;
+    webSem:title "The Assassination of Jesse James by the Coward Robert Ford" ;
+    webSem:year "2007"^^xsd:int .
+
+webSem:TheAvengers a webSem:Movie ;
+    webSem:title "The Avengers" ;
+    webSem:year "2012"^^xsd:int .
+
+webSem:TheBalladofBusterScruggs a webSem:Movie ;
+    webSem:title "The Ballad of Buster Scruggs" ;
+    webSem:year "2018"^^xsd:int .
+
+webSem:TheBattleofAlgiers a webSem:Movie ;
+    webSem:title "The Battle of Algiers" ;
+    webSem:year "1966"^^xsd:int .
+
+webSem:TheBestYearsofOurLives a webSem:Movie ;
+    webSem:title "The Best Years of Our Lives" ;
+    webSem:year "1946"^^xsd:int .
+
+webSem:TheBigBlue a webSem:Movie ;
+    webSem:title "The Big Blue" ;
+    webSem:year "1988"^^xsd:int .
+
+webSem:TheBigHeat a webSem:Movie ;
+    webSem:title "The Big Heat" ;
+    webSem:year "1953"^^xsd:int .
+
+webSem:TheBigLebowski a webSem:Movie ;
+    webSem:title "The Big Lebowski" ;
+    webSem:year "1998"^^xsd:int .
+
+webSem:TheBigShort a webSem:Movie ;
+    webSem:title "The Big Short" ;
+    webSem:year "2015"^^xsd:int .
+
+webSem:TheBigSleep a webSem:Movie ;
+    webSem:title "The Big Sleep" ;
+    webSem:year "1946"^^xsd:int .
+
+webSem:TheBirds a webSem:Movie ;
+    webSem:title "The Birds" ;
+    webSem:year "1963"^^xsd:int .
+
+webSem:TheBlindSide a webSem:Movie ;
+    webSem:title "The Blind Side" ;
+    webSem:year "2009"^^xsd:int .
+
+webSem:TheBlueElephant a webSem:Movie ;
+    webSem:title "The Blue Elephant" ;
+    webSem:year "2014"^^xsd:int .
+
+webSem:TheBluesBrothers a webSem:Movie ;
+    webSem:title "The Blues Brothers" ;
+    webSem:year "1980"^^xsd:int .
+
+webSem:TheBoat a webSem:Movie ;
+    webSem:title "The Boat" ;
+    webSem:year "1981"^^xsd:int .
+
+webSem:TheBrideofFrankenstein a webSem:Movie ;
+    webSem:title "The Bride of Frankenstein" ;
+    webSem:year "1935"^^xsd:int .
+
+webSem:TheBridgeontheRiverKwai a webSem:Movie ;
+    webSem:title "The Bridge on the River Kwai" ;
+    webSem:year "1957"^^xsd:int .
+
+webSem:TheBrokenCircleBreakdown a webSem:Movie ;
+    webSem:title "The Broken Circle Breakdown" ;
+    webSem:year "2012"^^xsd:int .
+
+webSem:TheCabinetofDr.Caligari a webSem:Movie ;
+    webSem:title "The Cabinet of Dr. Caligari" ;
+    webSem:year "1920"^^xsd:int .
+
+webSem:TheChaosClass a webSem:Movie ;
+    webSem:title "The Chaos Class" ;
+    webSem:year "1975"^^xsd:int .
+
+webSem:TheChorus a webSem:Movie ;
+    webSem:title "The Chorus" ;
+    webSem:year "2004"^^xsd:int .
+
+webSem:TheCircus a webSem:Movie ;
+    webSem:title "The Circus" ;
+    webSem:year "1928"^^xsd:int .
+
+webSem:TheCommitments a webSem:Movie ;
+    webSem:title "The Commitments" ;
+    webSem:year "1991"^^xsd:int .
+
+webSem:TheConjuring a webSem:Movie ;
+    webSem:title "The Conjuring" ;
+    webSem:year "2013"^^xsd:int .
+
+webSem:TheCrow a webSem:Movie ;
+    webSem:title "The Crow" ;
+    webSem:year "1994"^^xsd:int .
+
+webSem:TheDamnedUnited a webSem:Movie ;
+    webSem:title "The Damned United" ;
+    webSem:year "2009"^^xsd:int .
+
+webSem:TheDarkKnight a webSem:Movie ;
+    webSem:title "The Dark Knight" ;
+    webSem:year "2008"^^xsd:int .
+
+webSem:TheDarkKnightRises a webSem:Movie ;
+    webSem:title "The Dark Knight Rises" ;
+    webSem:year "2012"^^xsd:int .
+
+webSem:TheDeerHunter a webSem:Movie ;
+    webSem:title "The Deer Hunter" ;
+    webSem:year "1978"^^xsd:int .
+
+webSem:TheDeparted a webSem:Movie ;
+    webSem:title "The Departed" ;
+    webSem:year "2006"^^xsd:int .
+
+webSem:TheDoubleLifeofVéronique a webSem:Movie ;
+    webSem:title "The Double Life of Véronique" ;
+    webSem:year "1991"^^xsd:int .
+
+webSem:TheElephantMan a webSem:Movie ;
+    webSem:title "The Elephant Man" ;
+    webSem:year "1980"^^xsd:int .
+
+webSem:TheExorcist a webSem:Movie ;
+    webSem:title "The Exorcist" ;
+    webSem:year "1973"^^xsd:int .
+
+webSem:TheExterminatingAngel a webSem:Movie ;
+    webSem:title "The Exterminating Angel" ;
+    webSem:year "1962"^^xsd:int .
+
+webSem:TheFather a webSem:Movie ;
+    webSem:title "The Father" ;
+    webSem:year "2020"^^xsd:int .
+
+webSem:TheFighter a webSem:Movie ;
+    webSem:title "The Fighter" ;
+    webSem:year "2010"^^xsd:int .
+
+webSem:TheFly a webSem:Movie ;
+    webSem:title "The Fly" ;
+    webSem:year "1986"^^xsd:int .
+
+webSem:TheGeneral a webSem:Movie ;
+    webSem:title "The General" ;
+    webSem:year "1926"^^xsd:int .
+
+webSem:TheGodfather a webSem:Movie ;
+    webSem:title "The Godfather" ;
+    webSem:year "1972"^^xsd:int .
+
+webSem:TheGodfatherPartII a webSem:Movie ;
+    webSem:title "The Godfather Part II" ;
+    webSem:year "1974"^^xsd:int .
+
+webSem:TheGoldRush a webSem:Movie ;
+    webSem:title "The Gold Rush" ;
+    webSem:year "1925"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#TheGood,theBadandtheUgly> a webSem:Movie ;
+    webSem:title "The Good, the Bad and the Ugly" ;
+    webSem:year "1966"^^xsd:int .
+
+webSem:TheGrandBudapestHotel a webSem:Movie ;
+    webSem:title "The Grand Budapest Hotel" ;
+    webSem:year "2014"^^xsd:int .
+
+webSem:TheGrapesofWrath a webSem:Movie ;
+    webSem:title "The Grapes of Wrath" ;
+    webSem:year "1940"^^xsd:int .
+
+webSem:TheGreatDictator a webSem:Movie ;
+    webSem:title "The Great Dictator" ;
+    webSem:year "1940"^^xsd:int .
+
+webSem:TheGreatEscape a webSem:Movie ;
+    webSem:title "The Great Escape" ;
+    webSem:year "1963"^^xsd:int .
+
+webSem:TheGreatestGameEverPlayed a webSem:Movie ;
+    webSem:title "The Greatest Game Ever Played" ;
+    webSem:year "2005"^^xsd:int .
+
+webSem:TheGreatestShowman a webSem:Movie ;
+    webSem:title "The Greatest Showman" ;
+    webSem:year "2017"^^xsd:int .
+
+webSem:TheGreenMile a webSem:Movie ;
+    webSem:title "The Green Mile" ;
+    webSem:year "1999"^^xsd:int .
+
+webSem:TheHandmaiden a webSem:Movie ;
+    webSem:title "The Handmaiden" ;
+    webSem:year "2016"^^xsd:int .
+
+webSem:TheHatefulEight a webSem:Movie ;
+    webSem:title "The Hateful Eight" ;
+    webSem:year "2015"^^xsd:int .
+
+webSem:TheHelp a webSem:Movie ;
+    webSem:title "The Help" ;
+    webSem:year "2011"^^xsd:int .
+
+webSem:TheHunt a webSem:Movie ;
+    webSem:title "The Hunt" ;
+    webSem:year "2012"^^xsd:int .
+
+webSem:TheHurricane a webSem:Movie ;
+    webSem:title "The Hurricane" ;
+    webSem:year "1999"^^xsd:int .
+
+webSem:TheHustler a webSem:Movie ;
+    webSem:title "The Hustler" ;
+    webSem:year "1961"^^xsd:int .
+
+webSem:TheImitationGame a webSem:Movie ;
+    webSem:title "The Imitation Game" ;
+    webSem:year "2014"^^xsd:int .
+
+webSem:TheIncredibles a webSem:Movie ;
+    webSem:title "The Incredibles" ;
+    webSem:year "2004"^^xsd:int .
+
+webSem:TheInnocents a webSem:Movie ;
+    webSem:title "The Innocents" ;
+    webSem:year "1961"^^xsd:int .
+
+webSem:TheIntouchables a webSem:Movie ;
+    webSem:title "The Intouchables" ;
+    webSem:year "2011"^^xsd:int .
+
+webSem:TheInvisibleMan a webSem:Movie ;
+    webSem:title "The Invisible Man" ;
+    webSem:year "1933"^^xsd:int .
+
+webSem:TheIronGiant a webSem:Movie ;
+    webSem:title "The Iron Giant" ;
+    webSem:year "1999"^^xsd:int .
+
+webSem:TheJungleBook a webSem:Movie ;
+    webSem:title "The Jungle Book" ;
+    webSem:year "1967"^^xsd:int .
+
+webSem:TheKashmirFiles a webSem:Movie ;
+    webSem:title "The Kashmir Files" ;
+    webSem:year "2022"^^xsd:int .
+
+webSem:TheKid a webSem:Movie ;
+    webSem:title "The Kid" ;
+    webSem:year "1921"^^xsd:int .
+
+webSem:TheKilling a webSem:Movie ;
+    webSem:title "The Killing" ;
+    webSem:year "1956"^^xsd:int .
+
+webSem:TheKillingFields a webSem:Movie ;
+    webSem:title "The Killing Fields" ;
+    webSem:year "1984"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#TheKing'sSpeech> a webSem:Movie ;
+    webSem:title "The King's Speech" ;
+    webSem:year "2010"^^xsd:int .
+
+webSem:TheLadyfromShanghai a webSem:Movie ;
+    webSem:title "The Lady from Shanghai" ;
+    webSem:year "1947"^^xsd:int .
+
+webSem:TheLegendof1900 a webSem:Movie ;
+    webSem:title "The Legend of 1900" ;
+    webSem:year "1998"^^xsd:int .
+
+webSem:TheLeopard a webSem:Movie ;
+    webSem:title "The Leopard" ;
+    webSem:year "1963"^^xsd:int .
+
+webSem:TheLionKing a webSem:Movie ;
+    webSem:title "The Lion King" ;
+    webSem:year "1994"^^xsd:int .
+
+webSem:TheLioninWinter a webSem:Movie ;
+    webSem:title "The Lion in Winter" ;
+    webSem:year "1968"^^xsd:int .
+
+webSem:TheLittleMermaid a webSem:Movie ;
+    webSem:title "The Little Mermaid" ;
+    webSem:year "1989"^^xsd:int .
+
+webSem:TheLivesofOthers a webSem:Movie ;
+    webSem:title "The Lives of Others" ;
+    webSem:year "2006"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#TheLordoftheRings:TheFellowshipoftheRing> a webSem:Movie ;
+    webSem:title "The Lord of the Rings: The Fellowship of the Ring" ;
+    webSem:year "2001"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#TheLordoftheRings:TheReturnoftheKing> a webSem:Movie ;
+    webSem:title "The Lord of the Rings: The Return of the King" ;
+    webSem:year "2003"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#TheLordoftheRings:TheTwoTowers> a webSem:Movie ;
+    webSem:title "The Lord of the Rings: The Two Towers" ;
+    webSem:year "2002"^^xsd:int .
+
+webSem:TheLostWeekend a webSem:Movie ;
+    webSem:title "The Lost Weekend" ;
+    webSem:year "1945"^^xsd:int .
+
+webSem:TheMagnificentSeven a webSem:Movie ;
+    webSem:title "The Magnificent Seven" ;
+    webSem:year "1960"^^xsd:int .
+
+webSem:TheMalteseFalcon a webSem:Movie ;
+    webSem:title "The Maltese Falcon" ;
+    webSem:year "1941"^^xsd:int .
+
+webSem:TheManWhoShotLibertyValance a webSem:Movie ;
+    webSem:title "The Man Who Shot Liberty Valance" ;
+    webSem:year "1962"^^xsd:int .
+
+webSem:TheMartian a webSem:Movie ;
+    webSem:title "The Martian" ;
+    webSem:year "2015"^^xsd:int .
+
+webSem:TheMatrix a webSem:Movie ;
+    webSem:title "The Matrix" ;
+    webSem:year "1999"^^xsd:int .
+
+webSem:TheMessage a webSem:Movie ;
+    webSem:title "The Message" ;
+    webSem:year "1976"^^xsd:int .
+
+webSem:TheMuppetChristmasCarol a webSem:Movie ;
+    webSem:title "The Muppet Christmas Carol" ;
+    webSem:year "1992"^^xsd:int .
+
+webSem:TheMuppetMovie a webSem:Movie ;
+    webSem:title "The Muppet Movie" ;
+    webSem:year "1979"^^xsd:int .
+
+webSem:TheNatural a webSem:Movie ;
+    webSem:title "The Natural" ;
+    webSem:year "1984"^^xsd:int .
+
+webSem:TheNightmareBeforeChristmas a webSem:Movie ;
+    webSem:title "The Nightmare Before Christmas" ;
+    webSem:year "1993"^^xsd:int .
+
+webSem:TheNightoftheHunter a webSem:Movie ;
+    webSem:title "The Night of the Hunter" ;
+    webSem:year "1955"^^xsd:int .
+
+webSem:TheOthers a webSem:Movie ;
+    webSem:title "The Others" ;
+    webSem:year "2001"^^xsd:int .
+
+webSem:TheOutlawJoseyWales a webSem:Movie ;
+    webSem:title "The Outlaw Josey Wales" ;
+    webSem:year "1976"^^xsd:int .
+
+webSem:ThePassionofJoanofArc a webSem:Movie ;
+    webSem:title "The Passion of Joan of Arc" ;
+    webSem:year "1928"^^xsd:int .
+
 webSem:ThePhiladelphiaOrchestra a webSem:Person ;
     webSem:name "The Philadelphia Orchestra" .
+
+webSem:ThePianist a webSem:Movie ;
+    webSem:title "The Pianist" ;
+    webSem:year "2002"^^xsd:int .
+
+webSem:ThePiano a webSem:Movie ;
+    webSem:title "The Piano" ;
+    webSem:year "1993"^^xsd:int .
+
+webSem:ThePrestige a webSem:Movie ;
+    webSem:title "The Prestige" ;
+    webSem:year "2006"^^xsd:int .
+
+webSem:ThePrincessBride a webSem:Movie ;
+    webSem:title "The Princess Bride" ;
+    webSem:year "1987"^^xsd:int .
+
+webSem:TheProposition a webSem:Movie ;
+    webSem:title "The Proposition" ;
+    webSem:year "2005"^^xsd:int .
+
+webSem:ThePursuitofHappyness a webSem:Movie ;
+    webSem:title "The Pursuit of Happyness" ;
+    webSem:year "2006"^^xsd:int .
+
+webSem:TheRedShoes a webSem:Movie ;
+    webSem:title "The Red Shoes" ;
+    webSem:year "1948"^^xsd:int .
+
+webSem:TheRedViolin a webSem:Movie ;
+    webSem:title "The Red Violin" ;
+    webSem:year "1998"^^xsd:int .
+
+webSem:TheRevenant a webSem:Movie ;
+    webSem:title "The Revenant" ;
+    webSem:year "2015"^^xsd:int .
+
+webSem:TheRightStuff a webSem:Movie ;
+    webSem:title "The Right Stuff" ;
+    webSem:year "1983"^^xsd:int .
+
+webSem:TheSandlot a webSem:Movie ;
+    webSem:title "The Sandlot" ;
+    webSem:year "1993"^^xsd:int .
+
+webSem:TheSearchers a webSem:Movie ;
+    webSem:title "The Searchers" ;
+    webSem:year "1956"^^xsd:int .
+
+webSem:TheSecretinTheirEyes a webSem:Movie ;
+    webSem:title "The Secret in Their Eyes" ;
+    webSem:year "2009"^^xsd:int .
+
+webSem:TheSeventhSeal a webSem:Movie ;
+    webSem:title "The Seventh Seal" ;
+    webSem:year "1957"^^xsd:int .
+
+webSem:TheShawshankRedemption a webSem:Movie ;
+    webSem:title "The Shawshank Redemption" ;
+    webSem:year "1994"^^xsd:int .
+
+webSem:TheShining a webSem:Movie ;
+    webSem:title "The Shining" ;
+    webSem:year "1980"^^xsd:int .
+
+webSem:TheShootist a webSem:Movie ;
+    webSem:title "The Shootist" ;
+    webSem:year "1976"^^xsd:int .
+
+webSem:TheSilenceoftheLambs a webSem:Movie ;
+    webSem:title "The Silence of the Lambs" ;
+    webSem:year "1991"^^xsd:int .
+
+webSem:TheSixthSense a webSem:Movie ;
+    webSem:title "The Sixth Sense" ;
+    webSem:year "1999"^^xsd:int .
+
+webSem:TheSkinILiveIn a webSem:Movie ;
+    webSem:title "The Skin I Live In" ;
+    webSem:year "2011"^^xsd:int .
+
+webSem:TheSoundofMusic a webSem:Movie ;
+    webSem:title "The Sound of Music" ;
+    webSem:year "1965"^^xsd:int .
+
+webSem:TheSting a webSem:Movie ;
+    webSem:title "The Sting" ;
+    webSem:year "1973"^^xsd:int .
+
+webSem:TheStraightStory a webSem:Movie ;
+    webSem:title "The Straight Story" ;
+    webSem:year "1999"^^xsd:int .
+
+webSem:TheStranger a webSem:Movie ;
+    webSem:title "The Stranger" ;
+    webSem:year "1946"^^xsd:int .
+
+webSem:TheSwimmers a webSem:Movie ;
+    webSem:title "The Swimmers" ;
+    webSem:year "2022"^^xsd:int .
+
+webSem:TheTaleofThePrincessKaguya a webSem:Movie ;
+    webSem:title "The Tale of The Princess Kaguya" ;
+    webSem:year "2013"^^xsd:int .
+
+webSem:TheTashkentFiles a webSem:Movie ;
+    webSem:title "The Tashkent Files" ;
+    webSem:year "2019"^^xsd:int .
+
+webSem:TheTenCommandments a webSem:Movie ;
+    webSem:title "The Ten Commandments" ;
+    webSem:year "1956"^^xsd:int .
+
+webSem:TheTerminator a webSem:Movie ;
+    webSem:title "The Terminator" ;
+    webSem:year "1984"^^xsd:int .
+
+webSem:TheThing a webSem:Movie ;
+    webSem:title "The Thing" ;
+    webSem:year "1982"^^xsd:int .
+
+webSem:TheThirdMan a webSem:Movie ;
+    webSem:title "The Third Man" ;
+    webSem:year "1949"^^xsd:int .
+
+webSem:TheTreasureoftheSierraMadre a webSem:Movie ;
+    webSem:title "The Treasure of the Sierra Madre" ;
+    webSem:year "1948"^^xsd:int .
+
+webSem:TheTrialoftheChicago7 a webSem:Movie ;
+    webSem:title "The Trial of the Chicago 7" ;
+    webSem:year "2020"^^xsd:int .
+
+webSem:TheTripletsofBelleville a webSem:Movie ;
+    webSem:title "The Triplets of Belleville" ;
+    webSem:year "2003"^^xsd:int .
+
+webSem:TheTrumanShow a webSem:Movie ;
+    webSem:title "The Truman Show" ;
+    webSem:year "1998"^^xsd:int .
+
+webSem:TheUmbrellasofCherbourg a webSem:Movie ;
+    webSem:title "The Umbrellas of Cherbourg" ;
+    webSem:year "1964"^^xsd:int .
+
+webSem:TheUsualSuspects a webSem:Movie ;
+    webSem:title "The Usual Suspects" ;
+    webSem:year "1995"^^xsd:int .
+
+webSem:TheWagesofFear a webSem:Movie ;
+    webSem:title "The Wages of Fear" ;
+    webSem:year "1953"^^xsd:int .
+
+webSem:TheWildBunch a webSem:Movie ;
+    webSem:title "The Wild Bunch" ;
+    webSem:year "1969"^^xsd:int .
+
+webSem:TheWizardofOz a webSem:Movie ;
+    webSem:title "The Wizard of Oz" ;
+    webSem:year "1939"^^xsd:int .
+
+webSem:TheWolfofWallStreet a webSem:Movie ;
+    webSem:title "The Wolf of Wall Street" ;
+    webSem:year "2013"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#TheWorld'sFastestIndian> a webSem:Movie ;
+    webSem:title "The World's Fastest Indian" ;
+    webSem:year "2005"^^xsd:int .
+
+webSem:TheWrestler a webSem:Movie ;
+    webSem:title "The Wrestler" ;
+    webSem:year "2008"^^xsd:int .
+
+webSem:TheWrongMan a webSem:Movie ;
+    webSem:title "The Wrong Man" ;
+    webSem:year "1956"^^xsd:int .
 
 webSem:TheavonHarbou a webSem:Person ;
     webSem:name "Thea von Harbou" .
@@ -7133,8 +9364,16 @@ webSem:TheavonHarbou a webSem:Person ;
 webSem:TheodoreMelfi a webSem:Person ;
     webSem:name "Theodore Melfi" .
 
+webSem:ThereWillBeBlood a webSem:Movie ;
+    webSem:title "There Will Be Blood" ;
+    webSem:year "2007"^^xsd:int .
+
 webSem:ThierryJonquet a webSem:Person ;
     webSem:name "Thierry Jonquet" .
+
+webSem:ThisIsSpinalTap a webSem:Movie ;
+    webSem:title "This Is Spinal Tap" ;
+    webSem:year "1984"^^xsd:int .
 
 webSem:ThomasBerger a webSem:Person ;
     webSem:name "Thomas Berger" .
@@ -7172,6 +9411,22 @@ webSem:ThoraBirch a webSem:Person ;
 webSem:ThorntonWilder a webSem:Person ;
     webSem:name "Thornton Wilder" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#ThreeBillboardsOutsideEbbing,Missouri> a webSem:Movie ;
+    webSem:title "Three Billboards Outside Ebbing, Missouri" ;
+    webSem:year "2017"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#ThreeColors:Blue> a webSem:Movie ;
+    webSem:title "Three Colors: Blue" ;
+    webSem:year "1993"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#ThreeColors:Red> a webSem:Movie ;
+    webSem:title "Three Colors: Red" ;
+    webSem:year "1994"^^xsd:int .
+
+webSem:ThroneofBlood a webSem:Movie ;
+    webSem:title "Throne of Blood" ;
+    webSem:year "1957"^^xsd:int .
+
 webSem:TigmanshuDhulia a webSem:Person ;
     webSem:name "Tigmanshu Dhulia" .
 
@@ -7199,6 +9454,10 @@ webSem:TimRobbins a webSem:Person ;
 webSem:TimRoth a webSem:Person ;
     webSem:name "Tim Roth" .
 
+webSem:TimeoftheGypsies a webSem:Movie ;
+    webSem:title "Time of the Gypsies" ;
+    webSem:year "1988"^^xsd:int .
+
 webSem:TimothéeChalamet a webSem:Person ;
     webSem:name "Timothée Chalamet" .
 
@@ -7211,6 +9470,18 @@ webSem:TippiHedren a webSem:Person ;
 webSem:TiscaChopra a webSem:Person ;
     webSem:name "Tisca Chopra" .
 
+webSem:ToBeorNottoBe a webSem:Movie ;
+    webSem:title "To Be or Not to Be" ;
+    webSem:year "1942"^^xsd:int .
+
+webSem:ToHaveandHaveNot a webSem:Movie ;
+    webSem:title "To Have and Have Not" ;
+    webSem:year "1944"^^xsd:int .
+
+webSem:ToKillaMockingbird a webSem:Movie ;
+    webSem:title "To Kill a Mockingbird" ;
+    webSem:year "1962"^^xsd:int .
+
 webSem:TobiasLindholm a webSem:Person ;
     webSem:name "Tobias Lindholm" .
 
@@ -7222,6 +9493,14 @@ webSem:ToddField a webSem:Person ;
 
 webSem:ToddPhillips a webSem:Person ;
     webSem:name "Todd Phillips" .
+
+webSem:Togo a webSem:Movie ;
+    webSem:title "Togo" ;
+    webSem:year "2019"^^xsd:int .
+
+webSem:TokyoStory a webSem:Movie ;
+    webSem:title "Tokyo Story" ;
+    webSem:year "1953"^^xsd:int .
 
 webSem:TomBerenger a webSem:Person ;
     webSem:name "Tom Berenger" .
@@ -7277,6 +9556,10 @@ webSem:TomWolfe a webSem:Person ;
 webSem:TomasAlfredson a webSem:Person ;
     webSem:name "Tomas Alfredson" .
 
+webSem:Tombstone a webSem:Movie ;
+    webSem:title "Tombstone" ;
+    webSem:year "1993"^^xsd:int .
+
 webSem:TommMoore a webSem:Person ;
     webSem:name "Tomm Moore" .
 
@@ -7307,11 +9590,39 @@ webSem:TonyLeungChiu-wai a webSem:Person ;
 webSem:TonyMoran a webSem:Person ;
     webSem:name "Tony Moran" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#TopGun:Maverick> a webSem:Movie ;
+    webSem:title "Top Gun: Maverick" ;
+    webSem:year "2022"^^xsd:int .
+
 webSem:Topol a webSem:Person ;
     webSem:name "Topol" .
 
 webSem:ToshirôMifune a webSem:Person ;
     webSem:name "Toshirô Mifune" .
+
+webSem:TouchofEvil a webSem:Movie ;
+    webSem:title "Touch of Evil" ;
+    webSem:year "1958"^^xsd:int .
+
+webSem:ToyStory a webSem:Movie ;
+    webSem:title "Toy Story" ;
+    webSem:year "1995"^^xsd:int .
+
+webSem:ToyStory2 a webSem:Movie ;
+    webSem:title "Toy Story 2" ;
+    webSem:year "1999"^^xsd:int .
+
+webSem:ToyStory3 a webSem:Movie ;
+    webSem:title "Toy Story 3" ;
+    webSem:year "2010"^^xsd:int .
+
+webSem:Trainspotting a webSem:Movie ;
+    webSem:title "Trainspotting" ;
+    webSem:year "1996"^^xsd:int .
+
+webSem:TraintoBusan a webSem:Movie ;
+    webSem:title "Train to Busan" ;
+    webSem:year "2016"^^xsd:int .
 
 webSem:TraudlJunge a webSem:Person ;
     webSem:name "Traudl Junge" .
@@ -7331,6 +9642,11 @@ webSem:TrishaKrishnan a webSem:Person ;
 webSem:TroyKotsur a webSem:Person ;
     webSem:name "Troy Kotsur" .
 
+webSem:TrueGrit a webSem:Movie ;
+    webSem:title "True Grit" ;
+    webSem:year "1969"^^xsd:int,
+        "2010"^^xsd:int .
+
 webSem:TrumanCapote a webSem:Person ;
     webSem:name "Truman Capote" .
 
@@ -7343,11 +9659,23 @@ webSem:TsutomuYamazaki a webSem:Person ;
 webSem:TsuyoshiIhara a webSem:Person ;
     webSem:name "Tsuyoshi Ihara" .
 
+webSem:TuckerandDalevsEvil a webSem:Movie ;
+    webSem:title "Tucker and Dale vs Evil" ;
+    webSem:year "2010"^^xsd:int .
+
+webSem:Tumbbad a webSem:Movie ;
+    webSem:title "Tumbbad" ;
+    webSem:year "2018"^^xsd:int .
+
 webSem:TylerLabine a webSem:Person ;
     webSem:name "Tyler Labine" .
 
 webSem:TyronePower a webSem:Person ;
     webSem:name "Tyrone Power" .
+
+webSem:Tár a webSem:Movie ;
+    webSem:title "Tár" ;
+    webSem:year "2022"^^xsd:int .
 
 webSem:UlrichMatthes a webSem:Person ;
     webSem:name "Ulrich Matthes" .
@@ -7368,17 +9696,37 @@ webSem:UmeshShukla a webSem:Person ;
 webSem:UmurBugay a webSem:Person ;
     webSem:name "Umur Bugay" .
 
+webSem:Underground a webSem:Movie ;
+    webSem:title "Underground" ;
+    webSem:year "1995"^^xsd:int .
+
+webSem:Unforgiven a webSem:Movie ;
+    webSem:title "Unforgiven" ;
+    webSem:year "1992"^^xsd:int .
+
+webSem:Up a webSem:Movie ;
+    webSem:title "Up" ;
+    webSem:year "2009"^^xsd:int .
+
 webSem:UpendraSidhaye a webSem:Person ;
     webSem:name "Upendra Sidhaye" .
 
 webSem:UptonSinclair a webSem:Person ;
     webSem:name "Upton Sinclair" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Uri:TheSurgicalStrike> a webSem:Movie ;
+    webSem:title "Uri: The Surgical Strike" ;
+    webSem:year "2019"^^xsd:int .
+
 webSem:ValKilmer a webSem:Person ;
     webSem:name "Val Kilmer" .
 
 webSem:ValérieBeaugrand-Champagne a webSem:Person ;
     webSem:name "Valérie Beaugrand-Champagne" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#VampireHunterD:Bloodlust> a webSem:Movie ;
+    webSem:title "Vampire Hunter D: Bloodlust" ;
+    webSem:year "2000"^^xsd:int .
 
 webSem:VanHeflin a webSem:Person ;
     webSem:name "Van Heflin" .
@@ -7401,6 +9749,10 @@ webSem:VasanBala a webSem:Person ;
 webSem:VassilisVassilikos a webSem:Person ;
     webSem:name "Vassilis Vassilikos" .
 
+webSem:Veer-Zaara a webSem:Movie ;
+    webSem:title "Veer-Zaara" ;
+    webSem:year "2004"^^xsd:int .
+
 webSem:VeerendraSaxena a webSem:Person ;
     webSem:name "Veerendra Saxena" .
 
@@ -7422,8 +9774,16 @@ webSem:VernaBloom a webSem:Person ;
 webSem:VernonDobtcheff a webSem:Person ;
     webSem:name "Vernon Dobtcheff" .
 
+webSem:Vertigo a webSem:Movie ;
+    webSem:title "Vertigo" ;
+    webSem:year "1958"^^xsd:int .
+
 webSem:Vetrimaaran a webSem:Person ;
     webSem:name "Vetrimaaran" .
+
+webSem:VforVendetta a webSem:Movie ;
+    webSem:title "V for Vendetta" ;
+    webSem:year "2005"^^xsd:int .
 
 webSem:VicellousShannon a webSem:Person ;
     webSem:name "Vicellous Shannon" .
@@ -7475,6 +9835,10 @@ webSem:VijaySethupathi a webSem:Person ;
 
 webSem:VijayendraPrasad a webSem:Person ;
     webSem:name "Vijayendra Prasad" .
+
+webSem:Vikram a webSem:Movie ;
+    webSem:title "Vikram" ;
+    webSem:year "2022"^^xsd:int .
 
 webSem:VinDiesel a webSem:Person ;
     webSem:name "Vin Diesel" .
@@ -7548,8 +9912,16 @@ webSem:W.P.Kinsella a webSem:Person ;
 webSem:W.R.Burnett a webSem:Person ;
     webSem:name "W.R. Burnett" .
 
+webSem:WALL·E a webSem:Movie ;
+    webSem:title "WALL·E" ;
+    webSem:year "2008"^^xsd:int .
+
 webSem:WajdiMouawad a webSem:Person ;
     webSem:name "Wajdi Mouawad" .
+
+webSem:WalktheLine a webSem:Movie ;
+    webSem:title "Walk the Line" ;
+    webSem:year "2005"^^xsd:int .
 
 webSem:WallaceFord a webSem:Person ;
     webSem:name "Wallace Ford" .
@@ -7581,6 +9953,14 @@ webSem:WalterTevis a webSem:Person ;
 webSem:WarrenBeatty a webSem:Person ;
     webSem:name "Warren Beatty" .
 
+webSem:Warrior a webSem:Movie ;
+    webSem:title "Warrior" ;
+    webSem:year "2011"^^xsd:int .
+
+webSem:Waves a webSem:Movie ;
+    webSem:title "Waves" ;
+    webSem:year "2019"^^xsd:int .
+
 webSem:WeiLu a webSem:Person ;
     webSem:name "Wei Lu" .
 
@@ -7599,14 +9979,46 @@ webSem:WernerKrauss a webSem:Person ;
 webSem:WesAnderson a webSem:Person ;
     webSem:name "Wes Anderson" .
 
+webSem:WestSideStory a webSem:Movie ;
+    webSem:title "West Side Story" ;
+    webSem:year "1961"^^xsd:int .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#WhatEverHappenedtoBabyJane?> a webSem:Movie ;
+    webSem:title "What Ever Happened to Baby Jane?" ;
+    webSem:year "1962"^^xsd:int .
+
+webSem:WhatWeDointheShadows a webSem:Movie ;
+    webSem:title "What We Do in the Shadows" ;
+    webSem:year "2014"^^xsd:int .
+
+webSem:Whiplash a webSem:Movie ;
+    webSem:title "Whiplash" ;
+    webSem:year "2014"^^xsd:int .
+
+webSem:WhisperoftheHeart a webSem:Movie ;
+    webSem:title "Whisper of the Heart" ;
+    webSem:year "1995"^^xsd:int .
+
 webSem:WhitMasterson a webSem:Person ;
     webSem:name "Whit Masterson" .
+
+webSem:WhiteHeat a webSem:Movie ;
+    webSem:title "White Heat" ;
+    webSem:year "1949"^^xsd:int .
 
 webSem:WhitfieldCook a webSem:Person ;
     webSem:name "Whitfield Cook" .
 
 webSem:WilWheaton a webSem:Person ;
     webSem:name "Wil Wheaton" .
+
+webSem:WildStrawberries a webSem:Movie ;
+    webSem:title "Wild Strawberries" ;
+    webSem:year "1957"^^xsd:int .
+
+webSem:WildTales a webSem:Movie ;
+    webSem:title "Wild Tales" ;
+    webSem:year "2014"^^xsd:int .
 
 webSem:WilfordBrimley a webSem:Person ;
     webSem:name "Wilford Brimley" .
@@ -7713,14 +10125,30 @@ webSem:WillieWatson a webSem:Person ;
 webSem:WillisGoldbeck a webSem:Person ;
     webSem:name "Willis Goldbeck" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#WillyWonka&theChocolateFactory> a webSem:Movie ;
+    webSem:title "Willy Wonka & the Chocolate Factory" ;
+    webSem:year "1971"^^xsd:int .
+
 webSem:WilsonYip a webSem:Person ;
     webSem:name "Wilson Yip" .
 
 webSem:WimWenders a webSem:Person ;
     webSem:name "Wim Wenders" .
 
+webSem:WindRiver a webSem:Movie ;
+    webSem:title "Wind River" ;
+    webSem:year "2017"^^xsd:int .
+
+webSem:WingsofDesire a webSem:Movie ;
+    webSem:title "Wings of Desire" ;
+    webSem:year "1987"^^xsd:int .
+
 webSem:WinstonGroom a webSem:Person ;
     webSem:name "Winston Groom" .
+
+webSem:WitnessfortheProsecution a webSem:Movie ;
+    webSem:title "Witness for the Prosecution" ;
+    webSem:year "1957"^^xsd:int .
 
 webSem:WladyslawKowalski a webSem:Person ;
     webSem:name "Wladyslaw Kowalski" .
@@ -7728,11 +10156,23 @@ webSem:WladyslawKowalski a webSem:Person ;
 webSem:WladyslawSzpilman a webSem:Person ;
     webSem:name "Wladyslaw Szpilman" .
 
+webSem:WolfChildren a webSem:Movie ;
+    webSem:title "Wolf Children" ;
+    webSem:year "2012"^^xsd:int .
+
 webSem:WolfgangPetersen a webSem:Person ;
     webSem:name "Wolfgang Petersen" .
 
 webSem:WolfgangReitherman a webSem:Person ;
     webSem:name "Wolfgang Reitherman" .
+
+webSem:Wolfwalkers a webSem:Movie ;
+    webSem:title "Wolfwalkers" ;
+    webSem:year "2020"^^xsd:int .
+
+webSem:Wonder a webSem:Movie ;
+    webSem:title "Wonder" ;
+    webSem:year "2017"^^xsd:int .
 
 webSem:WoodHarris a webSem:Person ;
     webSem:name "Wood Harris" .
@@ -7750,6 +10190,10 @@ webSem:Writer a owl:Class ;
 webSem:YacefSaadi a webSem:Person ;
     webSem:name "Yacef Saadi" .
 
+webSem:YahsiBati a webSem:Movie ;
+    webSem:title "Yahsi Bati" ;
+    webSem:year "2009"^^xsd:int .
+
 webSem:Yash a webSem:Person ;
     webSem:name "Yash" .
 
@@ -7762,6 +10206,10 @@ webSem:YasuhikoTakiguchi a webSem:Person ;
 webSem:YasujirôOzu a webSem:Person ;
     webSem:name "Yasujirô Ozu" .
 
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#YiYi:AOneandaTwo...> a webSem:Movie ;
+    webSem:title "Yi Yi: A One and a Two..." ;
+    webSem:year "2000"^^xsd:int .
+
 webSem:YigitGüralp a webSem:Person ;
     webSem:name "Yigit Güralp" .
 
@@ -7770,6 +10218,10 @@ webSem:YimouZhang a webSem:Person ;
 
 webSem:YogeshChandekar a webSem:Person ;
     webSem:name "Yogesh Chandekar" .
+
+webSem:Yojimbo a webSem:Movie ;
+    webSem:title "Yojimbo" ;
+    webSem:year "1961"^^xsd:int .
 
 webSem:YokoHonna a webSem:Person ;
     webSem:name "Yoko Honna" .
@@ -7794,6 +10246,10 @@ webSem:YoshitokiOima a webSem:Person ;
 
 webSem:YoshitsuguMatsuoka a webSem:Person ;
     webSem:name "Yoshitsugu Matsuoka" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#YourName.> a webSem:Movie ;
+    webSem:title "Your Name." ;
+    webSem:year "2016"^^xsd:int .
 
 webSem:Yu-naEom a webSem:Person ;
     webSem:name "Yu-na Eom" .
@@ -7828,6 +10284,10 @@ webSem:YûkoMiyamura a webSem:Person ;
 webSem:YûkoTanaka a webSem:Person ;
     webSem:name "Yûko Tanaka" .
 
+webSem:Z a webSem:Movie ;
+    webSem:title "Z" ;
+    webSem:year "1969"^^xsd:int .
+
 webSem:ZacEfron a webSem:Person ;
     webSem:name "Zac Efron" .
 
@@ -7845,6 +10305,10 @@ webSem:ZacharyScott a webSem:Person ;
 
 webSem:ZackSnyder a webSem:Person ;
     webSem:name "Zack Snyder" .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#ZackSnyder'sJusticeLeague> a webSem:Movie ;
+    webSem:title "Zack Snyder's Justice League" ;
+    webSem:year "2021"^^xsd:int .
 
 webSem:ZainAlRafeea a webSem:Person ;
     webSem:name "Zain Al Rafeea" .
@@ -7867,8 +10331,20 @@ webSem:ZdenekMahler a webSem:Person ;
 webSem:Zendaya a webSem:Person ;
     webSem:name "Zendaya" .
 
+webSem:ZindagiNaMilegiDobara a webSem:Movie ;
+    webSem:title "Zindagi Na Milegi Dobara" ;
+    webSem:year "2011"^^xsd:int .
+
 webSem:ZoeSaldana a webSem:Person ;
     webSem:name "Zoe Saldana" .
+
+webSem:Zombieland a webSem:Movie ;
+    webSem:title "Zombieland" ;
+    webSem:year "2009"^^xsd:int .
+
+webSem:Zootopia a webSem:Movie ;
+    webSem:title "Zootopia" ;
+    webSem:year "2016"^^xsd:int .
 
 webSem:ZoyaAkhtar a webSem:Person ;
     webSem:name "Zoya Akhtar" .
@@ -7966,6 +10442,10 @@ webSem:startDate a owl:DatatypeProperty ;
 webSem:theaterName a owl:DatatypeProperty ;
     rdfs:domain webSem:Theater ;
     rdfs:range xsd:string .
+
+<http://www.semanticweb.org/marya/ontologies/2023/2/webSem#tick,tick...BOOM!> a webSem:Movie ;
+    webSem:title "tick, tick... BOOM!" ;
+    webSem:year "2021"^^xsd:int .
 
 webSem:title a owl:DatatypeProperty ;
     rdfs:domain webSem:Movie ;
