@@ -8,7 +8,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Frank Darabont",
+        "Director":[
+            "Frank Darabont"
+        ],
         "Writer":[
             "Stephen King",
             "Frank Darabont"
@@ -58,7 +60,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Francis Ford Coppola",
+        "Director":[
+            "Francis Ford Coppola"
+        ],
         "Writer":[
             "Mario Puzo",
             "Francis Ford Coppola"
@@ -109,7 +113,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Christopher Nolan",
+        "Director":[
+            "Christopher Nolan"
+        ],
         "Writer":[
             "Jonathan Nolan",
             "Christopher Nolan",
@@ -160,7 +166,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Francis Ford Coppola",
+        "Director":[
+            "Francis Ford Coppola"
+        ],
         "Writer":[
             "Francis Ford Coppola",
             "Mario Puzo"
@@ -210,7 +218,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Sidney Lumet",
+        "Director":[
+            "Sidney Lumet"
+        ],
         "Writer":[
             "Reginald Rose"
         ],
@@ -260,7 +270,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Steven Spielberg",
+        "Director":[
+            "Steven Spielberg"
+        ],
         "Writer":[
             "Thomas Keneally",
             "Steven Zaillian"
@@ -311,7 +323,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Peter Jackson",
+        "Director":[
+            "Peter Jackson"
+        ],
         "Writer":[
             "J.R.R. Tolkien",
             "Fran Walsh",
@@ -362,7 +376,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Quentin Tarantino",
+        "Director":[
+            "Quentin Tarantino"
+        ],
         "Writer":[
             "Quentin Tarantino",
             "Roger Avary"
@@ -413,7 +429,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Peter Jackson",
+        "Director":[
+            "Peter Jackson"
+        ],
         "Writer":[
             "J.R.R. Tolkien",
             "Fran Walsh",
@@ -464,7 +482,9 @@
             "Adventure",
             "Western"
         ],
-        "Director":"Sergio Leone",
+        "Director":[
+            "Sergio Leone"
+        ],
         "Writer":[
             "Luciano Vincenzoni",
             "Sergio Leone",
@@ -515,7 +535,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Robert Zemeckis",
+        "Director":[
+            "Robert Zemeckis"
+        ],
         "Writer":[
             "Winston Groom",
             "Eric Roth"
@@ -564,7 +586,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"David Fincher",
+        "Director":[
+            "David Fincher"
+        ],
         "Writer":[
             "Chuck Palahniuk",
             "Jim Uhls"
@@ -615,7 +639,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Peter Jackson",
+        "Director":[
+            "Peter Jackson"
+        ],
         "Writer":[
             "J.R.R. Tolkien",
             "Fran Walsh",
@@ -667,7 +693,9 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"Christopher Nolan",
+        "Director":[
+            "Christopher Nolan"
+        ],
         "Writer":[
             "Christopher Nolan"
         ],
@@ -717,7 +745,9 @@
             "Adventure",
             "Fantasy"
         ],
-        "Director":"Irvin Kershner",
+        "Director":[
+            "Irvin Kershner"
+        ],
         "Writer":[
             "Leigh Brackett",
             "Lawrence Kasdan",
@@ -768,7 +798,10 @@
             "Action",
             "Sci-Fi"
         ],
-        "Director":"Lana Wachowski, Lilly Wachowski",
+        "Director":[
+            "Lana Wachowski",
+            "Lilly Wachowski"
+        ],
         "Writer":[
             "Lilly Wachowski",
             "Lana Wachowski"
@@ -819,7 +852,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Martin Scorsese",
+        "Director":[
+            "Martin Scorsese"
+        ],
         "Writer":[
             "Nicholas Pileggi",
             "Martin Scorsese"
@@ -868,7 +903,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Milos Forman",
+        "Director":[
+            "Milos Forman"
+        ],
         "Writer":[
             "Lawrence Hauben",
             "Bo Goldman",
@@ -920,7 +957,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"David Fincher",
+        "Director":[
+            "David Fincher"
+        ],
         "Writer":[
             "Andrew Kevin Walker"
         ],
@@ -969,7 +1008,9 @@
             "Action",
             "Drama"
         ],
-        "Director":"Akira Kurosawa",
+        "Director":[
+            "Akira Kurosawa"
+        ],
         "Writer":[
             "Akira Kurosawa",
             "Shinobu Hashimoto",
@@ -1021,7 +1062,9 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"Frank Capra",
+        "Director":[
+            "Frank Capra"
+        ],
         "Writer":[
             "Frances Goodrich",
             "Albert Hackett",
@@ -1073,7 +1116,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Jonathan Demme",
+        "Director":[
+            "Jonathan Demme"
+        ],
         "Writer":[
             "Thomas Harris",
             "Ted Tally"
@@ -1123,7 +1168,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Steven Spielberg",
+        "Director":[
+            "Steven Spielberg"
+        ],
         "Writer":[
             "Robert Rodat"
         ],
@@ -1172,7 +1219,10 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Fernando Meirelles, K\u00e1tia Lund",
+        "Director":[
+            "Fernando Meirelles",
+            "K\u00e1tia Lund"
+        ],
         "Writer":[
             "Paulo Lins",
             "Br\u00e1ulio Mantovani"
@@ -1223,7 +1273,9 @@
             "Drama",
             "Sci-Fi"
         ],
-        "Director":"Christopher Nolan",
+        "Director":[
+            "Christopher Nolan"
+        ],
         "Writer":[
             "Jonathan Nolan",
             "Christopher Nolan"
@@ -1274,7 +1326,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Roberto Benigni",
+        "Director":[
+            "Roberto Benigni"
+        ],
         "Writer":[
             "Vincenzo Cerami",
             "Roberto Benigni"
@@ -1325,7 +1379,9 @@
             "Drama",
             "Fantasy"
         ],
-        "Director":"Frank Darabont",
+        "Director":[
+            "Frank Darabont"
+        ],
         "Writer":[
             "Stephen King",
             "Frank Darabont"
@@ -1376,7 +1432,9 @@
             "Adventure",
             "Fantasy"
         ],
-        "Director":"George Lucas",
+        "Director":[
+            "George Lucas"
+        ],
         "Writer":[
             "George Lucas"
         ],
@@ -1425,7 +1483,9 @@
             "Action",
             "Sci-Fi"
         ],
-        "Director":"James Cameron",
+        "Director":[
+            "James Cameron"
+        ],
         "Writer":[
             "James Cameron",
             "William Wisher"
@@ -1476,7 +1536,9 @@
             "Comedy",
             "Sci-Fi"
         ],
-        "Director":"Robert Zemeckis",
+        "Director":[
+            "Robert Zemeckis"
+        ],
         "Writer":[
             "Robert Zemeckis",
             "Bob Gale"
@@ -1527,7 +1589,9 @@
             "Adventure",
             "Family"
         ],
-        "Director":"Hayao Miyazaki",
+        "Director":[
+            "Hayao Miyazaki"
+        ],
         "Writer":[
             "Hayao Miyazaki"
         ],
@@ -1577,7 +1641,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Roman Polanski",
+        "Director":[
+            "Roman Polanski"
+        ],
         "Writer":[
             "Ronald Harwood",
             "Wladyslaw Szpilman"
@@ -1628,7 +1694,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Joseph Stefano",
             "Robert Bloch"
@@ -1678,7 +1746,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Bong Joon Ho",
+        "Director":[
+            "Bong Joon Ho"
+        ],
         "Writer":[
             "Bong Joon Ho",
             "Han Jin-won"
@@ -1729,7 +1799,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Luc Besson",
+        "Director":[
+            "Luc Besson"
+        ],
         "Writer":[
             "Luc Besson"
         ],
@@ -1779,7 +1851,10 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Roger Allers, Rob Minkoff",
+        "Director":[
+            "Roger Allers",
+            "Rob Minkoff"
+        ],
         "Writer":[
             "Irene Mecchi",
             "Jonathan Roberts",
@@ -1831,7 +1906,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Ridley Scott",
+        "Director":[
+            "Ridley Scott"
+        ],
         "Writer":[
             "David Franzoni",
             "John Logan",
@@ -1882,7 +1959,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Tony Kaye",
+        "Director":[
+            "Tony Kaye"
+        ],
         "Writer":[
             "David McKenna"
         ],
@@ -1932,7 +2011,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Martin Scorsese",
+        "Director":[
+            "Martin Scorsese"
+        ],
         "Writer":[
             "William Monahan",
             "Alan Mak",
@@ -1984,7 +2065,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Bryan Singer",
+        "Director":[
+            "Bryan Singer"
+        ],
         "Writer":[
             "Christopher McQuarrie"
         ],
@@ -2034,7 +2117,9 @@
             "Mystery",
             "Sci-Fi"
         ],
-        "Director":"Christopher Nolan",
+        "Director":[
+            "Christopher Nolan"
+        ],
         "Writer":[
             "Jonathan Nolan",
             "Christopher Nolan",
@@ -2085,7 +2170,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Damien Chazelle",
+        "Director":[
+            "Damien Chazelle"
+        ],
         "Writer":[
             "Damien Chazelle"
         ],
@@ -2135,7 +2222,9 @@
             "Romance",
             "War"
         ],
-        "Director":"Michael Curtiz",
+        "Director":[
+            "Michael Curtiz"
+        ],
         "Writer":[
             "Julius J. Epstein",
             "Philip G. Epstein",
@@ -2187,7 +2276,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Isao Takahata",
+        "Director":[
+            "Isao Takahata"
+        ],
         "Writer":[
             "Akiyuki Nosaka",
             "Isao Takahata"
@@ -2238,7 +2329,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Masaki Kobayashi",
+        "Director":[
+            "Masaki Kobayashi"
+        ],
         "Writer":[
             "Yasuhiko Takiguchi",
             "Shinobu Hashimoto"
@@ -2289,7 +2382,10 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Olivier Nakache, \u00c9ric Toledano",
+        "Director":[
+            "Olivier Nakache",
+            "\u00c9ric Toledano"
+        ],
         "Writer":[
             "Olivier Nakache",
             "\u00c9ric Toledano",
@@ -2341,7 +2437,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Charles Chaplin",
+        "Director":[
+            "Charles Chaplin"
+        ],
         "Writer":[
             "Charles Chaplin"
         ],
@@ -2389,7 +2487,9 @@
         "Genre":[
             "Western"
         ],
-        "Director":"Sergio Leone",
+        "Director":[
+            "Sergio Leone"
+        ],
         "Writer":[
             "Sergio Donati",
             "Sergio Leone",
@@ -2440,7 +2540,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Giuseppe Tornatore",
+        "Director":[
+            "Giuseppe Tornatore"
+        ],
         "Writer":[
             "Giuseppe Tornatore",
             "Vanna Paoli"
@@ -2490,7 +2592,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "John Michael Hayes",
             "Cornell Woolrich"
@@ -2540,7 +2644,9 @@
             "Horror",
             "Sci-Fi"
         ],
-        "Director":"Ridley Scott",
+        "Director":[
+            "Ridley Scott"
+        ],
         "Writer":[
             "Dan O'Bannon",
             "Ronald Shusett"
@@ -2591,7 +2697,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Charles Chaplin",
+        "Director":[
+            "Charles Chaplin"
+        ],
         "Writer":[
             "Charles Chaplin",
             "Harry Carr",
@@ -2643,7 +2751,9 @@
             "Mystery",
             "War"
         ],
-        "Director":"Francis Ford Coppola",
+        "Director":[
+            "Francis Ford Coppola"
+        ],
         "Writer":[
             "John Milius",
             "Francis Ford Coppola",
@@ -2694,7 +2804,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Christopher Nolan",
+        "Director":[
+            "Christopher Nolan"
+        ],
         "Writer":[
             "Christopher Nolan",
             "Jonathan Nolan"
@@ -2744,7 +2856,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Quentin Tarantino",
+        "Director":[
+            "Quentin Tarantino"
+        ],
         "Writer":[
             "Quentin Tarantino"
         ],
@@ -2793,7 +2907,9 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Steven Spielberg",
+        "Director":[
+            "Steven Spielberg"
+        ],
         "Writer":[
             "Lawrence Kasdan",
             "George Lucas",
@@ -2845,7 +2961,9 @@
             "Adventure",
             "Family"
         ],
-        "Director":"Andrew Stanton",
+        "Director":[
+            "Andrew Stanton"
+        ],
         "Writer":[
             "Andrew Stanton",
             "Pete Docter",
@@ -2897,7 +3015,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Florian Henckel von Donnersmarck",
+        "Director":[
+            "Florian Henckel von Donnersmarck"
+        ],
         "Writer":[
             "Florian Henckel von Donnersmarck"
         ],
@@ -2946,7 +3066,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Billy Wilder",
+        "Director":[
+            "Billy Wilder"
+        ],
         "Writer":[
             "Charles Brackett",
             "Billy Wilder",
@@ -2993,7 +3115,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Stanley Kubrick",
+        "Director":[
+            "Stanley Kubrick"
+        ],
         "Writer":[
             "Stanley Kubrick",
             "Calder Willingham",
@@ -3044,7 +3168,9 @@
             "Drama",
             "Horror"
         ],
-        "Director":"Stanley Kubrick",
+        "Director":[
+            "Stanley Kubrick"
+        ],
         "Writer":[
             "Stephen King",
             "Stanley Kubrick",
@@ -3096,7 +3222,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Charles Chaplin",
+        "Director":[
+            "Charles Chaplin"
+        ],
         "Writer":[
             "Charles Chaplin"
         ],
@@ -3142,7 +3270,10 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"Anthony Russo, Joe Russo",
+        "Director":[
+            "Anthony Russo",
+            "Joe Russo"
+        ],
         "Writer":[
             "Christopher Markus",
             "Stephen McFeely",
@@ -3194,7 +3325,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Billy Wilder",
+        "Director":[
+            "Billy Wilder"
+        ],
         "Writer":[
             "Agatha Christie",
             "Billy Wilder",
@@ -3246,7 +3379,9 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"James Cameron",
+        "Director":[
+            "James Cameron"
+        ],
         "Writer":[
             "James Cameron",
             "David Giler",
@@ -3298,7 +3433,11 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Bob Persichetti, Peter Ramsey, Rodney Rothman",
+        "Director":[
+            "Bob Persichetti",
+            "Peter Ramsey",
+            "Rodney Rothman"
+        ],
         "Writer":[
             "Phil Lord",
             "Rodney Rothman"
@@ -3347,7 +3486,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Sam Mendes",
+        "Director":[
+            "Sam Mendes"
+        ],
         "Writer":[
             "Alan Ball"
         ],
@@ -3396,7 +3537,9 @@
             "Comedy",
             "War"
         ],
-        "Director":"Stanley Kubrick",
+        "Director":[
+            "Stanley Kubrick"
+        ],
         "Writer":[
             "Stanley Kubrick",
             "Terry Southern",
@@ -3448,7 +3591,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Christopher Nolan",
+        "Director":[
+            "Christopher Nolan"
+        ],
         "Writer":[
             "Jonathan Nolan",
             "Christopher Nolan",
@@ -3500,7 +3645,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Park Chan-wook",
+        "Director":[
+            "Park Chan-wook"
+        ],
         "Writer":[
             "Garon Tsuchiya",
             "Nobuaki Minegishi",
@@ -3552,7 +3699,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Quentin Tarantino",
+        "Director":[
+            "Quentin Tarantino"
+        ],
         "Writer":[
             "Quentin Tarantino"
         ],
@@ -3602,7 +3751,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Milos Forman",
+        "Director":[
+            "Milos Forman"
+        ],
         "Writer":[
             "Peter Shaffer",
             "Zdenek Mahler"
@@ -3653,7 +3804,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Lee Unkrich, Adrian Molina",
+        "Director":[
+            "Lee Unkrich",
+            "Adrian Molina"
+        ],
         "Writer":[
             "Lee Unkrich",
             "Jason Katz",
@@ -3705,7 +3859,9 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"John Lasseter",
+        "Director":[
+            "John Lasseter"
+        ],
         "Writer":[
             "John Lasseter",
             "Pete Docter",
@@ -3757,7 +3913,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Todd Phillips",
+        "Director":[
+            "Todd Phillips"
+        ],
         "Writer":[
             "Todd Phillips",
             "Scott Silver",
@@ -3809,7 +3967,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Mel Gibson",
+        "Director":[
+            "Mel Gibson"
+        ],
         "Writer":[
             "Randall Wallace"
         ],
@@ -3858,7 +4018,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Wolfgang Petersen",
+        "Director":[
+            "Wolfgang Petersen"
+        ],
         "Writer":[
             "Wolfgang Petersen",
             "Lothar G. Buchheim"
@@ -3909,7 +4071,10 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Anthony Russo, Joe Russo",
+        "Director":[
+            "Anthony Russo",
+            "Joe Russo"
+        ],
         "Writer":[
             "Christopher Markus",
             "Stephen McFeely",
@@ -3961,7 +4126,9 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Hayao Miyazaki",
+        "Director":[
+            "Hayao Miyazaki"
+        ],
         "Writer":[
             "Hayao Miyazaki",
             "Neil Gaiman"
@@ -4011,7 +4178,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Sergio Leone",
+        "Director":[
+            "Sergio Leone"
+        ],
         "Writer":[
             "Harry Grey",
             "Leonardo Benvenuti",
@@ -4062,7 +4231,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Gus Van Sant",
+        "Director":[
+            "Gus Van Sant"
+        ],
         "Writer":[
             "Matt Damon",
             "Ben Affleck"
@@ -4113,7 +4284,9 @@
             "Drama",
             "Fantasy"
         ],
-        "Director":"Makoto Shinkai",
+        "Director":[
+            "Makoto Shinkai"
+        ],
         "Writer":[
             "Makoto Shinkai",
             "Clark Cheng"
@@ -4164,7 +4337,10 @@
             "Musical",
             "Romance"
         ],
-        "Director":"Stanley Donen, Gene Kelly",
+        "Director":[
+            "Stanley Donen",
+            "Gene Kelly"
+        ],
         "Writer":[
             "Betty Comden",
             "Adolph Green"
@@ -4214,7 +4390,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Rajkumar Hirani",
+        "Director":[
+            "Rajkumar Hirani"
+        ],
         "Writer":[
             "Abhijat Joshi",
             "Rajkumar Hirani",
@@ -4264,7 +4442,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Darren Aronofsky",
+        "Director":[
+            "Darren Aronofsky"
+        ],
         "Writer":[
             "Hubert Selby Jr.",
             "Darren Aronofsky"
@@ -4315,7 +4495,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Akira Kurosawa",
+        "Director":[
+            "Akira Kurosawa"
+        ],
         "Writer":[
             "Hideo Oguni",
             "Ry\u00fbz\u00f4 Kikushima",
@@ -4367,7 +4549,9 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Lee Unkrich",
+        "Director":[
+            "Lee Unkrich"
+        ],
         "Writer":[
             "John Lasseter",
             "Andrew Stanton",
@@ -4417,7 +4601,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Nadine Labaki",
+        "Director":[
+            "Nadine Labaki"
+        ],
         "Writer":[
             "Nadine Labaki",
             "Jihad Hojeily",
@@ -4469,7 +4655,9 @@
             "Adventure",
             "Fantasy"
         ],
-        "Director":"Richard Marquand",
+        "Director":[
+            "Richard Marquand"
+        ],
         "Writer":[
             "Lawrence Kasdan",
             "George Lucas"
@@ -4519,7 +4707,9 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"Stanley Kubrick",
+        "Director":[
+            "Stanley Kubrick"
+        ],
         "Writer":[
             "Stanley Kubrick",
             "Arthur C. Clarke"
@@ -4570,7 +4760,9 @@
             "Romance",
             "Sci-Fi"
         ],
-        "Director":"Michel Gondry",
+        "Director":[
+            "Michel Gondry"
+        ],
         "Writer":[
             "Charlie Kaufman",
             "Michel Gondry",
@@ -4622,7 +4814,9 @@
             "Thriller",
             "War"
         ],
-        "Director":"Elem Klimov",
+        "Director":[
+            "Elem Klimov"
+        ],
         "Writer":[
             "Ales Adamovich",
             "Elem Klimov"
@@ -4668,7 +4862,9 @@
             "Crime",
             "Thriller"
         ],
-        "Director":"Quentin Tarantino",
+        "Director":[
+            "Quentin Tarantino"
+        ],
         "Writer":[
             "Quentin Tarantino",
             "Roger Avary"
@@ -4717,7 +4913,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Thomas Vinterberg",
+        "Director":[
+            "Thomas Vinterberg"
+        ],
         "Writer":[
             "Thomas Vinterberg",
             "Tobias Lindholm"
@@ -4767,7 +4965,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Orson Welles",
+        "Director":[
+            "Orson Welles"
+        ],
         "Writer":[
             "Herman J. Mankiewicz",
             "Orson Welles",
@@ -4819,7 +5019,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Fritz Lang",
+        "Director":[
+            "Fritz Lang"
+        ],
         "Writer":[
             "Thea von Harbou",
             "Fritz Lang",
@@ -4867,7 +5069,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"David Lean",
+        "Director":[
+            "David Lean"
+        ],
         "Writer":[
             "Robert Bolt",
             "Michael Wilson"
@@ -4918,7 +5122,9 @@
             "Adventure",
             "Mystery"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Ernest Lehman"
         ],
@@ -4966,7 +5172,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Akira Kurosawa",
+        "Director":[
+            "Akira Kurosawa"
+        ],
         "Writer":[
             "Akira Kurosawa",
             "Shinobu Hashimoto",
@@ -5018,7 +5226,9 @@
             "Romance",
             "Thriller"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Alec Coppel",
             "Samuel A. Taylor",
@@ -5070,7 +5280,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Billy Wilder",
+        "Director":[
+            "Billy Wilder"
+        ],
         "Writer":[
             "Billy Wilder",
             "I.A.L. Diamond"
@@ -5120,7 +5332,9 @@
             "Comedy",
             "Romance"
         ],
-        "Director":"Jean-Pierre Jeunet",
+        "Director":[
+            "Jean-Pierre Jeunet"
+        ],
         "Writer":[
             "Guillaume Laurant",
             "Jean-Pierre Jeunet"
@@ -5170,7 +5384,9 @@
             "Crime",
             "Sci-Fi"
         ],
-        "Director":"Stanley Kubrick",
+        "Director":[
+            "Stanley Kubrick"
+        ],
         "Writer":[
             "Stanley Kubrick",
             "Anthony Burgess"
@@ -5221,7 +5437,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Billy Wilder",
+        "Director":[
+            "Billy Wilder"
+        ],
         "Writer":[
             "Billy Wilder",
             "Raymond Chandler",
@@ -5272,7 +5490,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Stanley Kubrick",
+        "Director":[
+            "Stanley Kubrick"
+        ],
         "Writer":[
             "Stanley Kubrick",
             "Michael Herr",
@@ -5323,7 +5543,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Brian De Palma",
+        "Director":[
+            "Brian De Palma"
+        ],
         "Writer":[
             "Oliver Stone",
             "Howard Hawks",
@@ -5375,7 +5597,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Thomas Kail",
+        "Director":[
+            "Thomas Kail"
+        ],
         "Writer":[
             "Lin-Manuel Miranda",
             "Ron Chernow"
@@ -5425,7 +5649,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Denis Villeneuve",
+        "Director":[
+            "Denis Villeneuve"
+        ],
         "Writer":[
             "Denis Villeneuve",
             "Wajdi Mouawad",
@@ -5477,7 +5703,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Michael Mann",
+        "Director":[
+            "Michael Mann"
+        ],
         "Writer":[
             "Michael Mann"
         ],
@@ -5526,7 +5754,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Robert Mulligan",
+        "Director":[
+            "Robert Mulligan"
+        ],
         "Writer":[
             "Harper Lee",
             "Horton Foote"
@@ -5577,7 +5807,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"George Roy Hill",
+        "Director":[
+            "George Roy Hill"
+        ],
         "Writer":[
             "David S. Ward"
         ],
@@ -5627,7 +5859,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Pete Docter, Bob Peterson",
+        "Director":[
+            "Pete Docter",
+            "Bob Peterson"
+        ],
         "Writer":[
             "Pete Docter",
             "Bob Peterson",
@@ -5677,7 +5912,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Asghar Farhadi",
+        "Director":[
+            "Asghar Farhadi"
+        ],
         "Writer":[
             "Asghar Farhadi"
         ],
@@ -5726,7 +5963,9 @@
             "Drama",
             "Sci-Fi"
         ],
-        "Director":"Fritz Lang",
+        "Director":[
+            "Fritz Lang"
+        ],
         "Writer":[
             "Thea von Harbou",
             "Fritz Lang"
@@ -5776,7 +6015,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Martin Scorsese",
+        "Director":[
+            "Martin Scorsese"
+        ],
         "Writer":[
             "Paul Schrader"
         ],
@@ -5825,7 +6066,9 @@
             "Action",
             "Drama"
         ],
-        "Director":"Joseph Kosinski",
+        "Director":[
+            "Joseph Kosinski"
+        ],
         "Writer":[
             "Jim Cash",
             "Jack Epps Jr.",
@@ -5873,7 +6116,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Curtis Hanson",
+        "Director":[
+            "Curtis Hanson"
+        ],
         "Writer":[
             "James Ellroy",
             "Brian Helgeland",
@@ -5924,7 +6169,9 @@
             "Action",
             "Thriller"
         ],
-        "Director":"John McTiernan",
+        "Director":[
+            "John McTiernan"
+        ],
         "Writer":[
             "Roderick Thorp",
             "Jeb Stuart",
@@ -5975,7 +6222,9 @@
             "Comedy",
             "Crime"
         ],
-        "Director":"Guy Ritchie",
+        "Director":[
+            "Guy Ritchie"
+        ],
         "Writer":[
             "Guy Ritchie"
         ],
@@ -6024,7 +6273,9 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Steven Spielberg",
+        "Director":[
+            "Steven Spielberg"
+        ],
         "Writer":[
             "Jeffrey Boam",
             "George Lucas",
@@ -6074,7 +6325,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Vittorio De Sica",
+        "Director":[
+            "Vittorio De Sica"
+        ],
         "Writer":[
             "Cesare Zavattini",
             "Luigi Bartolini",
@@ -6121,7 +6374,10 @@
             "Drama",
             "Family"
         ],
-        "Director":"Aamir Khan, Amole Gupte",
+        "Director":[
+            "Aamir Khan",
+            "Amole Gupte"
+        ],
         "Writer":[
             "Amole Gupte"
         ],
@@ -6167,7 +6423,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Sam Mendes",
+        "Director":[
+            "Sam Mendes"
+        ],
         "Writer":[
             "Sam Mendes",
             "Krysty Wilson-Cairns"
@@ -6218,7 +6476,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Oliver Hirschbiegel",
+        "Director":[
+            "Oliver Hirschbiegel"
+        ],
         "Writer":[
             "Bernd Eichinger",
             "Joachim Fest",
@@ -6270,7 +6530,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Nitesh Tiwari",
+        "Director":[
+            "Nitesh Tiwari"
+        ],
         "Writer":[
             "Piyush Gupta",
             "Shreyas Jain",
@@ -6316,7 +6578,9 @@
         "Genre":[
             "Western"
         ],
-        "Director":"Sergio Leone",
+        "Director":[
+            "Sergio Leone"
+        ],
         "Writer":[
             "Sergio Leone",
             "Fulvio Morsella",
@@ -6368,7 +6632,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Christopher Nolan",
+        "Director":[
+            "Christopher Nolan"
+        ],
         "Writer":[
             "Bob Kane",
             "David S. Goyer",
@@ -6420,7 +6686,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"Charles Chaplin",
+        "Director":[
+            "Charles Chaplin"
+        ],
         "Writer":[
             "Charles Chaplin"
         ],
@@ -6466,7 +6734,9 @@
             "Music",
             "Romance"
         ],
-        "Director":"Billy Wilder",
+        "Director":[
+            "Billy Wilder"
+        ],
         "Writer":[
             "Billy Wilder",
             "I.A.L. Diamond",
@@ -6517,7 +6787,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Florian Zeller",
+        "Director":[
+            "Florian Zeller"
+        ],
         "Writer":[
             "Christopher Hampton",
             "Florian Zeller"
@@ -6566,7 +6838,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Joseph L. Mankiewicz",
+        "Director":[
+            "Joseph L. Mankiewicz"
+        ],
         "Writer":[
             "Joseph L. Mankiewicz",
             "Mary Orr"
@@ -6617,7 +6891,9 @@
             "Comedy",
             "Crime"
         ],
-        "Director":"Martin Scorsese",
+        "Director":[
+            "Martin Scorsese"
+        ],
         "Writer":[
             "Terence Winter",
             "Jordan Belfort"
@@ -6668,7 +6944,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Peter Farrelly",
+        "Director":[
+            "Peter Farrelly"
+        ],
         "Writer":[
             "Nick Vallelonga",
             "Brian Hayes Currie",
@@ -6719,7 +6997,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Stanley Kramer",
+        "Director":[
+            "Stanley Kramer"
+        ],
         "Writer":[
             "Abby Mann",
             "Montgomery Clift"
@@ -6770,7 +7050,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Akira Kurosawa",
+        "Director":[
+            "Akira Kurosawa"
+        ],
         "Writer":[
             "Akira Kurosawa",
             "Hideo Oguni",
@@ -6821,7 +7103,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Martin Scorsese",
+        "Director":[
+            "Martin Scorsese"
+        ],
         "Writer":[
             "Nicholas Pileggi",
             "Martin Scorsese"
@@ -6871,7 +7155,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Peter Weir",
+        "Director":[
+            "Peter Weir"
+        ],
         "Writer":[
             "Andrew Niccol"
         ],
@@ -6921,7 +7207,9 @@
             "Fantasy",
             "War"
         ],
-        "Director":"Guillermo del Toro",
+        "Director":[
+            "Guillermo del Toro"
+        ],
         "Writer":[
             "Guillermo del Toro"
         ],
@@ -6969,7 +7257,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Paul Thomas Anderson",
+        "Director":[
+            "Paul Thomas Anderson"
+        ],
         "Writer":[
             "Paul Thomas Anderson",
             "Upton Sinclair"
@@ -7019,7 +7309,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Clint Eastwood",
+        "Director":[
+            "Clint Eastwood"
+        ],
         "Writer":[
             "David Webb Peoples"
         ],
@@ -7069,7 +7361,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"M. Night Shyamalan",
+        "Director":[
+            "M. Night Shyamalan"
+        ],
         "Writer":[
             "M. Night Shyamalan"
         ],
@@ -7118,7 +7412,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Martin Scorsese",
+        "Director":[
+            "Martin Scorsese"
+        ],
         "Writer":[
             "Laeta Kalogridis",
             "Dennis Lehane"
@@ -7168,7 +7464,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Ron Howard",
+        "Director":[
+            "Ron Howard"
+        ],
         "Writer":[
             "Akiva Goldsman",
             "Sylvia Nasar"
@@ -7219,7 +7517,9 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"Steven Spielberg",
+        "Director":[
+            "Steven Spielberg"
+        ],
         "Writer":[
             "Michael Crichton",
             "David Koepp"
@@ -7270,7 +7570,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Akira Kurosawa",
+        "Director":[
+            "Akira Kurosawa"
+        ],
         "Writer":[
             "Akira Kurosawa",
             "Ry\u00fbz\u00f4 Kikushima"
@@ -7321,7 +7623,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"John Huston",
+        "Director":[
+            "John Huston"
+        ],
         "Writer":[
             "John Huston",
             "B. Traven"
@@ -7372,7 +7676,10 @@
             "Comedy",
             "Fantasy"
         ],
-        "Director":"Terry Gilliam, Terry Jones",
+        "Director":[
+            "Terry Gilliam",
+            "Terry Jones"
+        ],
         "Writer":[
             "Graham Chapman",
             "John Cleese",
@@ -7424,7 +7731,10 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Ethan Coen, Joel Coen",
+        "Director":[
+            "Ethan Coen",
+            "Joel Coen"
+        ],
         "Writer":[
             "Joel Coen",
             "Ethan Coen",
@@ -7476,7 +7786,9 @@
             "Drama",
             "History"
         ],
-        "Director":"John Sturges",
+        "Director":[
+            "John Sturges"
+        ],
         "Writer":[
             "Paul Brickhill",
             "James Clavell",
@@ -7528,7 +7840,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Quentin Tarantino",
+        "Director":[
+            "Quentin Tarantino"
+        ],
         "Writer":[
             "Quentin Tarantino",
             "Uma Thurman"
@@ -7579,7 +7893,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Akira Kurosawa",
+        "Director":[
+            "Akira Kurosawa"
+        ],
         "Writer":[
             "Ry\u00fbnosuke Akutagawa",
             "Akira Kurosawa",
@@ -7631,7 +7947,9 @@
             "Adventure",
             "Fantasy"
         ],
-        "Director":"Jon Watts",
+        "Director":[
+            "Jon Watts"
+        ],
         "Writer":[
             "Chris McKenna",
             "Erik Sommers",
@@ -7679,7 +7997,9 @@
             "Mystery",
             "Sci-Fi"
         ],
-        "Director":"John Carpenter",
+        "Director":[
+            "John Carpenter"
+        ],
         "Writer":[
             "Bill Lancaster",
             "John W. Campbell Jr."
@@ -7730,7 +8050,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Andrew Stanton, Lee Unkrich",
+        "Director":[
+            "Andrew Stanton",
+            "Lee Unkrich"
+        ],
         "Writer":[
             "Andrew Stanton",
             "Bob Peterson",
@@ -7781,7 +8104,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"David Lynch",
+        "Director":[
+            "David Lynch"
+        ],
         "Writer":[
             "Christopher De Vore",
             "Eric Bergren",
@@ -7833,7 +8158,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Roman Polanski",
+        "Director":[
+            "Roman Polanski"
+        ],
         "Writer":[
             "Robert Towne",
             "Roman Polanski"
@@ -7884,7 +8211,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Martin Scorsese",
+        "Director":[
+            "Martin Scorsese"
+        ],
         "Writer":[
             "Jake LaMotta",
             "Joseph Carter",
@@ -7936,7 +8265,9 @@
             "Drama",
             "Sci-Fi"
         ],
-        "Director":"James McTeigue",
+        "Director":[
+            "James McTeigue"
+        ],
         "Writer":[
             "Lilly Wachowski",
             "Lana Wachowski",
@@ -7988,7 +8319,11 @@
             "Romance",
             "War"
         ],
-        "Director":"Victor Fleming, George Cukor, Sam Wood",
+        "Director":[
+            "Victor Fleming",
+            "George Cukor",
+            "Sam Wood"
+        ],
         "Writer":[
             "Margaret Mitchell",
             "Sidney Howard",
@@ -8040,7 +8375,9 @@
             "Comedy",
             "Crime"
         ],
-        "Director":"Guy Ritchie",
+        "Director":[
+            "Guy Ritchie"
+        ],
         "Writer":[
             "Guy Ritchie"
         ],
@@ -8090,7 +8427,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Pete Docter, Ronnie Del Carmen",
+        "Director":[
+            "Pete Docter",
+            "Ronnie Del Carmen"
+        ],
         "Writer":[
             "Pete Docter",
             "Ronnie Del Carmen",
@@ -8141,7 +8481,9 @@
             "Crime",
             "Thriller"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Frederick Knott"
         ],
@@ -8191,7 +8533,9 @@
             "Mystery",
             "Romance"
         ],
-        "Director":"Juan Jos\u00e9 Campanella",
+        "Director":[
+            "Juan Jos\u00e9 Campanella"
+        ],
         "Writer":[
             "Eduardo Sacheri",
             "Juan Jos\u00e9 Campanella"
@@ -8242,7 +8586,9 @@
             "Adventure",
             "Family"
         ],
-        "Director":"Hayao Miyazaki",
+        "Director":[
+            "Hayao Miyazaki"
+        ],
         "Writer":[
             "Hayao Miyazaki",
             "Diana Wynne Jones"
@@ -8293,7 +8639,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Martin McDonagh",
+        "Director":[
+            "Martin McDonagh"
+        ],
         "Writer":[
             "Martin McDonagh"
         ],
@@ -8341,7 +8689,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Danny Boyle",
+        "Director":[
+            "Danny Boyle"
+        ],
         "Writer":[
             "Irvine Welsh",
             "John Hodge"
@@ -8392,7 +8742,9 @@
             "Drama",
             "War"
         ],
-        "Director":"David Lean",
+        "Director":[
+            "David Lean"
+        ],
         "Writer":[
             "Pierre Boulle",
             "Carl Foreman",
@@ -8444,7 +8796,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Denis Villeneuve",
+        "Director":[
+            "Denis Villeneuve"
+        ],
         "Writer":[
             "Aaron Guzikowski"
         ],
@@ -8494,7 +8848,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Gavin O'Connor",
+        "Director":[
+            "Gavin O'Connor"
+        ],
         "Writer":[
             "Gavin O'Connor",
             "Anthony Tambakis",
@@ -8545,7 +8901,10 @@
             "Crime",
             "Thriller"
         ],
-        "Director":"Joel Coen, Ethan Coen",
+        "Director":[
+            "Joel Coen",
+            "Ethan Coen"
+        ],
         "Writer":[
             "Ethan Coen",
             "Joel Coen"
@@ -8594,7 +8953,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Clint Eastwood",
+        "Director":[
+            "Clint Eastwood"
+        ],
         "Writer":[
             "Nick Schenk",
             "Dave Johannson"
@@ -8645,7 +9006,9 @@
             "Comedy",
             "Family"
         ],
-        "Director":"Hayao Miyazaki",
+        "Director":[
+            "Hayao Miyazaki"
+        ],
         "Writer":[
             "Hayao Miyazaki"
         ],
@@ -8695,7 +9058,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Steven Spielberg",
+        "Director":[
+            "Steven Spielberg"
+        ],
         "Writer":[
             "Jeff Nathanson",
             "Frank Abagnale Jr.",
@@ -8746,7 +9111,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Clint Eastwood",
+        "Director":[
+            "Clint Eastwood"
+        ],
         "Writer":[
             "Paul Haggis",
             "F.X. Toole"
@@ -8797,7 +9164,9 @@
             "Family",
             "Sport"
         ],
-        "Director":"Majid Majidi",
+        "Director":[
+            "Majid Majidi"
+        ],
         "Writer":[
             "Majid Majidi"
         ],
@@ -8847,7 +9216,9 @@
             "Drama",
             "Sci-Fi"
         ],
-        "Director":"Ridley Scott",
+        "Director":[
+            "Ridley Scott"
+        ],
         "Writer":[
             "Hampton Fancher",
             "David Webb Peoples",
@@ -8899,7 +9270,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Charles Chaplin",
+        "Director":[
+            "Charles Chaplin"
+        ],
         "Writer":[
             "Charles Chaplin"
         ],
@@ -8945,7 +9318,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Sergio Pablos, Carlos Mart\u00ednez L\u00f3pez",
+        "Director":[
+            "Sergio Pablos",
+            "Carlos Mart\u00ednez L\u00f3pez"
+        ],
         "Writer":[
             "Sergio Pablos",
             "Jim Mahoney",
@@ -8996,7 +9372,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Richard Linklater",
+        "Director":[
+            "Richard Linklater"
+        ],
         "Writer":[
             "Richard Linklater",
             "Kim Krizan"
@@ -9047,7 +9425,9 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"David Yates",
+        "Director":[
+            "David Yates"
+        ],
         "Writer":[
             "Steve Kloves",
             "J.K. Rowling"
@@ -9098,7 +9478,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Steve McQueen",
+        "Director":[
+            "Steve McQueen"
+        ],
         "Writer":[
             "John Ridley",
             "Solomon Northup"
@@ -9149,7 +9531,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Elia Kazan",
+        "Director":[
+            "Elia Kazan"
+        ],
         "Writer":[
             "Budd Schulberg",
             "Malcolm Johnson",
@@ -9200,7 +9584,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"William Wyler",
+        "Director":[
+            "William Wyler"
+        ],
         "Writer":[
             "Lew Wallace",
             "Karl Tunberg",
@@ -9252,7 +9638,9 @@
             "Comedy",
             "Crime"
         ],
-        "Director":"Wes Anderson",
+        "Director":[
+            "Wes Anderson"
+        ],
         "Writer":[
             "Stefan Zweig",
             "Wes Anderson",
@@ -9304,7 +9692,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"David Fincher",
+        "Director":[
+            "David Fincher"
+        ],
         "Writer":[
             "Gillian Flynn"
         ],
@@ -9353,7 +9743,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Ingmar Bergman",
+        "Director":[
+            "Ingmar Bergman"
+        ],
         "Writer":[
             "Ingmar Bergman"
         ],
@@ -9403,7 +9795,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Clyde Bruckman, Buster Keaton",
+        "Director":[
+            "Clyde Bruckman",
+            "Buster Keaton"
+        ],
         "Writer":[
             "Buster Keaton",
             "Clyde Bruckman",
@@ -9451,7 +9846,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Jim Sheridan",
+        "Director":[
+            "Jim Sheridan"
+        ],
         "Writer":[
             "Gerry Conlon",
             "Terry George",
@@ -9503,7 +9900,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Stanley Kubrick",
+        "Director":[
+            "Stanley Kubrick"
+        ],
         "Writer":[
             "Stanley Kubrick",
             "William Makepeace Thackeray"
@@ -9554,7 +9953,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Carol Reed",
+        "Director":[
+            "Carol Reed"
+        ],
         "Writer":[
             "Graham Greene",
             "Orson Welles",
@@ -9605,7 +10006,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Michael Cimino",
+        "Director":[
+            "Michael Cimino"
+        ],
         "Writer":[
             "Michael Cimino",
             "Deric Washburn",
@@ -9657,7 +10060,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Mel Gibson",
+        "Director":[
+            "Mel Gibson"
+        ],
         "Writer":[
             "Robert Schenkkan",
             "Andrew Knight"
@@ -9708,7 +10113,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Henri-Georges Clouzot",
+        "Director":[
+            "Henri-Georges Clouzot"
+        ],
         "Writer":[
             "Georges Arnaud",
             "Henri-Georges Clouzot",
@@ -9760,7 +10167,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Bong Joon Ho",
+        "Director":[
+            "Bong Joon Ho"
+        ],
         "Writer":[
             "Bong Joon Ho",
             "Kwang-rim Kim",
@@ -9808,7 +10217,9 @@
             "Comedy",
             "Romance"
         ],
-        "Director":"Buster Keaton",
+        "Director":[
+            "Buster Keaton"
+        ],
         "Writer":[
             "Jean C. Havez",
             "Joseph A. Mitchell",
@@ -9856,7 +10267,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Dami\u00e1n Szifron",
+        "Director":[
+            "Dami\u00e1n Szifron"
+        ],
         "Writer":[
             "Germ\u00e1n Servidio",
             "Dami\u00e1n Szifron"
@@ -9906,7 +10319,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Frank Capra",
+        "Director":[
+            "Frank Capra"
+        ],
         "Writer":[
             "Sidney Buchman",
             "Lewis R. Foster",
@@ -9958,7 +10373,9 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"George Miller",
+        "Director":[
+            "George Miller"
+        ],
         "Writer":[
             "George Miller",
             "Brendan McCarthy",
@@ -10010,7 +10427,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Adam Elliot",
+        "Director":[
+            "Adam Elliot"
+        ],
         "Writer":[
             "Adam Elliot"
         ],
@@ -10055,7 +10474,9 @@
             "Drama",
             "Fantasy"
         ],
-        "Director":"Ingmar Bergman",
+        "Director":[
+            "Ingmar Bergman"
+        ],
         "Writer":[
             "Ingmar Bergman"
         ],
@@ -10105,7 +10526,10 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Dean DeBlois, Chris Sanders",
+        "Director":[
+            "Dean DeBlois",
+            "Chris Sanders"
+        ],
         "Writer":[
             "Will Davies",
             "Dean DeBlois",
@@ -10157,7 +10581,11 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Pete Docter, David Silverman, Lee Unkrich",
+        "Director":[
+            "Pete Docter",
+            "David Silverman",
+            "Lee Unkrich"
+        ],
         "Writer":[
             "Pete Docter",
             "Jill Culton",
@@ -10208,7 +10636,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Lenny Abrahamson",
+        "Director":[
+            "Lenny Abrahamson"
+        ],
         "Writer":[
             "Emma Donoghue"
         ],
@@ -10257,7 +10687,9 @@
             "Adventure",
             "Thriller"
         ],
-        "Director":"Steven Spielberg",
+        "Director":[
+            "Steven Spielberg"
+        ],
         "Writer":[
             "Peter Benchley",
             "Carl Gottlieb"
@@ -10307,7 +10739,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Peter Weir",
+        "Director":[
+            "Peter Weir"
+        ],
         "Writer":[
             "Tom Schulman"
         ],
@@ -10356,7 +10790,10 @@
             "Comedy",
             "Crime"
         ],
-        "Director":"Joel Coen, Ethan Coen",
+        "Director":[
+            "Joel Coen",
+            "Ethan Coen"
+        ],
         "Writer":[
             "Ethan Coen",
             "Joel Coen"
@@ -10405,7 +10842,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Yasujir\u00f4 Ozu",
+        "Director":[
+            "Yasujir\u00f4 Ozu"
+        ],
         "Writer":[
             "K\u00f4go Noda",
             "Yasujir\u00f4 Ozu"
@@ -10456,7 +10895,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Carl Theodor Dreyer",
+        "Director":[
+            "Carl Theodor Dreyer"
+        ],
         "Writer":[
             "Joseph Delteil",
             "Carl Theodor Dreyer"
@@ -10507,7 +10948,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"James Mangold",
+        "Director":[
+            "James Mangold"
+        ],
         "Writer":[
             "Jez Butterworth",
             "John-Henry Butterworth",
@@ -10559,7 +11002,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Terry George",
+        "Director":[
+            "Terry George"
+        ],
         "Writer":[
             "Keir Pearson",
             "Terry George"
@@ -10609,7 +11054,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"John G. Avildsen",
+        "Director":[
+            "John G. Avildsen"
+        ],
         "Writer":[
             "Sylvester Stallone"
         ],
@@ -10658,7 +11105,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Oliver Stone",
+        "Director":[
+            "Oliver Stone"
+        ],
         "Writer":[
             "Oliver Stone"
         ],
@@ -10708,7 +11157,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Brad Bird, Jan Pinkava",
+        "Director":[
+            "Brad Bird",
+            "Jan Pinkava"
+        ],
         "Writer":[
             "Brad Bird",
             "Jan Pinkava",
@@ -10760,7 +11212,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Tom McCarthy",
+        "Director":[
+            "Tom McCarthy"
+        ],
         "Writer":[
             "Josh Singer",
             "Tom McCarthy"
@@ -10810,7 +11264,9 @@
             "Action",
             "Sci-Fi"
         ],
-        "Director":"James Cameron",
+        "Director":[
+            "James Cameron"
+        ],
         "Writer":[
             "James Cameron",
             "Gale Anne Hurd",
@@ -10862,7 +11318,9 @@
             "Drama",
             "Sci-Fi"
         ],
-        "Director":"James Mangold",
+        "Director":[
+            "James Mangold"
+        ],
         "Writer":[
             "James Mangold",
             "Scott Frank",
@@ -10913,7 +11371,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Rob Reiner",
+        "Director":[
+            "Rob Reiner"
+        ],
         "Writer":[
             "Stephen King",
             "Raynold Gideon",
@@ -10965,7 +11425,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Ron Howard",
+        "Director":[
+            "Ron Howard"
+        ],
         "Writer":[
             "Peter Morgan"
         ],
@@ -11013,7 +11475,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Sidney Lumet",
+        "Director":[
+            "Sidney Lumet"
+        ],
         "Writer":[
             "Paddy Chayefsky"
         ],
@@ -11062,7 +11526,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Richard Linklater",
+        "Director":[
+            "Richard Linklater"
+        ],
         "Writer":[
             "Richard Linklater",
             "Julie Delpy",
@@ -11114,7 +11580,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Sean Penn",
+        "Director":[
+            "Sean Penn"
+        ],
         "Writer":[
             "Sean Penn",
             "Jon Krakauer"
@@ -11165,7 +11633,11 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"Victor Fleming, George Cukor, Mervyn LeRoy",
+        "Director":[
+            "Victor Fleming",
+            "George Cukor",
+            "Mervyn LeRoy"
+        ],
         "Writer":[
             "Noel Langley",
             "Florence Ryerson",
@@ -11217,7 +11689,9 @@
             "Romance",
             "War"
         ],
-        "Director":"William Wyler",
+        "Director":[
+            "William Wyler"
+        ],
         "Writer":[
             "Robert E. Sherwood",
             "MacKinlay Kantor"
@@ -11268,7 +11742,9 @@
             "Drama",
             "Fantasy"
         ],
-        "Director":"Harold Ramis",
+        "Director":[
+            "Harold Ramis"
+        ],
         "Writer":[
             "Danny Rubin",
             "Harold Ramis"
@@ -11317,7 +11793,9 @@
         "Genre":[
             "Horror"
         ],
-        "Director":"William Friedkin",
+        "Director":[
+            "William Friedkin"
+        ],
         "Writer":[
             "William Peter Blatty"
         ],
@@ -11365,7 +11843,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Satyajit Ray",
+        "Director":[
+            "Satyajit Ray"
+        ],
         "Writer":[
             "Bibhutibhushan Bandyopadhyay",
             "Satyajit Ray"
@@ -11412,7 +11892,9 @@
             "Romance",
             "War"
         ],
-        "Director":"Ernst Lubitsch",
+        "Director":[
+            "Ernst Lubitsch"
+        ],
         "Writer":[
             "Melchior Lengyel",
             "Edwin Justus Mayer",
@@ -11464,7 +11946,9 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Brad Bird",
+        "Director":[
+            "Brad Bird"
+        ],
         "Writer":[
             "Brad Bird"
         ],
@@ -11509,7 +11993,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Mathieu Kassovitz",
+        "Director":[
+            "Mathieu Kassovitz"
+        ],
         "Writer":[
             "Mathieu Kassovitz"
         ],
@@ -11555,7 +12041,9 @@
             "Adventure",
             "Fantasy"
         ],
-        "Director":"Gore Verbinski",
+        "Director":[
+            "Gore Verbinski"
+        ],
         "Writer":[
             "Ted Elliott",
             "Terry Rossio",
@@ -11606,7 +12094,9 @@
             "Drama",
             "War"
         ],
-        "Director":"Gillo Pontecorvo",
+        "Director":[
+            "Gillo Pontecorvo"
+        ],
         "Writer":[
             "Franco Solinas",
             "Gillo Pontecorvo"
@@ -11657,7 +12147,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"Lasse Hallstr\u00f6m",
+        "Director":[
+            "Lasse Hallstr\u00f6m"
+        ],
         "Writer":[
             "Stephen P. Lindsey",
             "Kaneto Shind\u00f4"
@@ -11702,7 +12194,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"John Ford",
+        "Director":[
+            "John Ford"
+        ],
         "Writer":[
             "Nunnally Johnson",
             "John Steinbeck"
@@ -11753,7 +12247,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"T.J. Gnanavel",
+        "Director":[
+            "T.J. Gnanavel"
+        ],
         "Writer":[
             "T.J. Gnanavel",
             "Rajendra Sapre"
@@ -11799,7 +12295,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"\u00c7agan Irmak",
+        "Director":[
+            "\u00c7agan Irmak"
+        ],
         "Writer":[
             "\u00c7agan Irmak"
         ],
@@ -11840,7 +12338,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Alejandro G. I\u00f1\u00e1rritu",
+        "Director":[
+            "Alejandro G. I\u00f1\u00e1rritu"
+        ],
         "Writer":[
             "Guillermo Arriaga"
         ],
@@ -11890,7 +12390,9 @@
             "Film-Noir",
             "Mystery"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Daphne Du Maurier",
             "Robert E. Sherwood",
@@ -11941,7 +12443,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Stuart Rosenberg",
+        "Director":[
+            "Stuart Rosenberg"
+        ],
         "Writer":[
             "Donn Pearce",
             "Frank Pierson",
@@ -11993,7 +12497,9 @@
             "Romance",
             "Thriller"
         ],
-        "Director":"Park Chan-wook",
+        "Director":[
+            "Park Chan-wook"
+        ],
         "Writer":[
             "Sarah Waters",
             "Chung Seo-kyung",
@@ -12044,7 +12550,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Fran\u00e7ois Truffaut",
+        "Director":[
+            "Fran\u00e7ois Truffaut"
+        ],
         "Writer":[
             "Fran\u00e7ois Truffaut",
             "Marcel Moussy"
@@ -12091,7 +12599,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"Robert Wise",
+        "Director":[
+            "Robert Wise"
+        ],
         "Writer":[
             "Georg Hurdalek",
             "Howard Lindsay",
@@ -12142,7 +12652,9 @@
             "Comedy",
             "Romance"
         ],
-        "Director":"Frank Capra",
+        "Director":[
+            "Frank Capra"
+        ],
         "Writer":[
             "Robert Riskin",
             "Samuel Hopkins Adams"
@@ -12192,7 +12704,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Ingmar Bergman",
+        "Director":[
+            "Ingmar Bergman"
+        ],
         "Writer":[
             "Ingmar Bergman"
         ],
@@ -12240,7 +12754,9 @@
         "Genre":[
             "Comedy"
         ],
-        "Director":"Terry Jones",
+        "Director":[
+            "Terry Jones"
+        ],
         "Writer":[
             "Graham Chapman",
             "John Cleese",
@@ -12292,7 +12808,9 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Brad Bird",
+        "Director":[
+            "Brad Bird"
+        ],
         "Writer":[
             "Tim McCanlies",
             "Brad Bird",
@@ -12344,7 +12862,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Akira Kurosawa",
+        "Director":[
+            "Akira Kurosawa"
+        ],
         "Writer":[
             "Akira Kurosawa",
             "Yuriy Nagibin",
@@ -12390,7 +12910,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Tate Taylor",
+        "Director":[
+            "Tate Taylor"
+        ],
         "Writer":[
             "Tate Taylor",
             "Kathryn Stockett"
@@ -12441,7 +12963,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Ron Clements, John Musker",
+        "Director":[
+            "Ron Clements",
+            "John Musker"
+        ],
         "Writer":[
             "Ron Clements",
             "John Musker",
@@ -12493,7 +13018,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Kevin Costner",
+        "Director":[
+            "Kevin Costner"
+        ],
         "Writer":[
             "Michael Blake"
         ],
@@ -12543,7 +13070,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Richard Attenborough",
+        "Director":[
+            "Richard Attenborough"
+        ],
         "Writer":[
             "John Briley"
         ],
@@ -12592,7 +13121,9 @@
             "Action",
             "Drama"
         ],
-        "Director":"Sudha Kongara",
+        "Director":[
+            "Sudha Kongara"
+        ],
         "Writer":[
             "Sudha Kongara",
             "Shalini Ushadevi",
@@ -12640,7 +13171,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Hanu Raghavapudi",
+        "Director":[
+            "Hanu Raghavapudi"
+        ],
         "Writer":[
             "Hanu Raghavapudi",
             "Jay Krishna",
@@ -12684,7 +13217,9 @@
             "Adventure",
             "Crime"
         ],
-        "Director":"Lokesh Kanagaraj",
+        "Director":[
+            "Lokesh Kanagaraj"
+        ],
         "Writer":[
             "Lokesh Kanagaraj",
             "Pon Parthiban",
@@ -12728,7 +13263,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Vishnuvardhan",
+        "Director":[
+            "Vishnuvardhan"
+        ],
         "Writer":[
             "Sandeep Shrivastava"
         ],
@@ -12773,7 +13310,9 @@
             "Action",
             "Drama"
         ],
-        "Director":"Vetrimaaran",
+        "Director":[
+            "Vetrimaaran"
+        ],
         "Writer":[
             "M.S. Manimaran",
             "Vetrimaaran",
@@ -12817,7 +13356,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Rishab Shetty",
+        "Director":[
+            "Rishab Shetty"
+        ],
         "Writer":[
             "Rishab Shetty"
         ],
@@ -12863,7 +13404,9 @@
             "Crime",
             "Thriller"
         ],
-        "Director":"Lokesh Kanagaraj",
+        "Director":[
+            "Lokesh Kanagaraj"
+        ],
         "Writer":[
             "Lokesh Kanagaraj",
             "Rathna Kumar"
@@ -12910,7 +13453,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Prashanth Neel",
+        "Director":[
+            "Prashanth Neel"
+        ],
         "Writer":[
             "Prashanth Neel"
         ],
@@ -12956,7 +13501,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Ram Kumar",
+        "Director":[
+            "Ram Kumar"
+        ],
         "Writer":[
             "Ram Kumar"
         ],
@@ -12998,7 +13545,9 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Haruo Sotozaki",
+        "Director":[
+            "Haruo Sotozaki"
+        ],
         "Writer":[
             "Koyoharu Gotouge"
         ],
@@ -13044,7 +13593,9 @@
             "Comedy",
             "Crime"
         ],
-        "Director":"Anurag Kashyap",
+        "Director":[
+            "Anurag Kashyap"
+        ],
         "Writer":[
             "Akhilesh Jaiswal",
             "Anurag Kashyap",
@@ -13095,7 +13646,9 @@
             "Action",
             "Drama"
         ],
-        "Director":"S.S. Rajamouli",
+        "Director":[
+            "S.S. Rajamouli"
+        ],
         "Writer":[
             "Vijayendra Prasad",
             "S.S. Rajamouli",
@@ -13142,7 +13695,9 @@
             "Animation",
             "Drama"
         ],
-        "Director":"Naoko Yamada",
+        "Director":[
+            "Naoko Yamada"
+        ],
         "Writer":[
             "Yoshitoki Oima",
             "Reiko Yoshida",
@@ -13190,7 +13745,10 @@
             "Action",
             "Drama"
         ],
-        "Director":"Hideaki Anno, Kazuya Tsurumaki",
+        "Director":[
+            "Hideaki Anno",
+            "Kazuya Tsurumaki"
+        ],
         "Writer":[
             "Hideaki Anno"
         ],
@@ -13236,7 +13794,9 @@
             "Action",
             "Drama"
         ],
-        "Director":"N\/A",
+        "Director":[
+            "N\/A"
+        ],
         "Writer":[
             "Hideaki Anno"
         ],
@@ -13278,7 +13838,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"Mamoru Hosoda",
+        "Director":[
+            "Mamoru Hosoda"
+        ],
         "Writer":[
             "Mamoru Hosoda",
             "Satoko Okudera"
@@ -13329,7 +13891,11 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Byron Howard, Rich Moore, Jared Bush",
+        "Director":[
+            "Byron Howard",
+            "Rich Moore",
+            "Jared Bush"
+        ],
         "Writer":[
             "Byron Howard",
             "Rich Moore",
@@ -13381,7 +13947,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Pete Docter, Kemp Powers",
+        "Director":[
+            "Pete Docter",
+            "Kemp Powers"
+        ],
         "Writer":[
             "Pete Docter",
             "Mike Jones",
@@ -13433,7 +14002,10 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"Gary Trousdale, Kirk Wise",
+        "Director":[
+            "Gary Trousdale",
+            "Kirk Wise"
+        ],
         "Writer":[
             "Linda Woolverton",
             "Brenda Chapman",
@@ -13485,7 +14057,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Satoshi Kon",
+        "Director":[
+            "Satoshi Kon"
+        ],
         "Writer":[
             "Sadayuki Murai",
             "Yoshikazu Takeuchi",
@@ -13537,7 +14111,9 @@
             "Action",
             "Drama"
         ],
-        "Director":"Katsuhiro \u00d4tomo",
+        "Director":[
+            "Katsuhiro \u00d4tomo"
+        ],
         "Writer":[
             "Katsuhiro \u00d4tomo",
             "Iz\u00f4 Hashimoto"
@@ -13588,7 +14164,9 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"Hayao Miyazaki",
+        "Director":[
+            "Hayao Miyazaki"
+        ],
         "Writer":[
             "Hayao Miyazaki",
             "Cindy Davis",
@@ -13640,7 +14218,9 @@
             "Adventure",
             "Family"
         ],
-        "Director":"Hayao Miyazaki",
+        "Director":[
+            "Hayao Miyazaki"
+        ],
         "Writer":[
             "Hayao Miyazaki",
             "Jonathan Swift"
@@ -13691,7 +14271,10 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Tomm Moore, Ross Stewart",
+        "Director":[
+            "Tomm Moore",
+            "Ross Stewart"
+        ],
         "Writer":[
             "Will Collins",
             "Tomm Moore",
@@ -13743,7 +14326,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"Isao Takahata",
+        "Director":[
+            "Isao Takahata"
+        ],
         "Writer":[
             "Isao Takahata",
             "Riko Sakaguchi"
@@ -13794,7 +14379,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Tomm Moore",
+        "Director":[
+            "Tomm Moore"
+        ],
         "Writer":[
             "Will Collins",
             "Tomm Moore"
@@ -13845,7 +14432,10 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Vincent Paronnaud, Marjane Satrapi",
+        "Director":[
+            "Vincent Paronnaud",
+            "Marjane Satrapi"
+        ],
         "Writer":[
             "Marjane Satrapi",
             "Vincent Paronnaud"
@@ -13896,7 +14486,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Joel Crawford, Januel Mercado",
+        "Director":[
+            "Joel Crawford",
+            "Januel Mercado"
+        ],
         "Writer":[
             "Paul Fisher",
             "Tommy Swerdlow",
@@ -13944,7 +14537,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Andrew Adamson, Vicky Jenson",
+        "Director":[
+            "Andrew Adamson",
+            "Vicky Jenson"
+        ],
         "Writer":[
             "William Steig",
             "Ted Elliott",
@@ -13996,7 +14592,9 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Wes Anderson",
+        "Director":[
+            "Wes Anderson"
+        ],
         "Writer":[
             "Roald Dahl",
             "Wes Anderson",
@@ -14048,7 +14646,11 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"John Lasseter, Ash Brannon, Lee Unkrich",
+        "Director":[
+            "John Lasseter",
+            "Ash Brannon",
+            "Lee Unkrich"
+        ],
         "Writer":[
             "John Lasseter",
             "Pete Docter",
@@ -14100,7 +14702,9 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"Henry Selick",
+        "Director":[
+            "Henry Selick"
+        ],
         "Writer":[
             "Tim Burton",
             "Michael McDowell",
@@ -14152,7 +14756,9 @@
             "Action",
             "Crime"
         ],
-        "Director":"Mamoru Oshii",
+        "Director":[
+            "Mamoru Oshii"
+        ],
         "Writer":[
             "Shirow Masamune",
             "Kazunori It\u00f4"
@@ -14203,7 +14809,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"Yoshifumi Kond\u00f4",
+        "Director":[
+            "Yoshifumi Kond\u00f4"
+        ],
         "Writer":[
             "Hayao Miyazaki",
             "Aoi Hiiragi",
@@ -14255,7 +14863,10 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Don Hall, Chris Williams",
+        "Director":[
+            "Don Hall",
+            "Chris Williams"
+        ],
         "Writer":[
             "Jordan Roberts",
             "Robert L. Baird",
@@ -14307,7 +14918,9 @@
             "Action",
             "Adventure"
         ],
-        "Director":"Dean DeBlois",
+        "Director":[
+            "Dean DeBlois"
+        ],
         "Writer":[
             "Dean DeBlois",
             "Cressida Cowell"
@@ -14358,7 +14971,9 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Wes Anderson",
+        "Director":[
+            "Wes Anderson"
+        ],
         "Writer":[
             "Wes Anderson",
             "Roman Coppola",
@@ -14410,7 +15025,9 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"Hayao Miyazaki",
+        "Director":[
+            "Hayao Miyazaki"
+        ],
         "Writer":[
             "Eiko Kadono",
             "Hayao Miyazaki"
@@ -14457,7 +15074,10 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Dorota Kobiela, Hugh Welchman",
+        "Director":[
+            "Dorota Kobiela",
+            "Hugh Welchman"
+        ],
         "Writer":[
             "Dorota Kobiela",
             "Hugh Welchman",
@@ -14508,7 +15128,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Madhavan",
+        "Director":[
+            "Madhavan"
+        ],
         "Writer":[
             "Madhavan",
             "Anant Mahadevan",
@@ -14556,7 +15178,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Shoojit Sircar",
+        "Director":[
+            "Shoojit Sircar"
+        ],
         "Writer":[
             "Shubhendu Bhattacharya",
             "Ritesh Shah"
@@ -14603,7 +15227,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Can Ulkay",
+        "Director":[
+            "Can Ulkay"
+        ],
         "Writer":[
             "Yigit G\u00fcralp"
         ],
@@ -14645,7 +15271,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Rakeysh Omprakash Mehra",
+        "Director":[
+            "Rakeysh Omprakash Mehra"
+        ],
         "Writer":[
             "Prasoon Joshi"
         ],
@@ -14691,7 +15319,9 @@
             "Biography",
             "Crime"
         ],
-        "Director":"Tigmanshu Dhulia",
+        "Director":[
+            "Tigmanshu Dhulia"
+        ],
         "Writer":[
             "Sanjay Chauhan",
             "Tigmanshu Dhulia"
@@ -14734,7 +15364,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Moustapha Akkad",
+        "Director":[
+            "Moustapha Akkad"
+        ],
         "Writer":[
             "H.A.L. Craig",
             "Tewfik El-Hakim",
@@ -14778,7 +15410,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Stanley Kramer",
+        "Director":[
+            "Stanley Kramer"
+        ],
         "Writer":[
             "Nedrick Young",
             "Harold Jacob Smith",
@@ -14830,7 +15464,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Andrei Tarkovsky",
+        "Director":[
+            "Andrei Tarkovsky"
+        ],
         "Writer":[
             "Andrey Konchalovskiy",
             "Andrei Tarkovsky"
@@ -14877,7 +15513,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Sashi Kiran Tikka",
+        "Director":[
+            "Sashi Kiran Tikka"
+        ],
         "Writer":[
             "Adivi Sesh",
             "Abburi Ravi"
@@ -14924,7 +15562,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Morten Tyldum",
+        "Director":[
+            "Morten Tyldum"
+        ],
         "Writer":[
             "Graham Moore",
             "Andrew Hodges"
@@ -14974,7 +15614,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Gabriele Muccino",
+        "Director":[
+            "Gabriele Muccino"
+        ],
         "Writer":[
             "Steve Conrad"
         ],
@@ -15024,7 +15666,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Tom Hooper",
+        "Director":[
+            "Tom Hooper"
+        ],
         "Writer":[
             "David Seidler"
         ],
@@ -15074,7 +15718,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Sidney Lumet",
+        "Director":[
+            "Sidney Lumet"
+        ],
         "Writer":[
             "Frank Pierson",
             "P.F. Kluge",
@@ -15125,7 +15771,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Garth Davis",
+        "Director":[
+            "Garth Davis"
+        ],
         "Writer":[
             "Saroo Brierley",
             "Luke Davies"
@@ -15176,7 +15824,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"George Roy Hill",
+        "Director":[
+            "George Roy Hill"
+        ],
         "Writer":[
             "William Goldman"
         ],
@@ -15226,7 +15876,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Ron Howard",
+        "Director":[
+            "Ron Howard"
+        ],
         "Writer":[
             "Cliff Hollingsworth",
             "Akiva Goldsman"
@@ -15277,7 +15929,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Wilson Yip",
+        "Director":[
+            "Wilson Yip"
+        ],
         "Writer":[
             "Edmond Wong",
             "Tai-lee Chan"
@@ -15328,7 +15982,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Franklin J. Schaffner",
+        "Director":[
+            "Franklin J. Schaffner"
+        ],
         "Writer":[
             "Dalton Trumbo",
             "Lorenzo Semple Jr.",
@@ -15379,7 +16035,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Andrei Tarkovsky",
+        "Director":[
+            "Andrei Tarkovsky"
+        ],
         "Writer":[
             "Aleksandr Misharin",
             "Arseniy Tarkovskiy",
@@ -15430,7 +16088,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"David Lynch",
+        "Director":[
+            "David Lynch"
+        ],
         "Writer":[
             "John Roach",
             "Mary Sweeney"
@@ -15480,7 +16140,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Ertem Egilmez",
+        "Director":[
+            "Ertem Egilmez"
+        ],
         "Writer":[
             "Umur Bugay",
             "Rifat Ilgaz"
@@ -15523,7 +16185,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Kiranraj K",
+        "Director":[
+            "Kiranraj K"
+        ],
         "Writer":[
             "Kiranraj K",
             "K.N. Vijay Kumar",
@@ -15571,7 +16235,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Mukesh Chhabra",
+        "Director":[
+            "Mukesh Chhabra"
+        ],
         "Writer":[
             "Shashank Khaitan",
             "Suprotim Sengupta",
@@ -15619,7 +16285,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Nitesh Tiwari",
+        "Director":[
+            "Nitesh Tiwari"
+        ],
         "Writer":[
             "Piyush Gupta",
             "Nikhil Mehrotra",
@@ -15667,7 +16335,9 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Zoya Akhtar",
+        "Director":[
+            "Zoya Akhtar"
+        ],
         "Writer":[
             "Farhan Akhtar",
             "Reema Kagti",
@@ -15715,7 +16385,9 @@
             "Drama",
             "Sci-Fi"
         ],
-        "Director":"Rajkumar Hirani",
+        "Director":[
+            "Rajkumar Hirani"
+        ],
         "Writer":[
             "Rajkumar Hirani",
             "Abhijat Joshi"
@@ -15762,7 +16434,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Amitabh Reza Chowdhury",
+        "Director":[
+            "Amitabh Reza Chowdhury"
+        ],
         "Writer":[
             "Syed Gaosul Alam Shaon",
             "Anam Biswas",
@@ -15806,7 +16480,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Jeethu Joseph",
+        "Director":[
+            "Jeethu Joseph"
+        ],
         "Writer":[
             "Jeethu Joseph"
         ],
@@ -15852,7 +16528,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Jeethu Joseph",
+        "Director":[
+            "Jeethu Joseph"
+        ],
         "Writer":[
             "Jeethu Joseph"
         ],
@@ -15898,7 +16576,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Abhishek Pathak",
+        "Director":[
+            "Abhishek Pathak"
+        ],
         "Writer":[
             "Jeethu Joseph",
             "Aamil Keeyan Khan",
@@ -15942,7 +16622,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Nishikant Kamat",
+        "Director":[
+            "Nishikant Kamat"
+        ],
         "Writer":[
             "Jeethu Joseph",
             "Upendra Sidhaye"
@@ -15989,7 +16671,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"Costa-Gavras",
+        "Director":[
+            "Costa-Gavras"
+        ],
         "Writer":[
             "Vassilis Vassilikos",
             "Jorge Sempr\u00fan",
@@ -16039,7 +16723,9 @@
         "Genre":[
             "Drama"
         ],
-        "Director":"Vivek Agnihotri",
+        "Director":[
+            "Vivek Agnihotri"
+        ],
         "Writer":[
             "Vivek Agnihotri",
             "Saurabh M. Pandey"
@@ -16081,7 +16767,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"C. Prem Kumar",
+        "Director":[
+            "C. Prem Kumar"
+        ],
         "Writer":[
             "Charu Gupta",
             "C. Prem Kumar"
@@ -16124,7 +16812,9 @@
             "Family",
             "Sport"
         ],
-        "Director":"Shimit Amin",
+        "Director":[
+            "Shimit Amin"
+        ],
         "Writer":[
             "Jaideep Sahni"
         ],
@@ -16174,7 +16864,9 @@
             "Family",
             "Romance"
         ],
-        "Director":"Charles Chaplin",
+        "Director":[
+            "Charles Chaplin"
+        ],
         "Writer":[
             "Charles Chaplin"
         ],
@@ -16224,7 +16916,9 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"Rob Reiner",
+        "Director":[
+            "Rob Reiner"
+        ],
         "Writer":[
             "William Goldman"
         ],
@@ -16274,7 +16968,9 @@
             "Family",
             "Musical"
         ],
-        "Director":"Norman Jewison",
+        "Director":[
+            "Norman Jewison"
+        ],
         "Writer":[
             "Sholom Aleichem",
             "Arnold Perl",
@@ -16326,7 +17022,9 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"Alfonso Cuar\u00f3n",
+        "Director":[
+            "Alfonso Cuar\u00f3n"
+        ],
         "Writer":[
             "J.K. Rowling",
             "Steve Kloves"
@@ -16377,7 +17075,9 @@
             "Family",
             "Sci-Fi"
         ],
-        "Director":"Steven Spielberg",
+        "Director":[
+            "Steven Spielberg"
+        ],
         "Writer":[
             "Melissa Mathison"
         ],
@@ -16426,7 +17126,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"Stephen Chbosky",
+        "Director":[
+            "Stephen Chbosky"
+        ],
         "Writer":[
             "Stephen Chbosky",
             "Steve Conrad",
@@ -16478,7 +17180,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"Cecil B. DeMille",
+        "Director":[
+            "Cecil B. DeMille"
+        ],
         "Writer":[
             "Dorothy Clarke Wilson",
             "J.H. Ingraham",
@@ -16526,7 +17230,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Ericson Core",
+        "Director":[
+            "Ericson Core"
+        ],
         "Writer":[
             "Tom Flynn"
         ],
@@ -16576,7 +17282,11 @@
             "Fantasy",
             "Horror"
         ],
-        "Director":"Rahi Anil Barve, Anand Gandhi, Adesh Prasad",
+        "Director":[
+            "Rahi Anil Barve",
+            "Anand Gandhi",
+            "Adesh Prasad"
+        ],
         "Writer":[
             "Mitesh Shah",
             "Adesh Prasad",
@@ -16624,7 +17334,9 @@
             "Drama",
             "Fantasy"
         ],
-        "Director":"Emir Kusturica",
+        "Director":[
+            "Emir Kusturica"
+        ],
         "Writer":[
             "Dusan Kovacevic",
             "Emir Kusturica"
@@ -16675,7 +17387,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Emir Kusturica",
+        "Director":[
+            "Emir Kusturica"
+        ],
         "Writer":[
             "Emir Kusturica",
             "Gordan Mihic"
@@ -16722,7 +17436,9 @@
             "Drama",
             "Fantasy"
         ],
-        "Director":"Umesh Shukla",
+        "Director":[
+            "Umesh Shukla"
+        ],
         "Writer":[
             "Alok Jha",
             "Saumya Joshi",
@@ -16766,7 +17482,9 @@
             "Adventure",
             "Fantasy"
         ],
-        "Director":"Zack Snyder",
+        "Director":[
+            "Zack Snyder"
+        ],
         "Writer":[
             "Jerry Siegel",
             "Joe Shuster",
@@ -16814,7 +17532,9 @@
             "Drama",
             "Fantasy"
         ],
-        "Director":"Tim Burton",
+        "Director":[
+            "Tim Burton"
+        ],
         "Writer":[
             "Daniel Wallace",
             "John August"
@@ -16865,7 +17585,9 @@
             "Fantasy",
             "Music"
         ],
-        "Director":"Alan Parker",
+        "Director":[
+            "Alan Parker"
+        ],
         "Writer":[
             "Roger Waters"
         ],
@@ -16915,7 +17637,9 @@
             "Fantasy",
             "Romance"
         ],
-        "Director":"Wim Wenders",
+        "Director":[
+            "Wim Wenders"
+        ],
         "Writer":[
             "Wim Wenders",
             "Peter Handke",
@@ -16966,7 +17690,9 @@
             "Drama",
             "Fantasy"
         ],
-        "Director":"Luis Bu\u00f1uel",
+        "Director":[
+            "Luis Bu\u00f1uel"
+        ],
         "Writer":[
             "Luis Bu\u00f1uel",
             "Luis Alcoriza"
@@ -17013,7 +17739,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Raoul Walsh",
+        "Director":[
+            "Raoul Walsh"
+        ],
         "Writer":[
             "Ivan Goff",
             "Ben Roberts",
@@ -17060,7 +17788,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Billy Wilder",
+        "Director":[
+            "Billy Wilder"
+        ],
         "Writer":[
             "Billy Wilder",
             "Lesser Samuels",
@@ -17112,7 +17842,9 @@
             "Film-Noir",
             "Mystery"
         ],
-        "Director":"John Huston",
+        "Director":[
+            "John Huston"
+        ],
         "Writer":[
             "John Huston",
             "Dashiell Hammett"
@@ -17163,7 +17895,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Charles Laughton",
+        "Director":[
+            "Charles Laughton"
+        ],
         "Writer":[
             "Davis Grubb",
             "James Agee",
@@ -17215,7 +17949,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Jacques Tourneur",
+        "Director":[
+            "Jacques Tourneur"
+        ],
         "Writer":[
             "Daniel Mainwaring",
             "James M. Cain",
@@ -17267,7 +18003,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Orson Welles",
+        "Director":[
+            "Orson Welles"
+        ],
         "Writer":[
             "Orson Welles",
             "Whit Masterson",
@@ -17318,7 +18056,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Alexander Mackendrick",
+        "Director":[
+            "Alexander Mackendrick"
+        ],
         "Writer":[
             "Clifford Odets",
             "Ernest Lehman",
@@ -17370,7 +18110,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Michael Curtiz",
+        "Director":[
+            "Michael Curtiz"
+        ],
         "Writer":[
             "Ranald MacDougall",
             "James M. Cain",
@@ -17422,7 +18164,9 @@
             "Film-Noir",
             "Mystery"
         ],
-        "Director":"Howard Hawks",
+        "Director":[
+            "Howard Hawks"
+        ],
         "Writer":[
             "William Faulkner",
             "Leigh Brackett",
@@ -17474,7 +18218,9 @@
             "Film-Noir",
             "Romance"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Ben Hecht",
             "Alfred Hitchcock",
@@ -17526,7 +18272,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Raymond Chandler",
             "Czenzi Ormonde",
@@ -17578,7 +18326,9 @@
             "Film-Noir",
             "Mystery"
         ],
-        "Director":"Otto Preminger",
+        "Director":[
+            "Otto Preminger"
+        ],
         "Writer":[
             "Vera Caspary",
             "Jay Dratler",
@@ -17626,7 +18376,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Stanley Kubrick",
+        "Director":[
+            "Stanley Kubrick"
+        ],
         "Writer":[
             "Stanley Kubrick",
             "Jim Thompson",
@@ -17678,7 +18430,9 @@
             "Film-Noir",
             "Mystery"
         ],
-        "Director":"Nicholas Ray",
+        "Director":[
+            "Nicholas Ray"
+        ],
         "Writer":[
             "Andrew Solt",
             "Edmund H. North",
@@ -17726,7 +18480,9 @@
             "Film-Noir",
             "Thriller"
         ],
-        "Director":"Fritz Lang",
+        "Director":[
+            "Fritz Lang"
+        ],
         "Writer":[
             "Sydney Boehm",
             "William P. McGivern"
@@ -17772,7 +18528,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Billy Wilder",
+        "Director":[
+            "Billy Wilder"
+        ],
         "Writer":[
             "Charles R. Jackson",
             "Charles Brackett",
@@ -17819,7 +18577,9 @@
             "Film-Noir",
             "Thriller"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Thornton Wilder",
             "Sally Benson",
@@ -17871,7 +18631,9 @@
             "Comedy",
             "Film-Noir"
         ],
-        "Director":"Howard Hawks",
+        "Director":[
+            "Howard Hawks"
+        ],
         "Writer":[
             "Ernest Hemingway",
             "Jules Furthman",
@@ -17923,7 +18685,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"John Huston",
+        "Director":[
+            "John Huston"
+        ],
         "Writer":[
             "Ben Maddow",
             "John Huston",
@@ -17975,7 +18739,10 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Howard Hawks, Richard Rosson",
+        "Director":[
+            "Howard Hawks",
+            "Richard Rosson"
+        ],
         "Writer":[
             "Armitage Trail",
             "Ben Hecht",
@@ -18027,7 +18794,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"John Huston",
+        "Director":[
+            "John Huston"
+        ],
         "Writer":[
             "Richard Brooks",
             "John Huston",
@@ -18075,7 +18844,9 @@
             "Film-Noir",
             "Romance"
         ],
-        "Director":"Charles Vidor",
+        "Director":[
+            "Charles Vidor"
+        ],
         "Writer":[
             "E.A. Ellington",
             "Jo Eisinger",
@@ -18123,7 +18894,9 @@
             "Mystery",
             "Romance"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Ben Hecht",
             "John Palmer",
@@ -18175,7 +18948,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Orson Welles",
+        "Director":[
+            "Orson Welles"
+        ],
         "Writer":[
             "Sherwood King",
             "Orson Welles",
@@ -18222,7 +18997,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Maxwell Anderson",
             "Angus MacPhail"
@@ -18273,7 +19050,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Samson Raphaelson",
             "Joan Harrison",
@@ -18325,7 +19104,9 @@
             "Drama",
             "Film-Noir"
         ],
-        "Director":"Orson Welles",
+        "Director":[
+            "Orson Welles"
+        ],
         "Writer":[
             "Anthony Veiller",
             "Victor Trivas",
@@ -18377,7 +19158,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Aditya Dhar",
+        "Director":[
+            "Aditya Dhar"
+        ],
         "Writer":[
             "Aditya Dhar"
         ],
@@ -18422,7 +19205,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Akira Kurosawa",
+        "Director":[
+            "Akira Kurosawa"
+        ],
         "Writer":[
             "Hideo Oguni",
             "Shinobu Hashimoto",
@@ -18470,7 +19255,9 @@
             "History",
             "Thriller"
         ],
-        "Director":"Oliver Stone",
+        "Director":[
+            "Oliver Stone"
+        ],
         "Writer":[
             "Jim Garrison",
             "Jim Marrs",
@@ -18521,7 +19308,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Luchino Visconti",
+        "Director":[
+            "Luchino Visconti"
+        ],
         "Writer":[
             "Giuseppe Tomasi di Lampedusa",
             "Suso Cecchi D'Amico",
@@ -18573,7 +19362,9 @@
             "History",
             "War"
         ],
-        "Director":"Jasmila Zbanic",
+        "Director":[
+            "Jasmila Zbanic"
+        ],
         "Writer":[
             "Jasmila Zbanic",
             "Hasan Nuhanovic"
@@ -18624,7 +19415,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Richard Brooks",
+        "Director":[
+            "Richard Brooks"
+        ],
         "Writer":[
             "Truman Capote",
             "Richard Brooks"
@@ -18675,7 +19468,9 @@
             "History",
             "Thriller"
         ],
-        "Director":"Alan J. Pakula",
+        "Director":[
+            "Alan J. Pakula"
+        ],
         "Writer":[
             "Carl Bernstein",
             "Bob Woodward",
@@ -18727,7 +19522,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Stanley Kubrick",
+        "Director":[
+            "Stanley Kubrick"
+        ],
         "Writer":[
             "Dalton Trumbo",
             "Howard Fast",
@@ -18779,7 +19576,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Clint Eastwood",
+        "Director":[
+            "Clint Eastwood"
+        ],
         "Writer":[
             "Iris Yamashita",
             "Paul Haggis",
@@ -18831,7 +19630,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Anthony Harvey",
+        "Director":[
+            "Anthony Harvey"
+        ],
         "Writer":[
             "James Goldman"
         ],
@@ -18877,7 +19678,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Hun Jang",
+        "Director":[
+            "Hun Jang"
+        ],
         "Writer":[
             "Yu-na Eom"
         ],
@@ -18927,7 +19730,9 @@
             "History",
             "War"
         ],
-        "Director":"Akira Kurosawa",
+        "Director":[
+            "Akira Kurosawa"
+        ],
         "Writer":[
             "Masato Ide",
             "Akira Kurosawa"
@@ -18978,7 +19783,9 @@
             "History",
             "Thriller"
         ],
-        "Director":"Sergei Eisenstein",
+        "Director":[
+            "Sergei Eisenstein"
+        ],
         "Writer":[
             "Nina Agadzhanova",
             "Sergei Eisenstein",
@@ -19030,7 +19837,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Raja Menon",
+        "Director":[
+            "Raja Menon"
+        ],
         "Writer":[
             "Raja Menon",
             "Sonu Sinha",
@@ -19078,7 +19887,10 @@
             "Drama",
             "History"
         ],
-        "Director":"George P. Cosmatos, Kevin Jarre",
+        "Director":[
+            "George P. Cosmatos",
+            "Kevin Jarre"
+        ],
         "Writer":[
             "Kevin Jarre"
         ],
@@ -19128,7 +19940,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Theodore Melfi",
+        "Director":[
+            "Theodore Melfi"
+        ],
         "Writer":[
             "Allison Schroeder",
             "Theodore Melfi",
@@ -19180,7 +19994,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Adam McKay",
+        "Director":[
+            "Adam McKay"
+        ],
         "Writer":[
             "Charles Randolph",
             "Adam McKay",
@@ -19232,7 +20048,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Christopher Nolan",
+        "Director":[
+            "Christopher Nolan"
+        ],
         "Writer":[
             "Christopher Nolan"
         ],
@@ -19282,7 +20100,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Edward Zwick",
+        "Director":[
+            "Edward Zwick"
+        ],
         "Writer":[
             "Kevin Jarre",
             "Lincoln Kirstein",
@@ -19334,7 +20154,9 @@
             "Drama",
             "History"
         ],
-        "Director":"F. Gary Gray",
+        "Director":[
+            "F. Gary Gray"
+        ],
         "Writer":[
             "Jonathan Herman",
             "Andrea Berloff",
@@ -19386,7 +20208,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Roland Joff\u00e9",
+        "Director":[
+            "Roland Joff\u00e9"
+        ],
         "Writer":[
             "Bruce Robinson"
         ],
@@ -19436,7 +20260,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Clint Eastwood",
+        "Director":[
+            "Clint Eastwood"
+        ],
         "Writer":[
             "J. Michael Straczynski"
         ],
@@ -19486,7 +20312,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"Philip Kaufman",
+        "Director":[
+            "Philip Kaufman"
+        ],
         "Writer":[
             "Philip Kaufman",
             "Tom Wolfe"
@@ -19537,7 +20365,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Matthew Warchus",
+        "Director":[
+            "Matthew Warchus"
+        ],
         "Writer":[
             "Stephen Beresford"
         ],
@@ -19587,7 +20417,9 @@
             "Adventure",
             "Biography"
         ],
-        "Director":"Werner Herzog",
+        "Director":[
+            "Werner Herzog"
+        ],
         "Writer":[
             "Werner Herzog"
         ],
@@ -19633,7 +20465,9 @@
             "History",
             "War"
         ],
-        "Director":"Martin Zandvliet",
+        "Director":[
+            "Martin Zandvliet"
+        ],
         "Writer":[
             "Martin Zandvliet"
         ],
@@ -19683,7 +20517,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Ridley Scott",
+        "Director":[
+            "Ridley Scott"
+        ],
         "Writer":[
             "Mark Bowden",
             "Ken Nolan"
@@ -19734,7 +20570,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Fred Zinnemann",
+        "Director":[
+            "Fred Zinnemann"
+        ],
         "Writer":[
             "Robert Bolt"
         ],
@@ -19784,7 +20622,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Ron Howard",
+        "Director":[
+            "Ron Howard"
+        ],
         "Writer":[
             "Jim Lovell",
             "Jeffrey Kluger",
@@ -19836,7 +20676,9 @@
             "History",
             "Thriller"
         ],
-        "Director":"Aaron Sorkin",
+        "Director":[
+            "Aaron Sorkin"
+        ],
         "Writer":[
             "Aaron Sorkin"
         ],
@@ -19886,7 +20728,9 @@
             "Drama",
             "Horror"
         ],
-        "Director":"Henri-Georges Clouzot",
+        "Director":[
+            "Henri-Georges Clouzot"
+        ],
         "Writer":[
             "Pierre Boileau",
             "Thomas Narcejac",
@@ -19933,7 +20777,9 @@
             "Drama",
             "Horror"
         ],
-        "Director":"Roman Polanski",
+        "Director":[
+            "Roman Polanski"
+        ],
         "Writer":[
             "Ira Levin",
             "Roman Polanski"
@@ -19984,7 +20830,9 @@
             "Horror",
             "Thriller"
         ],
-        "Director":"Robert Aldrich",
+        "Director":[
+            "Robert Aldrich"
+        ],
         "Writer":[
             "Henry Farrell",
             "Lukas Heller"
@@ -20035,7 +20883,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Robert Wiene",
+        "Director":[
+            "Robert Wiene"
+        ],
         "Writer":[
             "Carl Mayer",
             "Hans Janowitz"
@@ -20082,7 +20932,9 @@
             "Horror",
             "Mystery"
         ],
-        "Director":"Marwan Hamed",
+        "Director":[
+            "Marwan Hamed"
+        ],
         "Writer":[
             "Ahmed Mourad"
         ],
@@ -20123,7 +20975,9 @@
             "Comedy",
             "Horror"
         ],
-        "Director":"Edgar Wright",
+        "Director":[
+            "Edgar Wright"
+        ],
         "Writer":[
             "Simon Pegg",
             "Edgar Wright"
@@ -20173,7 +21027,9 @@
             "Fantasy",
             "Horror"
         ],
-        "Director":"F.W. Murnau",
+        "Director":[
+            "F.W. Murnau"
+        ],
         "Writer":[
             "Henrik Galeen",
             "Bram Stoker"
@@ -20220,7 +21076,9 @@
             "Fantasy",
             "Horror"
         ],
-        "Director":"Tomas Alfredson",
+        "Director":[
+            "Tomas Alfredson"
+        ],
         "Writer":[
             "John Ajvide Lindqvist"
         ],
@@ -20270,7 +21128,10 @@
             "Horror",
             "Sci-Fi"
         ],
-        "Director":"Merian C. Cooper, Ernest B. Schoedsack",
+        "Director":[
+            "Merian C. Cooper",
+            "Ernest B. Schoedsack"
+        ],
         "Writer":[
             "James Ashmore Creelman",
             "Ruth Rose",
@@ -20322,7 +21183,9 @@
             "Adventure",
             "Horror"
         ],
-        "Director":"John McTiernan",
+        "Director":[
+            "John McTiernan"
+        ],
         "Writer":[
             "Jim Thomas",
             "John Thomas"
@@ -20373,7 +21236,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Jee-woon Kim",
+        "Director":[
+            "Jee-woon Kim"
+        ],
         "Writer":[
             "Park Hoon-jung",
             "Jee-woon Kim"
@@ -20423,7 +21288,9 @@
             "Horror",
             "Thriller"
         ],
-        "Director":"George A. Romero",
+        "Director":[
+            "George A. Romero"
+        ],
         "Writer":[
             "John A. Russo",
             "George A. Romero"
@@ -20473,7 +21340,9 @@
             "Horror",
             "Thriller"
         ],
-        "Director":"George A. Romero",
+        "Director":[
+            "George A. Romero"
+        ],
         "Writer":[
             "George A. Romero"
         ],
@@ -20522,7 +21391,9 @@
             "Drama",
             "Horror"
         ],
-        "Director":"Tod Browning",
+        "Director":[
+            "Tod Browning"
+        ],
         "Writer":[
             "Clarence Aaron 'Tod' Robbins",
             "Willis Goldbeck",
@@ -20574,7 +21445,9 @@
             "Horror",
             "Sci-Fi"
         ],
-        "Director":"James Whale",
+        "Director":[
+            "James Whale"
+        ],
         "Writer":[
             "John L. Balderston",
             "Mary Shelley",
@@ -20626,7 +21499,9 @@
             "Horror",
             "Sci-Fi"
         ],
-        "Director":"James Whale",
+        "Director":[
+            "James Whale"
+        ],
         "Writer":[
             "Mary Shelley",
             "William Hurlbut",
@@ -20676,7 +21551,9 @@
         "Genre":[
             "Horror"
         ],
-        "Director":"Jack Clayton",
+        "Director":[
+            "Jack Clayton"
+        ],
         "Writer":[
             "Henry James",
             "John Mortimer",
@@ -20728,7 +21605,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Jordan Peele",
+        "Director":[
+            "Jordan Peele"
+        ],
         "Writer":[
             "Jordan Peele"
         ],
@@ -20777,7 +21656,9 @@
             "Horror",
             "Thriller"
         ],
-        "Director":"John Carpenter",
+        "Director":[
+            "John Carpenter"
+        ],
         "Writer":[
             "John Carpenter",
             "Debra Hill"
@@ -20827,7 +21708,9 @@
             "Comedy",
             "Horror"
         ],
-        "Director":"Sam Raimi",
+        "Director":[
+            "Sam Raimi"
+        ],
         "Writer":[
             "Sam Raimi",
             "Scott Spiegel"
@@ -20878,7 +21761,9 @@
             "Horror",
             "Sci-Fi"
         ],
-        "Director":"Don Siegel",
+        "Director":[
+            "Don Siegel"
+        ],
         "Writer":[
             "Daniel Mainwaring",
             "Jack Finney",
@@ -20930,7 +21815,9 @@
             "Drama",
             "Horror"
         ],
-        "Director":"Mary Harron",
+        "Director":[
+            "Mary Harron"
+        ],
         "Writer":[
             "Bret Easton Ellis",
             "Mary Harron",
@@ -20982,7 +21869,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"James Wan",
+        "Director":[
+            "James Wan"
+        ],
         "Writer":[
             "Leigh Whannell",
             "James Wan"
@@ -21033,7 +21922,9 @@
             "Horror",
             "Thriller"
         ],
-        "Director":"Sang-ho Yeon",
+        "Director":[
+            "Sang-ho Yeon"
+        ],
         "Writer":[
             "Joo-Suk Park",
             "Sang-ho Yeon"
@@ -21084,7 +21975,9 @@
             "Comedy",
             "Horror"
         ],
-        "Director":"Ruben Fleischer",
+        "Director":[
+            "Ruben Fleischer"
+        ],
         "Writer":[
             "Rhett Reese",
             "Paul Wernick"
@@ -21135,7 +22028,9 @@
             "Horror",
             "Sci-Fi"
         ],
-        "Director":"David Cronenberg",
+        "Director":[
+            "David Cronenberg"
+        ],
         "Writer":[
             "George Langelaan",
             "Charles Edward Pogue",
@@ -21186,7 +22081,10 @@
             "Comedy",
             "Horror"
         ],
-        "Director":"Jemaine Clement, Taika Waititi",
+        "Director":[
+            "Jemaine Clement",
+            "Taika Waititi"
+        ],
         "Writer":[
             "Jemaine Clement",
             "Taika Waititi"
@@ -21237,7 +22135,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Alejandro Amen\u00e1bar",
+        "Director":[
+            "Alejandro Amen\u00e1bar"
+        ],
         "Writer":[
             "Alejandro Amen\u00e1bar"
         ],
@@ -21287,7 +22187,9 @@
             "Horror",
             "Mystery"
         ],
-        "Director":"Alfred Hitchcock",
+        "Director":[
+            "Alfred Hitchcock"
+        ],
         "Writer":[
             "Daphne Du Maurier",
             "Evan Hunter"
@@ -21338,7 +22240,9 @@
             "Horror",
             "Mystery"
         ],
-        "Director":"Pedro Almod\u00f3var",
+        "Director":[
+            "Pedro Almod\u00f3var"
+        ],
         "Writer":[
             "Pedro Almod\u00f3var",
             "Agust\u00edn Almod\u00f3var",
@@ -21390,7 +22294,10 @@
             "Action",
             "Drama"
         ],
-        "Director":"Jack Fletcher, Yoshiaki Kawajiri",
+        "Director":[
+            "Jack Fletcher",
+            "Yoshiaki Kawajiri"
+        ],
         "Writer":[
             "Hideyuki Kikuchi",
             "Yoshiaki Kawajiri",
@@ -21442,7 +22349,9 @@
             "Horror",
             "Thriller"
         ],
-        "Director":"Roman Polanski",
+        "Director":[
+            "Roman Polanski"
+        ],
         "Writer":[
             "Roman Polanski",
             "G\u00e9rard Brach",
@@ -21494,7 +22403,9 @@
             "Drama",
             "Horror"
         ],
-        "Director":"Shin'ichir\u00f4 Ueda",
+        "Director":[
+            "Shin'ichir\u00f4 Ueda"
+        ],
         "Writer":[
             "Shin'ichir\u00f4 Ueda",
             "Ryoichi Wada"
@@ -21544,7 +22455,9 @@
             "Drama",
             "Horror"
         ],
-        "Director":"Georges Franju",
+        "Director":[
+            "Georges Franju"
+        ],
         "Writer":[
             "Jean Redon",
             "Pierre Boileau",
@@ -21596,7 +22509,9 @@
             "Horror",
             "Thriller"
         ],
-        "Director":"Michael Powell",
+        "Director":[
+            "Michael Powell"
+        ],
         "Writer":[
             "Leo Marks"
         ],
@@ -21641,7 +22556,9 @@
             "Horror",
             "Sci-Fi"
         ],
-        "Director":"James Whale",
+        "Director":[
+            "James Whale"
+        ],
         "Writer":[
             "H.G. Wells",
             "R.C. Sherriff",
@@ -21693,7 +22610,9 @@
             "Horror",
             "Sci-Fi"
         ],
-        "Director":"John Krasinski",
+        "Director":[
+            "John Krasinski"
+        ],
         "Writer":[
             "Bryan Woods",
             "Scott Beck",
@@ -21745,7 +22664,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"James Wan",
+        "Director":[
+            "James Wan"
+        ],
         "Writer":[
             "Chad Hayes",
             "Carey W. Hayes"
@@ -21796,7 +22717,9 @@
             "Horror",
             "Sci-Fi"
         ],
-        "Director":"Danny Boyle",
+        "Director":[
+            "Danny Boyle"
+        ],
         "Writer":[
             "Alex Garland"
         ],
@@ -21846,7 +22769,9 @@
             "Fantasy",
             "Horror"
         ],
-        "Director":"Neil Jordan",
+        "Director":[
+            "Neil Jordan"
+        ],
         "Writer":[
             "Anne Rice"
         ],
@@ -21896,7 +22821,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Alex Proyas",
+        "Director":[
+            "Alex Proyas"
+        ],
         "Writer":[
             "James O'Barr",
             "David J. Schow",
@@ -21947,7 +22874,9 @@
             "Comedy",
             "Horror"
         ],
-        "Director":"John Landis",
+        "Director":[
+            "John Landis"
+        ],
         "Writer":[
             "John Landis"
         ],
@@ -21996,7 +22925,9 @@
             "Comedy",
             "Horror"
         ],
-        "Director":"Eli Craig",
+        "Director":[
+            "Eli Craig"
+        ],
         "Writer":[
             "Eli Craig",
             "Morgan Jurgenson"
@@ -22047,7 +22978,11 @@
             "Horror",
             "Thriller"
         ],
-        "Director":"Robert Rodriguez, Eli Roth, Quentin Tarantino",
+        "Director":[
+            "Robert Rodriguez",
+            "Eli Roth",
+            "Quentin Tarantino"
+        ],
         "Writer":[
             "Robert Rodriguez",
             "Rob Zombie",
@@ -22099,7 +23034,10 @@
             "Music",
             "Romance"
         ],
-        "Director":"Michael Powell, Emeric Pressburger",
+        "Director":[
+            "Michael Powell",
+            "Emeric Pressburger"
+        ],
         "Writer":[
             "Hans Christian Andersen",
             "Emeric Pressburger",
@@ -22147,7 +23085,9 @@
             "Music",
             "Romance"
         ],
-        "Director":"Kaige Chen",
+        "Director":[
+            "Kaige Chen"
+        ],
         "Writer":[
             "Pik-Wah Lee",
             "Wei Lu"
@@ -22197,7 +23137,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Ingmar Bergman",
+        "Director":[
+            "Ingmar Bergman"
+        ],
         "Writer":[
             "Ingmar Bergman"
         ],
@@ -22243,7 +23185,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Sian Heder",
+        "Director":[
+            "Sian Heder"
+        ],
         "Writer":[
             "Sian Heder",
             "Victoria Bedos",
@@ -22295,7 +23239,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Damien Chazelle",
+        "Director":[
+            "Damien Chazelle"
+        ],
         "Writer":[
             "Damien Chazelle"
         ],
@@ -22345,7 +23291,9 @@
             "Music",
             "Romance"
         ],
-        "Director":"Giuseppe Tornatore",
+        "Director":[
+            "Giuseppe Tornatore"
+        ],
         "Writer":[
             "Alessandro Baricco",
             "Giuseppe Tornatore"
@@ -22396,7 +23344,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Cameron Crowe",
+        "Director":[
+            "Cameron Crowe"
+        ],
         "Writer":[
             "Cameron Crowe"
         ],
@@ -22446,7 +23396,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Bryan Singer",
+        "Director":[
+            "Bryan Singer"
+        ],
         "Writer":[
             "Anthony McCarten",
             "Peter Morgan"
@@ -22496,7 +23448,10 @@
             "Documentary",
             "Music"
         ],
-        "Director":"Vincent Scarza, Kenneth Shapiro",
+        "Director":[
+            "Vincent Scarza",
+            "Kenneth Shapiro"
+        ],
         "Writer":[
             "Bob Geldof"
         ],
@@ -22538,7 +23493,9 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"John Landis",
+        "Director":[
+            "John Landis"
+        ],
         "Writer":[
             "Dan Aykroyd",
             "John Landis"
@@ -22588,7 +23545,9 @@
             "Comedy",
             "Music"
         ],
-        "Director":"Rob Reiner",
+        "Director":[
+            "Rob Reiner"
+        ],
         "Writer":[
             "Christopher Guest",
             "Michael McKean",
@@ -22640,7 +23599,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"John Carney",
+        "Director":[
+            "John Carney"
+        ],
         "Writer":[
             "Simon Carmody",
             "John Carney"
@@ -22691,7 +23652,9 @@
             "Music",
             "Mystery"
         ],
-        "Director":"Krzysztof Kieslowski",
+        "Director":[
+            "Krzysztof Kieslowski"
+        ],
         "Writer":[
             "Krzysztof Kieslowski",
             "Krzysztof Piesiewicz",
@@ -22743,7 +23706,9 @@
             "Music",
             "Romance"
         ],
-        "Director":"Zoya Akhtar",
+        "Director":[
+            "Zoya Akhtar"
+        ],
         "Writer":[
             "Zoya Akhtar",
             "Reema Kagti",
@@ -22795,7 +23760,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"James Mangold",
+        "Director":[
+            "James Mangold"
+        ],
         "Writer":[
             "Johnny Cash",
             "Gill Dennis",
@@ -22847,7 +23814,9 @@
             "Music",
             "Musical"
         ],
-        "Director":"Bob Fosse",
+        "Director":[
+            "Bob Fosse"
+        ],
         "Writer":[
             "Joe Masteroff",
             "John Van Druten",
@@ -22899,7 +23868,9 @@
             "Music",
             "Romance"
         ],
-        "Director":"John Carney",
+        "Director":[
+            "John Carney"
+        ],
         "Writer":[
             "John Carney"
         ],
@@ -22949,7 +23920,9 @@
             "Music",
             "Musical"
         ],
-        "Director":"Bob Fosse",
+        "Director":[
+            "Bob Fosse"
+        ],
         "Writer":[
             "Robert Alan Aurthur",
             "Bob Fosse"
@@ -23000,7 +23973,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Christophe Barratier",
+        "Director":[
+            "Christophe Barratier"
+        ],
         "Writer":[
             "Georges Chaperot",
             "Ren\u00e9 Wheeler",
@@ -23052,7 +24027,10 @@
             "Music",
             "Musical"
         ],
-        "Director":"Sam Wood, Edmund Goulding",
+        "Director":[
+            "Sam Wood",
+            "Edmund Goulding"
+        ],
         "Writer":[
             "George S. Kaufman",
             "Morrie Ryskind",
@@ -23099,7 +24077,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Advait Chandan",
+        "Director":[
+            "Advait Chandan"
+        ],
         "Writer":[
             "Advait Chandan"
         ],
@@ -23145,7 +24125,10 @@
             "Comedy",
             "Crime"
         ],
-        "Director":"Joel Coen, Ethan Coen",
+        "Director":[
+            "Joel Coen",
+            "Ethan Coen"
+        ],
         "Writer":[
             "Homer",
             "Ethan Coen",
@@ -23196,7 +24179,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Darius Marder",
+        "Director":[
+            "Darius Marder"
+        ],
         "Writer":[
             "Darius Marder",
             "Abraham Marder",
@@ -23248,7 +24233,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Taylor Hackford",
+        "Director":[
+            "Taylor Hackford"
+        ],
         "Writer":[
             "Taylor Hackford",
             "James L. White"
@@ -23298,7 +24285,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Stephen Daldry",
+        "Director":[
+            "Stephen Daldry"
+        ],
         "Writer":[
             "Lee Hall"
         ],
@@ -23348,7 +24337,9 @@
             "Fantasy",
             "Music"
         ],
-        "Director":"Krzysztof Kieslowski",
+        "Director":[
+            "Krzysztof Kieslowski"
+        ],
         "Writer":[
             "Krzysztof Kieslowski",
             "Krzysztof Piesiewicz"
@@ -23399,7 +24390,11 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"James Algar, Samuel Armstrong, Ford Beebe Jr.",
+        "Director":[
+            "James Algar",
+            "Samuel Armstrong",
+            "Ford Beebe Jr."
+        ],
         "Writer":[
             "Joe Grant",
             "Dick Huemer",
@@ -23451,7 +24446,9 @@
             "Music",
             "Romance"
         ],
-        "Director":"Felix van Groeningen",
+        "Director":[
+            "Felix van Groeningen"
+        ],
         "Writer":[
             "Johan Heldenbergh",
             "Mieke Dobbels",
@@ -23503,7 +24500,9 @@
             "Music",
             "Romance"
         ],
-        "Director":"Imtiaz Ali",
+        "Director":[
+            "Imtiaz Ali"
+        ],
         "Writer":[
             "Imtiaz Ali",
             "Muazzam Beg"
@@ -23550,7 +24549,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"John Cameron Mitchell",
+        "Director":[
+            "John Cameron Mitchell"
+        ],
         "Writer":[
             "John Cameron Mitchell",
             "Stephen Trask"
@@ -23601,7 +24602,9 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Sylvain Chomet",
+        "Director":[
+            "Sylvain Chomet"
+        ],
         "Writer":[
             "Sylvain Chomet"
         ],
@@ -23647,7 +24650,9 @@
             "History",
             "Music"
         ],
-        "Director":"Christian Carion",
+        "Director":[
+            "Christian Carion"
+        ],
         "Writer":[
             "Christian Carion"
         ],
@@ -23697,7 +24702,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Edgar Wright",
+        "Director":[
+            "Edgar Wright"
+        ],
         "Writer":[
             "Edgar Wright"
         ],
@@ -23747,7 +24754,9 @@
             "Music",
             "Romance"
         ],
-        "Director":"Bradley Cooper",
+        "Director":[
+            "Bradley Cooper"
+        ],
         "Writer":[
             "Eric Roth",
             "Bradley Cooper",
@@ -23799,7 +24808,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Alan Parker",
+        "Director":[
+            "Alan Parker"
+        ],
         "Writer":[
             "Roddy Doyle",
             "Dick Clement",
@@ -23851,7 +24862,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Robert Altman",
+        "Director":[
+            "Robert Altman"
+        ],
         "Writer":[
             "Joan Tewkesbury"
         ],
@@ -23901,7 +24914,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Olivier Dahan",
+        "Director":[
+            "Olivier Dahan"
+        ],
         "Writer":[
             "Isabelle Sobelman",
             "Olivier Dahan"
@@ -23952,7 +24967,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Anton Corbijn",
+        "Director":[
+            "Anton Corbijn"
+        ],
         "Writer":[
             "Deborah Curtis",
             "Matt Greenhalgh"
@@ -24003,7 +25020,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Scott Hicks",
+        "Director":[
+            "Scott Hicks"
+        ],
         "Writer":[
             "Jan Sardi",
             "Scott Hicks"
@@ -24054,7 +25073,9 @@
             "Music",
             "Mystery"
         ],
-        "Director":"Fran\u00e7ois Girard",
+        "Director":[
+            "Fran\u00e7ois Girard"
+        ],
         "Writer":[
             "Don McKellar",
             "Fran\u00e7ois Girard"
@@ -24104,7 +25125,9 @@
             "Drama",
             "Music"
         ],
-        "Director":"Todd Field",
+        "Director":[
+            "Todd Field"
+        ],
         "Writer":[
             "Todd Field"
         ],
@@ -24150,7 +25173,9 @@
             "Music",
             "Romance"
         ],
-        "Director":"Jane Campion",
+        "Director":[
+            "Jane Campion"
+        ],
         "Writer":[
             "Jane Campion"
         ],
@@ -24199,7 +25224,9 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Ashutosh Gowariker",
+        "Director":[
+            "Ashutosh Gowariker"
+        ],
         "Writer":[
             "M.G. Sathya",
             "Ashutosh Gowariker",
@@ -24247,7 +25274,9 @@
             "Musical",
             "Sport"
         ],
-        "Director":"Ashutosh Gowariker",
+        "Director":[
+            "Ashutosh Gowariker"
+        ],
         "Writer":[
             "Ashutosh Gowariker",
             "Kumar Dave",
@@ -24299,7 +25328,9 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Ramesh Sippy",
+        "Director":[
+            "Ramesh Sippy"
+        ],
         "Writer":[
             "Javed Akhtar",
             "Salim Khan"
@@ -24345,7 +25376,9 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Hrishikesh Mukherjee",
+        "Director":[
+            "Hrishikesh Mukherjee"
+        ],
         "Writer":[
             "Hrishikesh Mukherjee",
             "Gulzar",
@@ -24389,7 +25422,9 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Lars von Trier",
+        "Director":[
+            "Lars von Trier"
+        ],
         "Writer":[
             "Lars von Trier",
             "Sj\u00f3n"
@@ -24440,7 +25475,9 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Nikkhil Advani",
+        "Director":[
+            "Nikkhil Advani"
+        ],
         "Writer":[
             "Niranjan Iyengar",
             "Karan Johar"
@@ -24491,7 +25528,9 @@
             "Fantasy",
             "Musical"
         ],
-        "Director":"Mel Stuart",
+        "Director":[
+            "Mel Stuart"
+        ],
         "Writer":[
             "Roald Dahl",
             "David Seltzer"
@@ -24542,7 +25581,9 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"Robert Stevenson",
+        "Director":[
+            "Robert Stevenson"
+        ],
         "Writer":[
             "Bill Walsh",
             "Don DaGradi",
@@ -24594,7 +25635,9 @@
             "Family",
             "Musical"
         ],
-        "Director":"George Cukor",
+        "Director":[
+            "George Cukor"
+        ],
         "Writer":[
             "Alan Jay Lerner",
             "George Bernard Shaw"
@@ -24644,7 +25687,9 @@
             "Comedy",
             "Musical"
         ],
-        "Director":"Leo McCarey",
+        "Director":[
+            "Leo McCarey"
+        ],
         "Writer":[
             "Bert Kalmar",
             "Harry Ruby",
@@ -24696,7 +25741,9 @@
             "Musical",
             "Romance"
         ],
-        "Director":"Jacques Demy",
+        "Director":[
+            "Jacques Demy"
+        ],
         "Writer":[
             "Jacques Demy"
         ],
@@ -24746,7 +25793,9 @@
             "Family",
             "Musical"
         ],
-        "Director":"Yash Chopra",
+        "Director":[
+            "Yash Chopra"
+        ],
         "Writer":[
             "Aditya Chopra"
         ],
@@ -24796,7 +25845,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Nathan Greno, Byron Howard",
+        "Director":[
+            "Nathan Greno",
+            "Byron Howard"
+        ],
         "Writer":[
             "Dan Fogelman",
             "Jacob Grimm",
@@ -24848,7 +25900,9 @@
             "Comedy",
             "Fantasy"
         ],
-        "Director":"Trey Parker",
+        "Director":[
+            "Trey Parker"
+        ],
         "Writer":[
             "Trey Parker",
             "Matt Stone",
@@ -24900,7 +25954,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"Brian Henson",
+        "Director":[
+            "Brian Henson"
+        ],
         "Writer":[
             "Charles Dickens",
             "Jerry Juhl"
@@ -24951,7 +26007,10 @@
             "Drama",
             "Family"
         ],
-        "Director":"Guillermo del Toro, Mark Gustafson",
+        "Director":[
+            "Guillermo del Toro",
+            "Mark Gustafson"
+        ],
         "Writer":[
             "Guillermo del Toro",
             "Patrick McHale",
@@ -25003,7 +26062,11 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Ron Clements, John Musker, Don Hall",
+        "Director":[
+            "Ron Clements",
+            "John Musker",
+            "Don Hall"
+        ],
         "Writer":[
             "Jared Bush",
             "Ron Clements",
@@ -25055,7 +26118,9 @@
             "Musical",
             "Romance"
         ],
-        "Director":"Baz Luhrmann",
+        "Director":[
+            "Baz Luhrmann"
+        ],
         "Writer":[
             "Baz Luhrmann",
             "Craig Pearce"
@@ -25106,7 +26171,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Ron Clements, John Musker",
+        "Director":[
+            "Ron Clements",
+            "John Musker"
+        ],
         "Writer":[
             "John Musker",
             "Ron Clements",
@@ -25158,7 +26226,10 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Jerome Robbins, Robert Wise",
+        "Director":[
+            "Jerome Robbins",
+            "Robert Wise"
+        ],
         "Writer":[
             "Ernest Lehman",
             "Arthur Laurents",
@@ -25210,7 +26281,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Tony Bancroft, Barry Cook",
+        "Director":[
+            "Tony Bancroft",
+            "Barry Cook"
+        ],
         "Writer":[
             "Robert D. San Souci",
             "Rita Hsiao",
@@ -25262,7 +26336,9 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Wolfgang Reitherman",
+        "Director":[
+            "Wolfgang Reitherman"
+        ],
         "Writer":[
             "Larry Clemmons",
             "Ralph Wright",
@@ -25314,7 +26390,11 @@
             "Adventure",
             "Family"
         ],
-        "Director":"William Cottrell, David Hand, Wilfred Jackson",
+        "Director":[
+            "William Cottrell",
+            "David Hand",
+            "Wilfred Jackson"
+        ],
         "Writer":[
             "Jacob Grimm",
             "Wilhelm Grimm",
@@ -25362,7 +26442,9 @@
             "Comedy",
             "Family"
         ],
-        "Director":"James Frawley",
+        "Director":[
+            "James Frawley"
+        ],
         "Writer":[
             "Jerry Juhl",
             "Jack Burns"
@@ -25413,7 +26495,10 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Abbas Alibhai Burmawalla, Mastan Alibhai Burmawalla",
+        "Director":[
+            "Abbas Alibhai Burmawalla",
+            "Mastan Alibhai Burmawalla"
+        ],
         "Writer":[
             "Robin Bhatt",
             "Akash Khurana",
@@ -25457,7 +26542,9 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Michael Gracey",
+        "Director":[
+            "Michael Gracey"
+        ],
         "Writer":[
             "Jenny Bicks",
             "Bill Condon"
@@ -25508,7 +26595,9 @@
             "Musical",
             "Romance"
         ],
-        "Director":"Tom Hooper",
+        "Director":[
+            "Tom Hooper"
+        ],
         "Writer":[
             "William Nicholson",
             "Alain Boublil",
@@ -25560,7 +26649,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Lin-Manuel Miranda",
+        "Director":[
+            "Lin-Manuel Miranda"
+        ],
         "Writer":[
             "Steven Levenson",
             "Jonathan Larson"
@@ -25611,7 +26702,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Wolfgang Reitherman, David Hand",
+        "Director":[
+            "Wolfgang Reitherman",
+            "David Hand"
+        ],
         "Writer":[
             "Larry Clemmons",
             "Ken Anderson",
@@ -25662,7 +26756,9 @@
             "Comedy",
             "Musical"
         ],
-        "Director":"Richard Lester",
+        "Director":[
+            "Richard Lester"
+        ],
         "Writer":[
             "Alun Owen"
         ],
@@ -25712,7 +26808,11 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Norman Ferguson, T. Hee, Wilfred Jackson",
+        "Director":[
+            "Norman Ferguson",
+            "T. Hee",
+            "Wilfred Jackson"
+        ],
         "Writer":[
             "Carlo Collodi",
             "Ted Sears",
@@ -25764,7 +26864,9 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Milos Forman",
+        "Director":[
+            "Milos Forman"
+        ],
         "Writer":[
             "Gerome Ragni",
             "James Rado",
@@ -25816,7 +26918,9 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Karan Johar",
+        "Director":[
+            "Karan Johar"
+        ],
         "Writer":[
             "Karan Johar"
         ],
@@ -25862,7 +26966,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Sriram Raghavan",
+        "Director":[
+            "Sriram Raghavan"
+        ],
         "Writer":[
             "Arijit Biswas",
             "Yogesh Chandekar",
@@ -25910,7 +27016,9 @@
             "Mystery",
             "Romance"
         ],
-        "Director":"Krzysztof Kieslowski",
+        "Director":[
+            "Krzysztof Kieslowski"
+        ],
         "Writer":[
             "Krzysztof Kieslowski",
             "Krzysztof Piesiewicz",
@@ -25962,7 +27070,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Meghna Gulzar",
+        "Director":[
+            "Meghna Gulzar"
+        ],
         "Writer":[
             "Vishal Bhardwaj",
             "Aditya Nimbalkar"
@@ -26005,7 +27115,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Anubhav Sinha",
+        "Director":[
+            "Anubhav Sinha"
+        ],
         "Writer":[
             "Anubhav Sinha",
             "Gaurav Solanki"
@@ -26052,7 +27164,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Neeraj Pandey",
+        "Director":[
+            "Neeraj Pandey"
+        ],
         "Writer":[
             "Neeraj Pandey"
         ],
@@ -26094,7 +27208,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Vivek Agnihotri",
+        "Director":[
+            "Vivek Agnihotri"
+        ],
         "Writer":[
             "Vivek Agnihotri",
             "Saurabh M. Pandey"
@@ -26140,7 +27256,9 @@
             "Mystery",
             "Thriller"
         ],
-        "Director":"Sujoy Ghosh",
+        "Director":[
+            "Sujoy Ghosh"
+        ],
         "Writer":[
             "Sujoy Ghosh",
             "Advaita Kala",
@@ -26188,7 +27306,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Denis Villeneuve",
+        "Director":[
+            "Denis Villeneuve"
+        ],
         "Writer":[
             "Hampton Fancher",
             "Michael Green",
@@ -26239,7 +27359,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"C\u00e9line Sciamma",
+        "Director":[
+            "C\u00e9line Sciamma"
+        ],
         "Writer":[
             "C\u00e9line Sciamma"
         ],
@@ -26288,7 +27410,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Kar-Wai Wong",
+        "Director":[
+            "Kar-Wai Wong"
+        ],
         "Writer":[
             "Kar-Wai Wong"
         ],
@@ -26337,7 +27461,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"John Cassavetes",
+        "Director":[
+            "John Cassavetes"
+        ],
         "Writer":[
             "John Cassavetes"
         ],
@@ -26386,7 +27512,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"F.W. Murnau",
+        "Director":[
+            "F.W. Murnau"
+        ],
         "Writer":[
             "Carl Mayer",
             "Hermann Sudermann",
@@ -26437,7 +27565,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Edward Yang",
+        "Director":[
+            "Edward Yang"
+        ],
         "Writer":[
             "Edward Yang"
         ],
@@ -26483,7 +27613,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Anurag Basu",
+        "Director":[
+            "Anurag Basu"
+        ],
         "Writer":[
             "Anurag Basu",
             "Tani Basu",
@@ -26531,7 +27663,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Farhan Akhtar",
+        "Director":[
+            "Farhan Akhtar"
+        ],
         "Writer":[
             "Kassim Jagmagia",
             "Farhan Akhtar",
@@ -26578,7 +27712,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Yimou Zhang",
+        "Director":[
+            "Yimou Zhang"
+        ],
         "Writer":[
             "Tong Su",
             "Ni Zhen"
@@ -26625,7 +27761,9 @@
             "Romance",
             "Sci-Fi"
         ],
-        "Director":"Spike Jonze",
+        "Director":[
+            "Spike Jonze"
+        ],
         "Writer":[
             "Spike Jonze"
         ],
@@ -26674,7 +27812,9 @@
             "Drama",
             "Sci-Fi"
         ],
-        "Director":"Andrei Tarkovsky",
+        "Director":[
+            "Andrei Tarkovsky"
+        ],
         "Writer":[
             "Arkadiy Strugatskiy",
             "Boris Strugatskiy",
@@ -26722,7 +27862,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Denis Villeneuve",
+        "Director":[
+            "Denis Villeneuve"
+        ],
         "Writer":[
             "Jon Spaihts",
             "Denis Villeneuve",
@@ -26774,7 +27916,9 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"James Gunn",
+        "Director":[
+            "James Gunn"
+        ],
         "Writer":[
             "James Gunn",
             "Nicole Perlman",
@@ -26826,7 +27970,9 @@
             "Drama",
             "Sci-Fi"
         ],
-        "Director":"Ridley Scott",
+        "Director":[
+            "Ridley Scott"
+        ],
         "Writer":[
             "Drew Goddard",
             "Andy Weir"
@@ -26877,7 +28023,9 @@
             "Mystery",
             "Sci-Fi"
         ],
-        "Director":"Richard Kelly",
+        "Director":[
+            "Richard Kelly"
+        ],
         "Writer":[
             "Richard Kelly"
         ],
@@ -26926,7 +28074,9 @@
             "Action",
             "Sci-Fi"
         ],
-        "Director":"Joss Whedon",
+        "Director":[
+            "Joss Whedon"
+        ],
         "Writer":[
             "Joss Whedon",
             "Zak Penn"
@@ -26977,7 +28127,9 @@
             "Sci-Fi",
             "Thriller"
         ],
-        "Director":"Terry Gilliam",
+        "Director":[
+            "Terry Gilliam"
+        ],
         "Writer":[
             "Chris Marker",
             "David Webb Peoples",
@@ -27028,7 +28180,9 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"Franklin J. Schaffner",
+        "Director":[
+            "Franklin J. Schaffner"
+        ],
         "Writer":[
             "Michael Wilson",
             "Rod Serling",
@@ -27080,7 +28234,9 @@
             "Mystery",
             "Sci-Fi"
         ],
-        "Director":"Andrei Tarkovsky",
+        "Director":[
+            "Andrei Tarkovsky"
+        ],
         "Writer":[
             "Stanislaw Lem",
             "Fridrikh Gorenshteyn",
@@ -27132,7 +28288,9 @@
             "Comedy",
             "Sci-Fi"
         ],
-        "Director":"\u00d6mer Faruk Sorak",
+        "Director":[
+            "\u00d6mer Faruk Sorak"
+        ],
         "Writer":[
             "Cem Yilmaz"
         ],
@@ -27174,7 +28332,10 @@
             "Adventure",
             "Comedy"
         ],
-        "Director":"Dan Kwan, Daniel Scheinert",
+        "Director":[
+            "Dan Kwan",
+            "Daniel Scheinert"
+        ],
         "Writer":[
             "Dan Kwan",
             "Daniel Scheinert"
@@ -27225,7 +28386,9 @@
             "Adventure",
             "Fantasy"
         ],
-        "Director":"James Cameron",
+        "Director":[
+            "James Cameron"
+        ],
         "Writer":[
             "James Cameron"
         ],
@@ -27275,7 +28438,9 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"Doug Liman",
+        "Director":[
+            "Doug Liman"
+        ],
         "Writer":[
             "Christopher McQuarrie",
             "Jez Butterworth",
@@ -27327,7 +28492,9 @@
             "Mystery",
             "Sci-Fi"
         ],
-        "Director":"Denis Villeneuve",
+        "Director":[
+            "Denis Villeneuve"
+        ],
         "Writer":[
             "Eric Heisserer",
             "Ted Chiang"
@@ -27378,7 +28545,9 @@
             "Adventure",
             "Sci-Fi"
         ],
-        "Director":"Jon Favreau",
+        "Director":[
+            "Jon Favreau"
+        ],
         "Writer":[
             "Mark Fergus",
             "Hawk Ostby",
@@ -27429,7 +28598,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Robert Rossen",
+        "Director":[
+            "Robert Rossen"
+        ],
         "Writer":[
             "Sidney Carroll",
             "Robert Rossen",
@@ -27480,7 +28651,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Darren Aronofsky",
+        "Director":[
+            "Darren Aronofsky"
+        ],
         "Writer":[
             "Robert Siegel"
         ],
@@ -27530,7 +28703,10 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Mathur Goswami, Neeraj Pandey",
+        "Director":[
+            "Mathur Goswami",
+            "Neeraj Pandey"
+        ],
         "Writer":[
             "Neeraj Pandey",
             "Dilip Jha",
@@ -27578,7 +28754,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Boaz Yakin",
+        "Director":[
+            "Boaz Yakin"
+        ],
         "Writer":[
             "Gregory Allen Howard"
         ],
@@ -27628,7 +28806,9 @@
             "Biography",
             "Drama"
         ],
-        "Director":"David O. Russell",
+        "Director":[
+            "David O. Russell"
+        ],
         "Writer":[
             "Scott Silver",
             "Paul Tamasy",
@@ -27680,7 +28860,9 @@
             "Drama",
             "Family"
         ],
-        "Director":"David Mickey Evans",
+        "Director":[
+            "David Mickey Evans"
+        ],
         "Writer":[
             "David Mickey Evans",
             "Robert Gunter"
@@ -27731,7 +28913,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Roger Donaldson",
+        "Director":[
+            "Roger Donaldson"
+        ],
         "Writer":[
             "Roger Donaldson"
         ],
@@ -27780,7 +28964,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Abhishek Kapoor",
+        "Director":[
+            "Abhishek Kapoor"
+        ],
         "Writer":[
             "Chetan Bhagat",
             "Abhishek Kapoor",
@@ -27832,7 +29018,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Ryan Coogler",
+        "Director":[
+            "Ryan Coogler"
+        ],
         "Writer":[
             "Ryan Coogler",
             "Aaron Covington",
@@ -27884,7 +29072,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Bennett Miller",
+        "Director":[
+            "Bennett Miller"
+        ],
         "Writer":[
             "Steven Zaillian",
             "Aaron Sorkin",
@@ -27936,7 +29126,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"John Lee Hancock",
+        "Director":[
+            "John Lee Hancock"
+        ],
         "Writer":[
             "John Lee Hancock",
             "Michael Lewis"
@@ -27987,7 +29179,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Norman Jewison",
+        "Director":[
+            "Norman Jewison"
+        ],
         "Writer":[
             "Rubin 'Hurricane' Carter",
             "Sam Chaiton",
@@ -28039,7 +29233,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Craig Gillespie",
+        "Director":[
+            "Craig Gillespie"
+        ],
         "Writer":[
             "Steven Rogers"
         ],
@@ -28089,7 +29285,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Simon Curtis",
+        "Director":[
+            "Simon Curtis"
+        ],
         "Writer":[
             "Mark Bomback",
             "Garth Stein"
@@ -28140,7 +29338,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Reinaldo Marcus Green",
+        "Director":[
+            "Reinaldo Marcus Green"
+        ],
         "Writer":[
             "Zach Baylin"
         ],
@@ -28190,7 +29390,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Brian Helgeland",
+        "Director":[
+            "Brian Helgeland"
+        ],
         "Writer":[
             "Brian Helgeland"
         ],
@@ -28240,7 +29442,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"David Anspaugh",
+        "Director":[
+            "David Anspaugh"
+        ],
         "Writer":[
             "Angelo Pizzo"
         ],
@@ -28290,7 +29494,9 @@
             "Family",
             "Fantasy"
         ],
-        "Director":"Phil Alden Robinson",
+        "Director":[
+            "Phil Alden Robinson"
+        ],
         "Writer":[
             "W.P. Kinsella",
             "Phil Alden Robinson"
@@ -28341,7 +29547,9 @@
             "Romance",
             "Sport"
         ],
-        "Director":"Trey Edward Shults",
+        "Director":[
+            "Trey Edward Shults"
+        ],
         "Writer":[
             "Trey Edward Shults"
         ],
@@ -28391,7 +29599,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Luc Besson",
+        "Director":[
+            "Luc Besson"
+        ],
         "Writer":[
             "Luc Besson",
             "Robert Garland",
@@ -28443,7 +29653,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Kabir Khan",
+        "Director":[
+            "Kabir Khan"
+        ],
         "Writer":[
             "Sumit Arora",
             "Vasan Bala",
@@ -28487,7 +29699,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Tom Hooper",
+        "Director":[
+            "Tom Hooper"
+        ],
         "Writer":[
             "Peter Morgan",
             "David Peace"
@@ -28538,7 +29752,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Sally El Hosaini",
+        "Director":[
+            "Sally El Hosaini"
+        ],
         "Writer":[
             "Sally El Hosaini",
             "Jack Thorne"
@@ -28589,7 +29805,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Aaron Sorkin",
+        "Director":[
+            "Aaron Sorkin"
+        ],
         "Writer":[
             "Aaron Sorkin",
             "Molly Bloom"
@@ -28640,7 +29858,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Lexi Alexander",
+        "Director":[
+            "Lexi Alexander"
+        ],
         "Writer":[
             "Lexi Alexander",
             "Dougie Brimson",
@@ -28692,7 +29912,9 @@
             "Drama",
             "History"
         ],
-        "Director":"Gavin O'Connor",
+        "Director":[
+            "Gavin O'Connor"
+        ],
         "Writer":[
             "Eric Guggenheim"
         ],
@@ -28741,7 +29963,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Barry Levinson",
+        "Director":[
+            "Barry Levinson"
+        ],
         "Writer":[
             "Bernard Malamud",
             "Roger Towne",
@@ -28792,7 +30016,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"David Anspaugh",
+        "Director":[
+            "David Anspaugh"
+        ],
         "Writer":[
             "Angelo Pizzo"
         ],
@@ -28842,7 +30068,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Niki Caro",
+        "Director":[
+            "Niki Caro"
+        ],
         "Writer":[
             "Christopher Cleveland",
             "Bettina Gilois",
@@ -28894,7 +30122,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Bill Paxton",
+        "Director":[
+            "Bill Paxton"
+        ],
         "Writer":[
             "Mark Frost"
         ],
@@ -28944,7 +30174,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Steven Zaillian",
+        "Director":[
+            "Steven Zaillian"
+        ],
         "Writer":[
             "Fred Waitzkin",
             "Steven Zaillian"
@@ -28995,7 +30227,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Nagraj Manjule",
+        "Director":[
+            "Nagraj Manjule"
+        ],
         "Writer":[
             "Nagraj Manjule"
         ],
@@ -29040,7 +30274,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Sylvester Stallone",
+        "Director":[
+            "Sylvester Stallone"
+        ],
         "Writer":[
             "Sylvester Stallone"
         ],
@@ -29090,7 +30326,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Antoine Fuqua",
+        "Director":[
+            "Antoine Fuqua"
+        ],
         "Writer":[
             "Kurt Sutter"
         ],
@@ -29140,7 +30378,9 @@
             "Drama",
             "Sport"
         ],
-        "Director":"Penny Marshall",
+        "Director":[
+            "Penny Marshall"
+        ],
         "Writer":[
             "Kim Wilson",
             "Kelly Candaele",
@@ -29192,7 +30432,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Cameron Crowe",
+        "Director":[
+            "Cameron Crowe"
+        ],
         "Writer":[
             "Cameron Crowe"
         ],
@@ -29241,7 +30483,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"John Ford",
+        "Director":[
+            "John Ford"
+        ],
         "Writer":[
             "James Warner Bellah",
             "Willis Goldbeck",
@@ -29293,7 +30537,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Alejandro G. I\u00f1\u00e1rritu",
+        "Director":[
+            "Alejandro G. I\u00f1\u00e1rritu"
+        ],
         "Writer":[
             "Mark L. Smith",
             "Alejandro G. I\u00f1\u00e1rritu",
@@ -29344,7 +30590,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Howard Hawks",
+        "Director":[
+            "Howard Hawks"
+        ],
         "Writer":[
             "Jules Furthman",
             "Leigh Brackett",
@@ -29396,7 +30644,9 @@
             "Thriller",
             "Western"
         ],
-        "Director":"Fred Zinnemann",
+        "Director":[
+            "Fred Zinnemann"
+        ],
         "Writer":[
             "Carl Foreman",
             "John W. Cunningham"
@@ -29447,7 +30697,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"Sam Peckinpah",
+        "Director":[
+            "Sam Peckinpah"
+        ],
         "Writer":[
             "Walon Green",
             "Sam Peckinpah",
@@ -29499,7 +30751,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"John Ford",
+        "Director":[
+            "John Ford"
+        ],
         "Writer":[
             "Frank S. Nugent",
             "Alan Le May"
@@ -29550,7 +30804,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Sergio Leone",
+        "Director":[
+            "Sergio Leone"
+        ],
         "Writer":[
             "Adriano Bolzoni",
             "Mark Lowell",
@@ -29602,7 +30858,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Quentin Tarantino",
+        "Director":[
+            "Quentin Tarantino"
+        ],
         "Writer":[
             "Quentin Tarantino"
         ],
@@ -29650,7 +30908,9 @@
         "Genre":[
             "Western"
         ],
-        "Director":"Clint Eastwood",
+        "Director":[
+            "Clint Eastwood"
+        ],
         "Writer":[
             "Forrest Carter",
             "Philip Kaufman",
@@ -29702,7 +30962,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"John Ford",
+        "Director":[
+            "John Ford"
+        ],
         "Writer":[
             "Ernest Haycox",
             "Dudley Nichols",
@@ -29753,7 +31015,10 @@
             "Drama",
             "Western"
         ],
-        "Director":"Howard Hawks, Arthur Rosson",
+        "Director":[
+            "Howard Hawks",
+            "Arthur Rosson"
+        ],
         "Writer":[
             "Borden Chase",
             "Charles Schnee"
@@ -29800,7 +31065,9 @@
             "Drama",
             "Mystery"
         ],
-        "Director":"Taylor Sheridan",
+        "Director":[
+            "Taylor Sheridan"
+        ],
         "Writer":[
             "Taylor Sheridan"
         ],
@@ -29849,7 +31116,9 @@
             "Comedy",
             "Western"
         ],
-        "Director":"Mel Brooks",
+        "Director":[
+            "Mel Brooks"
+        ],
         "Writer":[
             "Mel Brooks",
             "Norman Steinberg",
@@ -29901,7 +31170,9 @@
             "Adventure",
             "Drama"
         ],
-        "Director":"John Sturges",
+        "Director":[
+            "John Sturges"
+        ],
         "Writer":[
             "William Roberts",
             "Akira Kurosawa",
@@ -29953,7 +31224,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"James Mangold",
+        "Director":[
+            "James Mangold"
+        ],
         "Writer":[
             "Halsted Welles",
             "Michael Brandt",
@@ -30005,7 +31278,9 @@
             "Drama",
             "Thriller"
         ],
-        "Director":"David Mackenzie",
+        "Director":[
+            "David Mackenzie"
+        ],
         "Writer":[
             "Taylor Sheridan"
         ],
@@ -30054,7 +31329,10 @@
             "Drama",
             "Western"
         ],
-        "Director":"Ethan Coen, Joel Coen",
+        "Director":[
+            "Ethan Coen",
+            "Joel Coen"
+        ],
         "Writer":[
             "Joel Coen",
             "Ethan Coen",
@@ -30105,7 +31383,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"George Stevens",
+        "Director":[
+            "George Stevens"
+        ],
         "Writer":[
             "A.B. Guthrie Jr.",
             "Jack Sher",
@@ -30156,7 +31436,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"George Stevens",
+        "Director":[
+            "George Stevens"
+        ],
         "Writer":[
             "Edna Ferber",
             "Fred Guiol",
@@ -30208,7 +31490,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Sydney Pollack",
+        "Director":[
+            "Sydney Pollack"
+        ],
         "Writer":[
             "Vardis Fisher",
             "Raymond W. Thorp",
@@ -30260,7 +31544,9 @@
             "Comedy",
             "Drama"
         ],
-        "Director":"Arthur Penn",
+        "Director":[
+            "Arthur Penn"
+        ],
         "Writer":[
             "Thomas Berger",
             "Calder Willingham"
@@ -30311,7 +31597,9 @@
             "Romance",
             "Western"
         ],
-        "Director":"Don Siegel",
+        "Director":[
+            "Don Siegel"
+        ],
         "Writer":[
             "Glendon Swarthout",
             "Miles Hood Swarthout",
@@ -30363,7 +31651,9 @@
             "War",
             "Western"
         ],
-        "Director":"Sergio Leone",
+        "Director":[
+            "Sergio Leone"
+        ],
         "Writer":[
             "Sergio Leone",
             "Sergio Donati",
@@ -30414,7 +31704,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Robert Altman",
+        "Director":[
+            "Robert Altman"
+        ],
         "Writer":[
             "Edmund Naughton",
             "Robert Altman",
@@ -30466,7 +31758,9 @@
             "Romance",
             "War"
         ],
-        "Director":"Edward Zwick",
+        "Director":[
+            "Edward Zwick"
+        ],
         "Writer":[
             "Susan Shilliday",
             "William D. Wittliff",
@@ -30514,7 +31808,9 @@
             "Crime",
             "Drama"
         ],
-        "Director":"Andrew Dominik",
+        "Director":[
+            "Andrew Dominik"
+        ],
         "Writer":[
             "Andrew Dominik",
             "Ron Hansen"
@@ -30565,7 +31861,9 @@
             "Romance",
             "Western"
         ],
-        "Director":"Howard Hawks",
+        "Director":[
+            "Howard Hawks"
+        ],
         "Writer":[
             "Leigh Brackett",
             "Harry Brown"
@@ -30615,7 +31913,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Gary Sinise",
+        "Director":[
+            "Gary Sinise"
+        ],
         "Writer":[
             "John Steinbeck",
             "Horton Foote"
@@ -30666,7 +31966,9 @@
             "Drama",
             "Fantasy"
         ],
-        "Director":"Jim Jarmusch",
+        "Director":[
+            "Jim Jarmusch"
+        ],
         "Writer":[
             "Jim Jarmusch"
         ],
@@ -30716,7 +32018,9 @@
             "Drama",
             "Romance"
         ],
-        "Director":"Kevin Costner",
+        "Director":[
+            "Kevin Costner"
+        ],
         "Writer":[
             "Lauran Paine",
             "Craig Storper"
@@ -30767,7 +32071,9 @@
             "Comedy",
             "Sci-Fi"
         ],
-        "Director":"Robert Zemeckis",
+        "Director":[
+            "Robert Zemeckis"
+        ],
         "Writer":[
             "Robert Zemeckis",
             "Bob Gale"
@@ -30818,7 +32124,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Henry Hathaway",
+        "Director":[
+            "Henry Hathaway"
+        ],
         "Writer":[
             "Charles Portis",
             "Marguerite Roberts"
@@ -30869,7 +32177,9 @@
             "Mystery",
             "Western"
         ],
-        "Director":"Clint Eastwood",
+        "Director":[
+            "Clint Eastwood"
+        ],
         "Writer":[
             "Ernest Tidyman",
             "Dean Riesner"
@@ -30920,7 +32230,9 @@
             "Mystery",
             "Western"
         ],
-        "Director":"John Sayles",
+        "Director":[
+            "John Sayles"
+        ],
         "Writer":[
             "John Sayles"
         ],
@@ -30970,7 +32282,9 @@
             "Comedy",
             "Fantasy"
         ],
-        "Director":"\u00d6mer Faruk Sorak",
+        "Director":[
+            "\u00d6mer Faruk Sorak"
+        ],
         "Writer":[
             "Cem Yilmaz"
         ],
@@ -31012,7 +32326,10 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Ethan Coen, Joel Coen",
+        "Director":[
+            "Ethan Coen",
+            "Joel Coen"
+        ],
         "Writer":[
             "Joel Coen",
             "Ethan Coen",
@@ -31063,7 +32380,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"Clint Eastwood",
+        "Director":[
+            "Clint Eastwood"
+        ],
         "Writer":[
             "Michael Butler",
             "Dennis Shryack"
@@ -31114,7 +32433,9 @@
             "Drama",
             "Musical"
         ],
-        "Director":"Stanley Donen",
+        "Director":[
+            "Stanley Donen"
+        ],
         "Writer":[
             "Albert Hackett",
             "Frances Goodrich",
@@ -31166,7 +32487,9 @@
             "Drama",
             "Western"
         ],
-        "Director":"John Hillcoat",
+        "Director":[
+            "John Hillcoat"
+        ],
         "Writer":[
             "Nick Cave"
         ],
