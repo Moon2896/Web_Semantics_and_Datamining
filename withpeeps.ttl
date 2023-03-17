@@ -11,6 +11,14 @@
                                                              owl:versionInfo "" .
 
 #################################################################
+#    Annotation properties
+#################################################################
+
+###  http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled
+<http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled> rdf:type owl:AnnotationProperty .
+
+
+#################################################################
 #    Object Properties
 #################################################################
 
@@ -266,6 +274,11 @@ webSem:Director rdf:type owl:Class ;
 webSem:Movie rdf:type owl:Class ;
              owl:disjointWith webSem:Person ,
                               webSem:Theater .
+
+
+###  http://www.semanticweb.org/marya/ontologies/2023/2/webSem#OldActor
+webSem:OldActor rdf:type owl:Class ;
+                rdfs:subClassOf webSem:Actor .
 
 
 ###  http://www.semanticweb.org/marya/ontologies/2023/2/webSem#Person
@@ -29798,5 +29811,52 @@ webSem:VampireHunterD:Bloodlust rdf:type owl:NamedIndividual ,
                                                                               webSem:title "tick, tick... BOOM!" ;
                                                                               webSem:year "2021"^^xsd:int .
 
+
+#################################################################
+#    Rules
+#################################################################
+
+<x> rdf:type <http://www.w3.org/2003/11/swrl#Variable> .
+
+<a> rdf:type <http://www.w3.org/2003/11/swrl#Variable> .
+
+[ <http://swrl.stanford.edu/ontologies/3.3/swrla.owl#isRuleEnabled> "true"^^xsd:boolean ;
+   rdfs:comment "" ;
+   rdfs:label "OldActor" ;
+   rdf:type <http://www.w3.org/2003/11/swrl#Imp> ;
+   <http://www.w3.org/2003/11/swrl#body> [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                           rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#ClassAtom> ;
+                                                       <http://www.w3.org/2003/11/swrl#classPredicate> webSem:Actor ;
+                                                       <http://www.w3.org/2003/11/swrl#argument1> <x>
+                                                     ] ;
+                                           rdf:rest [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                                      rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#DatavaluedPropertyAtom> ;
+                                                                  <http://www.w3.org/2003/11/swrl#propertyPredicate> webSem:age ;
+                                                                  <http://www.w3.org/2003/11/swrl#argument1> <x> ;
+                                                                  <http://www.w3.org/2003/11/swrl#argument2> <a>
+                                                                ] ;
+                                                      rdf:rest [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                                                 rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#BuiltinAtom> ;
+                                                                             <http://www.w3.org/2003/11/swrl#builtin> <http://www.w3.org/2003/11/swrlb#greaterThan> ;
+                                                                             <http://www.w3.org/2003/11/swrl#arguments> [ rdf:type rdf:List ;
+                                                                                                                          rdf:first <a> ;
+                                                                                                                          rdf:rest [ rdf:type rdf:List ;
+                                                                                                                                     rdf:first 50 ;
+                                                                                                                                     rdf:rest rdf:nil
+                                                                                                                                   ]
+                                                                                                                        ]
+                                                                           ] ;
+                                                                 rdf:rest rdf:nil
+                                                               ]
+                                                    ]
+                                         ] ;
+   <http://www.w3.org/2003/11/swrl#head> [ rdf:type <http://www.w3.org/2003/11/swrl#AtomList> ;
+                                           rdf:first [ rdf:type <http://www.w3.org/2003/11/swrl#ClassAtom> ;
+                                                       <http://www.w3.org/2003/11/swrl#classPredicate> webSem:OldActor ;
+                                                       <http://www.w3.org/2003/11/swrl#argument1> <x>
+                                                     ] ;
+                                           rdf:rest rdf:nil
+                                         ]
+ ] .
 
 ###  Generated by the OWL API (version 4.5.25.2023-02-15T19:15:49Z) https://github.com/owlcs/owlapi
