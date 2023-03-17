@@ -12,10 +12,6 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Prefix name="webSem" IRI="http://www.semanticweb.org/marya/ontologies/2023/2/webSem#"/>
-    <Annotation>
-        <AnnotationProperty abbreviatedIRI="owl:versionInfo"/>
-        <Literal></Literal>
-    </Annotation>
     <Declaration>
         <Class IRI="#Actor"/>
     </Declaration>
